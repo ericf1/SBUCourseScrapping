@@ -15,8 +15,6 @@ children = results.find_all('a')[::2]
 
 all_course_types = [child.contents[0] for child in children]
 
-# all_course_types = [all_course_types[0], all_course_types[1]]
-
 
 def get_info_from_course_type(course_type):
     r = requests.get(
@@ -49,15 +47,33 @@ with concurrent.futures.ThreadPoolExecutor() as executor:
             # print(credit)
 
             SBCs = single_course_name.find_all("a")
+            partially = single_course_name.find_all(
+                "span", {"class": "partial-message"})
+            partially_fulfilled_list = None
+            if partially:
+                for partially_fulfilled in partially:
+                    partially_fulfilled_list = [partially_fulfilled_content.contents[0]
+                                                for partially_fulfilled_content in partially_fulfilled.find_all("a")]
+                    partially = f'Partially Fulfilled: {", ".join(partially_fulfilled_list)}'
+
             if SBCs:
-                SBCs = " ".join([SBC.contents[0] for SBC in SBCs])
+                all_SBCs = [SBC.contents[0] for SBC in SBCs]
+                if partially_fulfilled_list is not None:
+                    all_SBCs = set(all_SBCs).symmetric_difference(
+                        set(partially_fulfilled_list))
+                    all_SBCs = list(all_SBCs)
+                    all_SBCs.append(partially)
+
+                all_SBCs = ", ".join(all_SBCs)
             else:
-                SBCs = ""
+                all_SBCs = ""
+
             data = {'Course #': f"{department} {course_number}", 'Dep': department, 'ID': course_number,
-                    'Course Name': course_name_condensed, 'SBC': SBCs, 'Credits': credit}
+                    'Course Name': course_name_condensed, 'SBC': all_SBCs, 'Credits': credit}
             allData.append(data)
             # print(SBCs)
 
 df = pd.DataFrame(
     allData, columns=['Course #', 'Dep', 'ID', 'Course Name', 'SBC', 'Credits'])
-df.to_csv('SBU.csv', sep='\t', encoding='utf-8', index=False)
+# df.to_csv('SBU.csv', sep='\t', encoding='utf-8', index=False)
+df.to_excel('SBU.xlsx', engine='xlsxwriter', index=False)
