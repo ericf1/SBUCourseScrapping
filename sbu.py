@@ -15,13 +15,11 @@ children = results.find_all('a')[::2]
 
 all_course_types = [child.contents[0] for child in children]
 
-all_course_types = ["CSE"]
-
 
 def get_info_from_course_type(course_type):
     r = requests.get(
         f'https://www.stonybrook.edu/sb/bulletin/current/courses/{course_type}/')
-    return r
+    return r, course_type
 
 
 allData = []
@@ -29,7 +27,7 @@ with concurrent.futures.ThreadPoolExecutor() as executor:
     # print(all_course_types)
     results = executor.map(get_info_from_course_type, all_course_types)
 
-    for r in results:
+    for r, ct in results:
         soup = BeautifulSoup(r.content, "html.parser")
         course_name = soup.find_all("div", class_="course")
         for single_course_name in course_name:
@@ -72,17 +70,23 @@ with concurrent.futures.ThreadPoolExecutor() as executor:
             combined_reqs = {}
 
             req_checks = single_course_name.find_all("p")
+            req_checks.pop(0)
             all_reqs = [
-                req_check.contents[0] for req_check in req_checks if req_check.contents and "requisite" in req_check.contents[0]]
+                req_check.contents[0] for req_check in req_checks if req_check.contents and "requisite " in req_check.contents[0]]
             if all_reqs:
                 all_reqs_array = all_reqs[0].split(": ")
-                combined_reqs[all_reqs_array[0]] = [all_reqs_array[1].lstrip()]
+                if "Prerequisite must be met within one year" in all_reqs_array[0]:
+                    combined_reqs["Requirements"] = all_reqs_array[0]
+                else:
+                    combined_reqs[all_reqs_array[0]] = [
+                        all_reqs_array[1].lstrip()]
 
             for req_check in req_checks:
                 req_check_with_i = req_check.find("i")
                 if req_check_with_i:
-                    combined_reqs[req_check_with_i.contents[0]
-                                  [:-1]] = [req_check_with_i.lstrip() for req_check_with_i in req_check_with_i.parent.contents[2][1:-4:].lstrip().split("; ")]
+                    if req_check_with_i.contents:
+                        combined_reqs[req_check_with_i.contents[0]
+                                      [:-1]] = [req_check_with_i.lstrip() for req_check_with_i in req_check_with_i.parent.contents[2][1:-4:].lstrip().split("; ")]
 
             formatted_all_reqs = {}
             for key, value in combined_reqs.items():
@@ -101,6 +105,12 @@ with concurrent.futures.ThreadPoolExecutor() as executor:
                 elif "requisite" in key or "Requisite" in key:
                     formatted_all_reqs["Prerequisite"] = "; ".join(
                         value)
+                elif "Requirements" in key:
+                    formatted_all_reqs["Requirements"] = "; ".join(
+                        value)
+                elif "Maj/Min":
+                    formatted_all_reqs["Maj/Min"] = "; ".join(
+                        value)
                 else:
                     print(f"{key}: {value} ERROR :^)")
             # print(combined_reqs)
@@ -109,6 +119,6 @@ with concurrent.futures.ThreadPoolExecutor() as executor:
             data.update(formatted_all_reqs)
             allData.append(data)
 df = pd.DataFrame(allData, columns=['Course #', 'Dep', 'ID', 'Course Name', 'SBC',
-                  'Credits', 'Prerequisite', 'Corequisite', 'Advisory Prerequisite', 'Advisory Prerequisite or Corequisite'])
+                  'Credits', 'Prerequisite', 'Corequisite', 'Requirements', 'Advisory Prerequisite', 'Advisory Prerequisite or Corequisite', 'Maj/Min'])
 df.to_excel('BetterSBU.xlsx', engine='xlsxwriter', index=False)
 # df.to_csv('SBU.csv', sep='\t', encoding='utf-8', index=False)
