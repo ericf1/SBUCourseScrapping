@@ -1,0 +1,3042 @@
+Course #	Dep	ID	Course Name	SBC	Credits
+AAS 102	AAS	102	Eastern Religions	GLO HUM	3
+AAS 110	AAS	110	Appreciating Indian Music	ARTS	3
+AAS 201	AAS	201	Introduction to the Civilization of the Indian Subcontinent	GLO	3
+AAS 209	AAS	209	Indian Classical Dance: Bharatanatyam	ARTS	3
+AAS 211	AAS	211	Asian and Asian American Studies Topics in the Social Sciences	SBS	3
+AAS 212	AAS	212	Asian and Asian American Studies Topics in the Humanities	HUM	3
+AAS 215	AAS	215	Classical Performing Arts of India	ARTS	3
+AAS 216	AAS	216	Introduction to Japanese Studies	ESI GLO	3
+AAS 217	AAS	217	Introduction to Korean Culture	GLO HUM	3
+AAS 218	AAS	218	Ancient, Medieval, & Early Modern South Asia	GLO HUM	3
+AAS 219	AAS	219	Japan in the Age of Courtier and Samurai	GLO SBS	3
+AAS 220	AAS	220	China: Language and Culture	GLO SBS	3
+AAS 221	AAS	221	China: Science and Civilization	STAS	3
+AAS 222	AAS	222	Indian Cinemas and Cultures	ARTS GLO	3
+AAS 232	AAS	232	Introduction to Asian American Fiction and Film	HUM USA	3
+AAS 236	AAS	236	Korean Religions	GLO HUM	3
+AAS 237	AAS	237	Introduction to Japanese Literature	HUM	3
+AAS 240	AAS	240	Confucianism and Daoism	GLO HUM	3
+AAS 247	AAS	247	Modern Korea through Visual Culture	GLO SBS	3
+AAS 250	AAS	250	Languages and Cultures of Asian Americans	SBS USA	3
+AAS 256	AAS	256	Hinduism	GLO HUM	3
+AAS 260	AAS	260	Buddhism	GLO HUM	3
+AAS 280	AAS	280	Islam	GLO HUM	3
+AAS 287	AAS	287	Islam in China	GLO HUM	3
+AAS 300	AAS	300	Intellectual History of East Asia	HFA+	3
+AAS 305	AAS	305	The Pacific, Travel & Empire	HFA+	3
+AAS 307	AAS	307	Women in U.S.-Asian Relations	SBS+ SPK	3
+AAS 310	AAS	310	America's Wars in Asia	SBS+ WRTD	3
+AAS 320	AAS	320	Literature of India	HFA+	3
+AAS 321	AAS	321	Korean Literature	HFA+	3
+AAS 322	AAS	322	Literature of Japan	HFA+	3
+AAS 323	AAS	323	Language and Society in South Korea	GLO SBS+	3
+AAS 324	AAS	324	Language and Society in North Korea	GLO SBS+	3
+AAS 326	AAS	326	Indian Mythology	HFA+	3
+AAS 327	AAS	327	Great Epics of India: Ramayana and Mahabharata	HFA+	3
+AAS 328	AAS	328	Race, Humor and Asian America	HFA+ USA	3
+AAS 330	AAS	330	Language and Society in South Asia	SBS+	3
+AAS 331	AAS	331	Japanese Literature in the Feminine Domain	HFA+	3
+AAS 332	AAS	332	Japanese Literature in the Meiji Era	HFA+	3
+AAS 334	AAS	334	English in Asia	SBS+	3
+AAS 336	AAS	336	Asian and Pacific Islanders in American History	SBS+	3
+AAS 337	AAS	337	History of Korea	SBS+	3
+AAS 338	AAS	338	Contemporary India: History, Politics, and Diplomacy	GLO SBS+	3
+AAS 339	AAS	339	Contemporary China: History, Politics, and Diplomacy	GLO SBS+	3
+AAS 340	AAS	340	Topics in Asian History	GLO SBS+	3
+AAS 343	AAS	343	Modern Japan	GLO SBS+	3
+AAS 344	AAS	344	Learning of Asian Languages	GLO SBS	3
+AAS 351	AAS	351	Revolutionary China: Politics, Culture, and Power	SBS+	3
+AAS 352	AAS	352	Environmental History of China	STAS	3
+AAS 353	AAS	353	Postwar Japan	GLO SBS+	3
+AAS 357	AAS	357	India's Foreign Policy	SBS+	3
+AAS 366	AAS	366	Feminine Spirituality	HFA+	3
+AAS 367	AAS	367	Meditation and Enlightenment	HFA+	3
+AAS 368	AAS	368	Yoga: Theory and Praxis	HFA+	3
+AAS 370	AAS	370	Intercultural Communication	SBS+	3
+AAS 371	AAS	371	Ancient China	SBS+	3
+AAS 372	AAS	372	Family, Marriage, and Kinship in China	SBS+	3
+AAS 379	AAS	379	Cultural Diversity in China	SBS+	3
+AAS 380	AAS	380	Islamic Classics	HFA+	3
+AAS 382	AAS	382	Japanese Buddhism	HFA+	3
+AAS 385	AAS	385	Translation Studies of Asian Languages	CER	3
+AAS 387	AAS	387	Islam and Confucianism	HFA+	3
+AAS 391	AAS	391	Humanities Topics in Asian and Asian American Studies	HFA+	3
+AAS 392	AAS	392	Social Science Topics in Asian and Asian American Studies	SBS+	3
+AAS 394	AAS	394	Topics in Asian Art	GLO HFA+	3
+AAS 396	AAS	396	Topics in Sinophone Literature and Culture	GLO HFA+	3
+AAS 400	AAS	400	Seminar in Korean Studies		3
+AAS 401	AAS	401	Senior Seminar in Asian and Asian American Studies	SPK WRTD	3
+AAS 440	AAS	440	Inter-Asia Cultural Studies	GLO HFA+	3
+AAS 444	AAS	444	Experiential Learning	EXP+	0
+AAS 447	AAS	447	Directed Readings in Asian and Asian American Studies		1-6
+AAS 458	AAS	458	Speak Effectively Before an Audience	SPK	0
+AAS 459	AAS	459	Write Effectively in Asian and Asian American Studies	WRTD	0
+AAS 472	AAS	472	Topics in Asian Philosophy (I)	ESI HFA+	3
+AAS 473	AAS	473	Orientalism	HFA+	3
+AAS 475	AAS	475	Undergraduate Teaching Practicum I	EXP+	3
+AAS 476	AAS	476	Undergraduate Teaching Practicum II	EXP+	3
+AAS 487	AAS	487	Supervised Research in Asian and Asian American Studies		0-3
+AAS 488	AAS	488	Internship	EXP+	0-6
+AAS 495	AAS	495	Senior Honors Project in AAS		3
+ACC 210	ACC	210	Financial Accounting		3
+ACC 214	ACC	214	Managerial Cost Analysis and Applications		3
+ACC 310	ACC	310	Intermediate Accounting I		3
+ACC 311	ACC	311	Federal Income Taxation I		3
+ACC 313	ACC	313	Intermediate Accounting II		3
+ACC 314	ACC	314	Federal Income Taxation II		3
+ACC 400	ACC	400	External Auditing		3
+ADV 101	ADV	101	Advising 101: Transfer Seminar		1
+ADV 201	ADV	201	Preparing for Medical School		1
+ADV 202	ADV	202	Academic Success Seminar		2
+ADV 475	ADV	475	Undergraduate Teaching Practicum I	EXP+	0-3
+ADV 476	ADV	476	Undergraduate Teaching Practicum II	EXP+	0-3
+ADV 488	ADV	488	Academic and Transfer Advising Services Internship	EXP+	3
+AFH 205	AFH	205	Contemporary African Literature	GLO HUM	3
+AFH 206	AFH	206	Great Books of the Black Experience	HUM	3
+AFH 215	AFH	215	Hip Hop and the Intellectual Tradition	HUM	3
+AFH 249	AFH	249	African-American Literature and Music in the 19th and 20th Centuries	HFA+	3
+AFH 282	AFH	282	Contemporary Caribbean Women's Literature	DIV GLO HUM	3
+AFH 329	AFH	329	Pan-African Literature I	GLO HFA+	3
+AFH 330	AFH	330	Pan-African Literature II	GLO HFA+	3
+AFH 339	AFH	339	Arts of the African Diaspora	HFA+	3
+AFH 368	AFH	368	Caribbean and American Connections in Literature	HFA+	3
+AFH 379	AFH	379	Philosophy of Race (III)	CER HFA+ USA	3
+AFH 380	AFH	380	African American and Caribbean Theatre	GLO HFA+	3
+AFH 382	AFH	382	Black Women's Literature of the African Diaspora	DIV HFA+	3
+AFH 385	AFH	385	French Caribbean Literature	HFA+	3
+AFH 390	AFH	390	Topics in Africana Studies	HFA+	3
+AFH 391	AFH	391	Topics in Africana Studies	HFA+	3
+AFH 423	AFH	423	Africana Literature in French	HFA+	3
+AFH 444	AFH	444	Experiential Learning	EXP+	0
+AFH 447	AFH	447	Readings in Africana Studies	ESI	1-3
+AFH 475	AFH	475	Undergraduate Teaching Practicum I	EXP+	3
+AFH 476	AFH	476	Undergraduate Teaching Practicum II	EXP+	3
+AFH 487	AFH	487	Research in Africana Studies	ESI	0-3
+AFS 101	AFS	101	Themes in the Black Experience I	CER SBS USA	3
+AFS 102	AFS	102	Themes in the Black Experience II	CER SBS USA	3
+AFS 221	AFS	221	Introduction to Modern African History	GLO SBS	3
+AFS 223	AFS	223	Regional History of Africa	GLO SBS	3
+AFS 239	AFS	239	Introduction to the Caribbean Experience	GLO	3
+AFS 240	AFS	240	Issues in Caribbean Society	GLO	3
+AFS 277	AFS	277	The Modern Color Line	USA	3
+AFS 283	AFS	283	Community Service	EXP+	3
+AFS 300	AFS	300	Blacks in the City	SBS+	3
+AFS 306	AFS	306	Gender and Public Health in Africa	GLO SBS+	3
+AFS 308	AFS	308	Women Islam and Political Change in Africa	GLO SBS+	3
+AFS 310	AFS	310	American Attitudes Toward Race	SBS+	3
+AFS 319	AFS	319	The Politics of Race	SBS+	3
+AFS 320	AFS	320	Black Popular Culture and the Terrain	HFA+	3
+AFS 325	AFS	325	Civil Rights and Black Power	SBS+	3
+AFS 337	AFS	337	The Politics of Africa	SBS+	3
+AFS 339	AFS	339	Recent African American History	SBS+ USA	3
+AFS 340	AFS	340	Human Rights and Africa	CER DIV SBS+ SPK	3
+AFS 345	AFS	345	Culture and Gender: Women in Africa and the Caribbean	SBS+	3
+AFS 346	AFS	346	Political and Social History of Africa	SBS+	3
+AFS 350	AFS	350	Black Women and Social Change: A Cross-Cultural Perspective	SBS+	3
+AFS 355	AFS	355	Ancient African Civilizations	GLO SBS+	3
+AFS 360	AFS	360	African-American Social Commentary	SBS+ USA	3
+AFS 363	AFS	363	Blacks and Mass Media	SBS+	3
+AFS 365	AFS	365	Global Africa	GLO SBS+	3
+AFS 368	AFS	368	Health and Disease in Africa	SBS+	3
+AFS 369	AFS	369	Religion and Politics in Africa	CER SBS+	3
+AFS 370	AFS	370	The African-American Family	HFA+ USA	3
+AFS 372	AFS	372	African-American Political Thought	SBS+ USA	3
+AFS 373	AFS	373	Sexualities: African and Caribbean Perspectives	DIV SBS+	3
+AFS 374	AFS	374	Environment and Development in African History	GLO SBS+	3
+AFS 375	AFS	375	Slavery	SBS+	3
+AFS 380	AFS	380	Race and Ethnicity in Latin America and the Caribbean	GLO SBS+	3
+AFS 381	AFS	381	AIDS, Race, and Gender in the Black Community	SBS+	3
+AFS 382	AFS	382	Race, Ethnicity and the Environment		3
+AFS 383	AFS	383	The Global African Diaspora in Comparative Perspective	DIV GLO SBS+	3
+AFS 392	AFS	392	The Black Power Movement	SBS+	3
+AFS 393	AFS	393	The Caribbean Immigrants in the United States: Dreams and Realities	SBS+ USA	3
+AFS 394	AFS	394	Black Nationalism in America	SBS+	3
+AFS 396	AFS	396	Topics in African-American History	SBS+	3
+AFS 410	AFS	410	Computers and Technology in Africa	STAS	3
+AFS 421	AFS	421	Topics in Africana Studies		3
+AFS 422	AFS	422	Topics in Africana Studies		3
+AFS 444	AFS	444	Experiential Learning	EXP+	0
+AFS 447	AFS	447	Readings in Africana Studies	ESI	1-3
+AFS 459	AFS	459	Write Effectively in Africana Studies	WRTD	0
+AFS 475	AFS	475	Undergraduate Teaching Practicum I	EXP+	3
+AFS 476	AFS	476	Undergraduate Teaching Practicum II	EXP+	3
+AFS 477	AFS	477	Qualitative & Mixed Methods	CER ESI SBS+	3
+AFS 487	AFS	487	Research in Africana Studies	ESI	0-3
+AFS 488	AFS	488	Internship	EXP+	0-6
+AFS 491	AFS	491	Interdisciplinary Seminar in Africana Studies		3
+AIM 100	AIM	100	EOP Pre-Freshman Summer Academic Bridge		3
+AIM 101	AIM	101	EOP Pre-Freshman Summer Support Bridge		3
+AIM 102	AIM	102	Expository Writing		3
+AIM 104	AIM	104	Literary Analysis and Critical Reasoning	HUM	3
+AMR 101	AMR	101	Local and Global: National Boundaries and World-Systems	GLO SBS	3
+AMR 102	AMR	102	Making American Identities	SBS USA	3
+AMR 301	AMR	301	Ethnicity and Race in American History	ESI SBS+ WRTD	3
+AMR 390	AMR	390	Humanities Topics in American Studies	HFA+	3
+AMR 392	AMR	392	Social and Behavioral Sciences Topics in American Studies	SBS+	3
+AMR 395	AMR	395	Topics in American Studies	SBS+	3
+AMR 397	AMR	397	Topics in American Studies	SBS+	3
+AMR 401	AMR	401	Senior Seminar in American Studies		3
+AMR 444	AMR	444	Experiential Learning	EXP+	0
+AMR 447	AMR	447	Directed Readings in American Studies		1-6
+AMR 458	AMR	458	Speak Effectively Before an Audience	SPK	0
+AMR 475	AMR	475	Undergraduate Teaching Practicum I	EXP+	3
+AMR 476	AMR	476	Undergraduate Teaching Practicum II	EXP+	3
+AMR 487	AMR	487	Independent Research		0-6
+AMR 488	AMR	488	Internship	EXP+	0-6
+AMR 495	AMR	495	Senior Honors Project in American Studies		3
+AMS 102	AMS	102	Elements of Statistics	QPS	3
+AMS 103	AMS	103	Applied Mathematics in Modern Technology	QPS TECH	3
+AMS 104	AMS	104	Spreadsheet Technology and Applications	QPS TECH	3
+AMS 105	AMS	105	Introduction to Business Statistics		3
+AMS 110	AMS	110	Probability and Statistics in the Life Sciences	QPS	3
+AMS 151	AMS	151	Applied Calculus I	QPS	3
+AMS 161	AMS	161	Applied Calculus II	QPS	3
+AMS 210	AMS	210	Applied Linear Algebra	STEM+	3
+AMS 261	AMS	261	Applied Calculus III	STEM+	4
+AMS 300	AMS	300	Writing in Applied Mathematics	SPK WRTD	1
+AMS 301	AMS	301	Finite Mathematical Structures	STEM+	3
+AMS 303	AMS	303	Graph Theory		3
+AMS 310	AMS	310	Survey of Probability and Statistics	STEM+	3
+AMS 311	AMS	311	Probability Theory		3
+AMS 315	AMS	315	Data Analysis	CER ESI	3
+AMS 316	AMS	316	Introduction to Time Series Analysis	SBS+	3
+AMS 317	AMS	317	Introduction to Linear Regression Analysis		3
+AMS 318	AMS	318	Financial Mathematics	WRTD	3
+AMS 320	AMS	320	Introduction to Quantitative Finance		3
+AMS 325	AMS	325	Computing and Programming Fundamentals in Applied Mathematics and Statistics		3
+AMS 326	AMS	326	Numerical Analysis		3
+AMS 332	AMS	332	Computational Modeling of Physiological Systems		3
+AMS 333	AMS	333	Mathematical Biology	EXP+ WRTD	3
+AMS 335	AMS	335	Game Theory	SBS+	3
+AMS 341	AMS	341	Operations Research I: Deterministic Models	SBS+	3
+AMS 342	AMS	342	Operations Research II: Stochastic Models	SBS+	3
+AMS 345	AMS	345	Computational Geometry		3
+AMS 351	AMS	351	Applied Algebra		3
+AMS 361	AMS	361	Applied Calculus IV: Differential Equations	STEM+	4
+AMS 380	AMS	380	Data Mining		3
+AMS 394	AMS	394	Statistical Laboratory	CER ESI EXP+	3
+AMS 410	AMS	410	Actuarial Mathematics		3
+AMS 412	AMS	412	Mathematical Statistics	CER ESI EXP+	3
+AMS 441	AMS	441	Business Enterprise		3
+AMS 458	AMS	458	Speak Effectively Before an Audience	SPK	0
+AMS 459	AMS	459	Write Effectively in Applied Mathematics	WRTD	0
+AMS 475	AMS	475	Undergraduate Teaching Practicum	EXP+ SPK	3
+AMS 476	AMS	476	Undergraduate Teaching Practicum	EXP+ SPK	3
+AMS 487	AMS	487	Research in Applied Mathematics	EXP+ WRTD	0-3
+AMS 492	AMS	492	Topics in Applied Mathematics		3
+ANP 101	ANP	101	Human Biology	SNW	3
+ANP 120	ANP	120	Introduction to Biological Anthropology	SNW	3
+ANP 121	ANP	121	Biological Anthropology Laboratory		1
+ANP 201	ANP	201	Human Evolution	SNW	3
+ANP 202	ANP	202	People and Pups: Dog Behavior and Human-Canine Relationships	STAS	3
+ANP 220	ANP	220	Controversies in Human Biology and Behavior	STAS	3
+ANP 250	ANP	250	Forensic Anthropology	SNW	3
+ANP 300	ANP	300	Human Anatomy	STEM+	4
+ANP 304	ANP	304	Ecology: Linking People and Nature (with emphasis on the Turkana Basin)	SNW TECH	3
+ANP 305	ANP	305	Earth & Life Through Time: Vertebrate Paleontology & Paleoecology (emphasis on Turkana Basin)	SNW TECH	3
+ANP 306	ANP	306	Human Evolution (and evidence from the Turkana Basin)	STEM+ ESI	3
+ANP 307	ANP	307	Comparing Ecosystems in Madagascar	SNW	3
+ANP 308	ANP	308	Paleoanthropological Field Methods in the Turkana Basin	STEM+ EXP+ TECH	3
+ANP 310	ANP	310	Environments, Ecosystems and Evolution: Evidence from the Turkana Basin	GLO SNW EXP+ TECH	3
+ANP 315	ANP	315	Climate Change and Human Evolution	STEM+	3
+ANP 321	ANP	321	Primate Evolution	STEM+	3
+ANP 326	ANP	326	Lemurs of Madagascar	STEM+	3
+ANP 350	ANP	350	Methods in Studying Primates		3
+ANP 351	ANP	351	Biodiversity Assessment Methods for Tropical Field Research		3
+ANP 360	ANP	360	Primate Conservation	STAS	3
+ANP 387	ANP	387	Independent Biodiversity Research Project in Madagascar		3
+ANP 391	ANP	391	Topics in Biological Anthropology		3
+ANP 399	ANP	399	Advanced Field Research in the Turkana Basin		3-1
+ANP 401	ANP	401	Pastoralism under pressure: Savannas, Societies, and Sustainability in East Africa	ESI STAS	3
+ANP 403	ANP	403	Seminar in Biological Anthropology		3
+ANP 404	ANP	404	Human Osteology	ESI STEM+	3
+ANP 405	ANP	405	Human Evolution in the Headlines		3
+ANP 406	ANP	406	Pseudoscience and Anthropology	STAS	3
+ANP 407	ANP	407	Building Bones: Bone Development and Evolution	SPK STEM+	3
+ANP 410	ANP	410	Comparative Primate Anatomy	ESI STEM+	4
+ANP 444	ANP	444	Experiential Learning	EXP+	0
+ANP 447	ANP	447	Readings in Biological Anthropology		3
+ANP 475	ANP	475	Undergraduate Teaching Practicum I	EXP+	3
+ANP 476	ANP	476	Undergraduate Teaching Practicum II	EXP+	3
+ANP 487	ANP	487	Independent Research in Biological Anthropology	EXP+	0-6
+ANP 488	ANP	488	Internship in Biological Anthropology	EXP+	0-6
+ANP 495	ANP	495	Senior Honors Project in Anthropology		3
+ANP 496	ANP	496	Senior Honors Project in Anthropology	EXP+	3
+ANT 102	ANT	102	What Makes Us Human?	GLO SBS	3
+ANT 103	ANT	103	Archaeology for a Better World	GLO SBS	3
+ANT 104	ANT	104	Archaeology	SBS	3
+ANT 200	ANT	200	Contemporary and Historical Perspectives on Insular Southeast Asia	GLO SBS+	3
+ANT 203	ANT	203	Native Americans	DIV GLO	3
+ANT 207	ANT	207	From Cavemen to Vikings: The Prehistoric Archaeology of Europe	GLO	3
+ANT 208	ANT	208	Zombiology: What the Walking Dead Can Teach Us About Real Humans	STAS	3
+ANT 210	ANT	210	Sunken Cities and Pirates: The World of Underwater Archaeology	SBS	3
+ANT 215	ANT	215	Climate and Culture	STAS	3
+ANT 230	ANT	230	Peoples of the World	SBS+	3
+ANT 250	ANT	250	African Cultures Today	GLO	3
+ANT 260	ANT	260	How We Eat	SBS USA	3
+ANT 268	ANT	268	Archaeology of Human Origins	SNW	3
+ANT 270	ANT	270	Great Archaeological Discoveries	GLO SBS	3
+ANT 273	ANT	273	The Unstoppable Species?	SNW	3
+ANT 277	ANT	277	The Origins of Art	ARTS	3
+ANT 290	ANT	290	Science and Technology in Ancient Society	STAS	3
+ANT 305	ANT	305	Culture and Language of Madagascar	GLO SBS+	3
+ANT 307	ANT	307	Prehistoric Archaeology of Africa (with emphasis on the Turkana Basin)	SBS+ SPK ESI	3
+ANT 311	ANT	311	Immersion in Another Culture	DIV SBS+	3
+ANT 315	ANT	315	Following in Darwin's Footsteps: Winter in Ecuador & the Galapagos	DIV STAS	3
+ANT 320	ANT	320	Historical Archaeology		3
+ANT 321	ANT	321	Archaeological Field Methods	SBS+ EXP+ TECH	3-6
+ANT 350	ANT	350	Medical Anthropology	SBS+	3
+ANT 351	ANT	351	Comparative Religion	SBS+	3
+ANT 355	ANT	355	Ancient African Civilizations	GLO SBS+	3
+ANT 357	ANT	357	The Agricultural Revolution	ESI SBS+	3
+ANT 358	ANT	358	The Origins of Social Inequality: First Cities	GLO SBS+	3
+ANT 359	ANT	359	The Archaeology of Food	SBS+ SPK	3
+ANT 360	ANT	360	Ancient Mesopotamia	GLO SBS+	3
+ANT 363	ANT	363	Approaches in Archaeology	SBS+	3
+ANT 367	ANT	367	Male and Female	ESI SBS+	3
+ANT 371	ANT	371	Ancient China	SBS+	3
+ANT 372	ANT	372	Family, Marriage, and Kinship in China	SBS+	3
+ANT 377	ANT	377	Animal Tool Use	ESI SNW	3
+ANT 379	ANT	379	Cultural Diversity in China	SBS+	3
+ANT 380	ANT	380	Race and Ethnicity in Latin America and the Caribbean	GLO SBS+	3
+ANT 381	ANT	381	Applied Anthropology	SBS+	3
+ANT 387	ANT	387	Independent Cultural Research Project in Madagascar		3
+ANT 390	ANT	390	Topics in Social and Cultural Anthropology	SBS+	3
+ANT 391	ANT	391	Topics in Social and Cultural Anthropology	SBS+	3
+ANT 393	ANT	393	Topics in Archaeology	SBS+	3
+ANT 394	ANT	394	Topics in Archaeology	SBS+	3
+ANT 399	ANT	399	Advanced Field Research in the Turkana Basin		3-1
+ANT 401	ANT	401	Problems in Social and Cultural Anthropology		3
+ANT 402	ANT	402	Problems in Archaeology	ESI SBS+	3
+ANT 410	ANT	410	Ethnobotany and Paleoethnobotany	SBS+	3
+ANT 415	ANT	415	Ethnoarchaeology	ESI SPK	3
+ANT 416	ANT	416	Research Design in Archaeology	ESI	3
+ANT 418	ANT	418	Stone Tools in Human Evolution	ESI SPK TECH	3
+ANT 419	ANT	419	Zooarchaeology	SBS+	3
+ANT 420	ANT	420	Environmental Analysis Using Remote Sensing and Geographic Information Systems	TECH	4
+ANT 444	ANT	444	Experiential Learning	EXP+	0
+ANT 447	ANT	447	Readings in Anthropology		3
+ANT 458	ANT	458	Speak Effectively Before an Audience	SPK	0
+ANT 459	ANT	459	Write Effectively in Anthropology	WRTD	0
+ANT 475	ANT	475	Undergraduate Teaching Practicum I	EXP+	3
+ANT 476	ANT	476	Undergraduate Teaching Practicum II	EXP+	3
+ANT 487	ANT	487	Independent Research in Anthropology	EXP+	0-6
+ANT 488	ANT	488	Internship	EXP+	0-6
+ANT 495	ANT	495	Senior Honors Project in Anthropology		3
+ANT 496	ANT	496	Senior Honors Project in Anthropology	EXP+	3
+ARB 101	ARB	101	Intensive Elementary Arabic	LANG	6
+ARB 111	ARB	111	Elementary Arabic I	LANG	3
+ARB 112	ARB	112	Elementary Arabic II	LANG	3
+ARB 201	ARB	201	Intensive Intermediate Arabic	GLO HUM LANG	6
+ARB 211	ARB	211	Intermediate Arabic I	GLO LANG	3
+ARB 212	ARB	212	Intermediate Arabic II	GLO HUM LANG	3
+ARH 106	ARH	106	Art & Science	ARTS	3
+ARH 107	ARH	107	Art and Medicine	ARTS	3
+ARH 201	ARH	201	Arts of Africa	ARTS GLO	3
+ARH 202	ARH	202	Arts of the Ancient World	ARTS	3
+ARH 203	ARH	203	Arts of Asia	ARTS GLO	3
+ARH 204	ARH	204	Arts of Europe and the Americas	ARTS	3
+ARH 205	ARH	205	Introduction to Architecture	ARTS	3
+ARH 206	ARH	206	Modern Art	ARTS	3
+ARH 207	ARH	207	Digital Media: History/Theory	ARTS TECH	3
+ARH 208	ARH	208	History of Photography	ARTS	3
+ARH 209	ARH	209	Arts of the United States	ARTS USA	3
+ARH 210	ARH	210	Modern Art and the Moving Image	ARTS	3
+ARH 299	ARH	299	Gallery Management Workshop	ARTS EXP+	1
+ARH 300	ARH	300	Greek Art and Architecture	HFA+	3
+ARH 301	ARH	301	Roman Art and Architecture	HFA+	3
+ARH 302	ARH	302	Ancient Egyptian Art	HFA+	3
+ARH 306	ARH	306	Italian Renaissance Art	HFA+	3
+ARH 308	ARH	308	Writing About Art	WRTD	3
+ARH 315	ARH	315	Art of Spain and Colonial Latin America	HFA+	3
+ARH 316	ARH	316	Italian Baroque Art	HFA+	3
+ARH 317	ARH	317	Islamic Art	HFA+	3
+ARH 322	ARH	322	American Art Since 1947	HFA+	3
+ARH 323	ARH	323	History and Methods of Art History	ESI SPK	3
+ARH 325	ARH	325	Ancient Middle Eastern Art	GLO HFA+	3
+ARH 326	ARH	326	Arts of Ancient Mesoamerica	HFA+	3
+ARH 328	ARH	328	Exhibiting Africa	CER SPK	3
+ARH 329	ARH	329	Arts of the African Diaspora	HFA+	3
+ARH 330	ARH	330	Public Art and Urban Design in New York City	HFA+	3
+ARH 333	ARH	333	Arts for the Public	HFA+	3
+ARH 334	ARH	334	Performance Art I: The European Avant-Garde	HFA+	3
+ARH 336	ARH	336	The Computer and the Arts	STAS	3
+ARH 344	ARH	344	Performance Art II: World War II to the Present	HFA+	3
+ARH 346	ARH	346	Art and Politics in the Age of Revolution	HFA+	3
+ARH 347	ARH	347	Avant-Garde Art: Realism, Impressionism, Post-Impressionism	HFA+	3
+ARH 348	ARH	348	Contemporary Art	DIV HFA+	3
+ARH 350	ARH	350	Museum Studies	CER SPK	3
+ARH 355	ARH	355	Modern and Contemporary Korean Art	GLO HFA+	3
+ARH 390	ARH	390	Topics in European Art	HFA+	3
+ARH 391	ARH	391	Topics in Global Art	GLO HFA+	3
+ARH 392	ARH	392	Topics in Modern Art	HFA+	3
+ARH 393	ARH	393	Topics in Middle Eastern Art	GLO HFA+	3
+ARH 394	ARH	394	Topics in Asian Art	GLO HFA+	3
+ARH 395	ARH	395	Topics in Visual Culture	ESI STAS	3
+ARH 396	ARH	396	Topics in American Art	HFA+	3
+ARH 397	ARH	397	Topics in Photography	HFA+	3
+ARH 398	ARH	398	Topics in Film and Video Art	HFA+	3
+ARH 400	ARH	400	Seminar in Art History and Criticism	ESI WRTD	3
+ARH 407	ARH	407	Seminar in Media/Art/Culture		3
+ARH 444	ARH	444	Experiential Learning	EXP+	0
+ARH 458	ARH	458	Speak Effectively Before an Audience	SPK	0
+ARH 459	ARH	459	Write Effectively in Art History	WRTD	0
+ARH 475	ARH	475	Undergraduate Teaching Practicum I	EXP+	3
+ARH 476	ARH	476	Undergraduate Teaching Practicum II	EXP+	3
+ARH 485	ARH	485	Projects in Art History and Criticism in New York City	EXP+	0-6
+ARH 487	ARH	487	Independent Reading and Research in Art		0-6
+ARH 488	ARH	488	Internship	EXP+	0-6
+ARH 495	ARH	495	Senior Honors Project in Art History and Criticism	EXP+	3
+ARS 105	ARS	105	The Creative Process	ARTS	3
+ARS 154	ARS	154	Foundations: Drawing	ARTS	3
+ARS 205	ARS	205	Foundations: Idea and Form	ARTS	3
+ARS 225	ARS	225	Introduction to Digital Art	ARTS TECH	3
+ARS 255	ARS	255	Introductory Painting		3
+ARS 256	ARS	256	Introductory Sculpture		3
+ARS 264	ARS	264	Introductory Ceramics		3
+ARS 274	ARS	274	Introductory Printmaking		3
+ARS 281	ARS	281	Introductory Photography	ARTS TECH	3
+ARS 299	ARS	299	Studio Management Workshop		1
+ARS 308	ARS	308	Writing About Art	WRTD	3
+ARS 324	ARS	324	Digital Arts: Design		3
+ARS 325	ARS	325	Digital Arts: Print	HFA+	3
+ARS 326	ARS	326	Video Art: Narrative Forms	HFA+	3
+ARS 327	ARS	327	Digital Arts: Web Design and Culture	STAS	3
+ARS 328	ARS	328	Digital Arts: Animation	HFA+	3
+ARS 329	ARS	329	Video Art: Experimental Forms	HFA+	3
+ARS 350	ARS	350	Life Drawing and Painting	HFA+	3
+ARS 351	ARS	351	Painting II: Theory and Practice	HFA+	3
+ARS 352	ARS	352	Painting III: Theory and Practice	HFA+	3
+ARS 355	ARS	355	Anatomical/Bio Illustration		3
+ARS 359	ARS	359	Theory and Practice of Conceptual Drawing	HFA+	3
+ARS 364	ARS	364	Advanced Theory and Practice of Ceramics	HFA+	3
+ARS 365	ARS	365	Theories and Practice of Sculpture: Welding, Construction, and Intermedia	HFA+	3
+ARS 366	ARS	366	Theory and Practice of Sculpture: Modeling, Casting, and Carving	HFA+	3
+ARS 374	ARS	374	Theory and Practice of Printmaking: Intaglio Processes	HFA+	3
+ARS 375	ARS	375	Theory and Practice of Printmaking: Lithography	HFA+	3
+ARS 381	ARS	381	Color and Light Photography	HFA+	3
+ARS 382	ARS	382	Analog Black and White Photography	HFA+	3
+ARS 384	ARS	384	Art, Media and Technology	STAS	3
+ARS 390	ARS	390	Topics in Studio Art	HFA+	3
+ARS 401	ARS	401	Critical Issues Seminar	CER WRTD	3
+ARS 402	ARS	402	Documentary Media Art	ESI WRTD	3
+ARS 403	ARS	403	Socially Engaged Art	HFA+ SPK	3
+ARS 420	ARS	420	Studio Art Senior Seminar	ESI SPK	3
+ARS 425	ARS	425	Advanced New Media Art	SPK	3
+ARS 444	ARS	444	Experiential Learning	EXP+	0
+ARS 452	ARS	452	Advanced Theory and Practice of Painting		3
+ARS 458	ARS	458	Speak Effectively Before an Audience	SPK	0
+ARS 459	ARS	459	Write Effectively in Studio Art	WRTD	0
+ARS 465	ARS	465	Advanced Theory and Practice of Sculpture: Welding, Construction, and Inter-media		3
+ARS 466	ARS	466	Advanced Theory and Practice of Sculpture: Installation, Site Specific and Public Art		3
+ARS 471	ARS	471	Advanced Theory and Practice of Printmaking: Intaglio Processes		3
+ARS 472	ARS	472	Advanced Theory and Practice of Printmaking: Lithography		3
+ARS 475	ARS	475	Undergraduate Teaching Practicum I	EXP+	3
+ARS 476	ARS	476	Undergraduate Teaching Practicum II	EXP+	3
+ARS 481	ARS	481	Advanced Photography		3
+ARS 487	ARS	487	Advanced Directed Projects in Studio Theory and Practice	EXP+	0-6
+ARS 488	ARS	488	Internship	EXP+	0-6
+ARS 491	ARS	491	Special Topics in Studio Theory and Practice		3
+ARS 492	ARS	492	Special Topics in Studio Theory and Practice		3
+ARS 495	ARS	495	Senior Honors Project in Studio Art	EXP+	3
+ASC 101	ASC	101	Practicing Engaging Presentations	SPK	0
+AST 100	AST	100	Astronomy Today	SPK	1
+AST 101	AST	101	Introduction to Astronomy	SNW	3
+AST 105	AST	105	Introduction to the Solar System	SNW	3
+AST 112	AST	112	Astronomy Laboratory		1
+AST 200	AST	200	Current Astronomical Research at Stony Brook		1
+AST 203	AST	203	Astronomy	STEM+	4
+AST 205	AST	205	Introduction to Planetary Sciences	STEM+	3
+AST 248	AST	248	The Search for Life in the Universe	STAS	3
+AST 287	AST	287	Introductory Research in Astronomy	EXP+	0-3
+AST 301	AST	301	Collisions in the Solar System	STAS	3
+AST 341	AST	341	Stars and Radiation		3
+AST 345	AST	345	Undergraduate Research in Astronomy	EXP+	0-1
+AST 346	AST	346	Galaxies		3
+AST 347	AST	347	Cosmology		3
+AST 389	AST	389	Science Fiction	CER STAS	3
+AST 390	AST	390	Special Topics in Astrophysics and Cosmology		3
+AST 443	AST	443	Observational Techniques in Astronomy	ESI SPK	4
+AST 444	AST	444	Experiential Learning	EXP+	0
+AST 447	AST	447	Senior Tutorial in Astronomy		1-3
+AST 458	AST	458	Speak Effectively Before an Audience	SPK	0
+AST 459	AST	459	Write Effectively in Astronomy/Planetary Sciences	WRTD	0
+AST 475	AST	475	Teaching Practicum in Astronomy	EXP+	3
+AST 487	AST	487	Senior Research in Astronomy	EXP+	0-6
+ATM 102	ATM	102	Weather and Climate	SNW	3
+ATM 103	ATM	103	Extreme Weather	STAS	3
+ATM 201	ATM	201	Introduction to Climate and Climate Change	SNW	3
+ATM 205	ATM	205	Introduction to Atmospheric Sciences	STEM+	3
+ATM 237	ATM	237	World Climate and Atmosphere	STAS	3
+ATM 247	ATM	247	Atmospheric Structure and Analysis	STEM+ TECH	3
+ATM 305	ATM	305	Global Atmospheric Change	STEM+	3
+ATM 320	ATM	320	Problem Solving with Python	ESI	3
+ATM 345	ATM	345	Atmospheric Thermodynamics and Dynamics		3
+ATM 346	ATM	346	Advanced Atmospheric Dynamics		3
+ATM 347	ATM	347	Advanced Synoptic Meteorology and Weather Forecasting		3
+ATM 348	ATM	348	Atmospheric Physics		3
+ATM 365	ATM	365	Tropical Meteorology		3
+ATM 383	ATM	383	Doppler Weather Radar		3
+ATM 387	ATM	387	Weather and Climate Data Analysis	EXP+	3
+ATM 397	ATM	397	Air Pollution and Its Control	CER	3
+ATM 437	ATM	437	Forecasting Practicum		1
+ATM 444	ATM	444	Experiential Learning	EXP+	0
+ATM 447	ATM	447	Senior Tutorial in Atmospheric Sciences		1-3
+ATM 487	ATM	487	Senior Research in Atmospheric Sciences	EXP+	0-6
+ATM 488	ATM	488	Internship	EXP+	0-6
+BCP 111	BCP	111	American Drug Use and Abuse: Biomedical, Socio-economic and Political Factors	STAS	3
+BCP 201	BCP	201	Introduction to Pharmacology: Drug Use & Its Molecular Basis	STEM+	3
+BCP 400	BCP	400	Writing in Pharmacology	WRTD	0
+BCP 401	BCP	401	Principles of Pharmacology		4
+BCP 402	BCP	402	Advanced Pharmacology		4
+BCP 403	BCP	403	Principles of Pharmacology Laboratory	ESI	2
+BCP 404	BCP	404	Advanced Pharmacology Laboratory	ESI	2
+BCP 405	BCP	405	Pharmacology to Pharmacy: Practical Clinical Aspects for Non-Clinicians (Didactic)	ESI	3
+BCP 406	BCP	406	Pharmacology Colloquium	SPK	2
+BCP 444	BCP	444	Experiential Learning	EXP+	0
+BCP 475	BCP	475	Undergraduate Teaching Practicum in Pharmacology	EXP+	3
+BCP 480	BCP	480	Introduction to Research Topics in Pharmacology	TECH	1
+BCP 487	BCP	487	Research in Pharmacology	EXP+	0-6
+BCP 488	BCP	488	Internship	EXP+	0-6
+BIO 103	BIO	103	Introduction to Biotechnology	SNW	3
+BIO 113	BIO	113	General Ecology	SNW	3
+BIO 114	BIO	114	Dinosaur Paleontology	SNW	3
+BIO 115	BIO	115	Evolution and Society	SNW	3
+BIO 201	BIO	201	Fundamentals of Biology: Organisms to Ecosystems	SNW	3
+BIO 202	BIO	202	Fundamentals of Biology: Molecular and Cellular Biology	STEM+	3
+BIO 203	BIO	203	Fundamentals of Biology: Cellular and Organ Physiology	STEM+	3
+BIO 204	BIO	204	Fundamentals of Scientific Inquiry in the Biological Sciences I		2
+BIO 205	BIO	205	Fundamentals of Scientific Inquiry in the Biological Sciences IIA		2
+BIO 207	BIO	207	Fundamentals of Scientific Inquiry in the Biological Sciences IIB		2
+BIO 208	BIO	208	Cell, Brain, Mind	STAS	3
+BIO 211	BIO	211	Statistics and Data Analysis: A Conceptual Approach	STEM+	4
+BIO 231	BIO	231	Cannabis: History, Culture, Science & Medicinal Uses	STAS	3
+BIO 299	BIO	299	Advanced Microbiology for Nursing and Allied Health		4
+BIO 306	BIO	306	Principles of Virology	ESI STEM+ WRTD	3
+BIO 310	BIO	310	Cell Biology		3
+BIO 312	BIO	312	Bioinformatics and Computational Biology	ESI TECH	3
+BIO 314	BIO	314	Cancer Biology		3
+BIO 315	BIO	315	Microbiology		3
+BIO 316	BIO	316	Molecular Immunology		3
+BIO 317	BIO	317	Principles of Cellular Signaling		3
+BIO 319	BIO	319	Landscape Ecology Laboratory	ESI	3
+BIO 320	BIO	320	General Genetics		3
+BIO 321	BIO	321	Ecological Genetics		3
+BIO 325	BIO	325	Animal Development		3
+BIO 327	BIO	327	Developmental Genetics Laboratory	ESI	3
+BIO 328	BIO	328	Mammalian Physiology		3
+BIO 332	BIO	332	Computational Modeling of Physiological Systems		3
+BIO 334	BIO	334	Principles of Neurobiology		3
+BIO 335	BIO	335	Neurobiology Laboratory	ESI	3
+BIO 336	BIO	336	Conservation Biology	STAS	3
+BIO 337	BIO	337	Neurotransmission and Neuromodulation: Implications for Brain Function		3
+BIO 338	BIO	338	From Synapse to Circuit: Self-organization of the Brain		3
+BIO 339	BIO	339	Molecular Development of the Nervous System		3
+BIO 341	BIO	341	Plant Diversity		4
+BIO 342	BIO	342	Invertebrate Zoology	STEM+	3
+BIO 343	BIO	343	Invertebrate Zoology Laboratory		2
+BIO 344	BIO	344	Chordate Zoology		4
+BIO 347	BIO	347	Introduction to Neural Computation	STEM+	3
+BIO 348	BIO	348	Diversity and Evolution of Reptiles and Amphibians		3
+BIO 350	BIO	350	Darwinian Medicine	STAS	3
+BIO 351	BIO	351	Ecology	STEM+	3
+BIO 352	BIO	352	Ecology Laboratory	ESI	3
+BIO 353	BIO	353	Marine Ecology	STEM+	3
+BIO 354	BIO	354	Evolution		3
+BIO 356	BIO	356	Applied Ecology and Conservation Biology Laboratory	STEM+	2
+BIO 358	BIO	358	Biology and Human Social and Sexual Behavior	ESI STAS	3
+BIO 361	BIO	361	Biochemistry I		3
+BIO 362	BIO	362	Biochemistry II		3
+BIO 364	BIO	364	Laboratory Techniques in Cancer Biology		3
+BIO 365	BIO	365	Biochemistry Laboratory	ESI	2
+BIO 366	BIO	366	Molecular Microbiology Laboratory		4
+BIO 367	BIO	367	Molecular Diversity Laboratory		3
+BIO 368	BIO	368	Food Microbiology		2
+BIO 369	BIO	369	Animal Nutrition		3
+BIO 371	BIO	371	Restoration of Aquatic Ecosystems	STAS	4
+BIO 383	BIO	383	Paleobiology	STEM+	3
+BIO 384	BIO	384	Intermediate Statistics	STEM+	3
+BIO 385	BIO	385	Plant Ecology	STAS	3
+BIO 386	BIO	386	Ecosystem Ecology and the Global Environment	STAS	3
+BIO 444	BIO	444	Experiential Learning	EXP+	0
+BIO 446	BIO	446	Readings in Neurobiology and Physiology	ESI	1-2
+BIO 447	BIO	447	Readings in Molecular, Cellular, and Developmental Biology	ESI	1-2
+BIO 449	BIO	449	Readings in Ecology and Evolution	ESI	1-2
+BIO 458	BIO	458	Speak Effectively Before an Audience	SPK	0
+BIO 459	BIO	459	Write Effectively in Biology	WRTD	0
+BIO 475	BIO	475	Undergraduate Teaching Practicum in College Biology I	EXP+	0-3
+BIO 476	BIO	476	Undergraduate Teaching Practicum in College Biology II	EXP+	0-3
+BIO 477	BIO	477	Undergraduate Teaching Practicum in College Biology III	EXP+	0-3
+BIO 484	BIO	484	Research in Biology and Society	EXP+	0-6
+BIO 486	BIO	486	Research in Neurobiology and Physiology	EXP+	0-6
+BIO 487	BIO	487	Research in Molecular, Cellular, and Developmental Biology	EXP+	0-6
+BIO 488	BIO	488	Internship in Biological Sciences	EXP+	0-6
+BIO 489	BIO	489	Research in Ecology and Evolution	EXP+	0-6
+BME 100	BME	100	Introduction to Biomedical Engineering	TECH	3
+BME 120	BME	120	Programming Fundamentals in Biomedical Engineering		3
+BME 200	BME	200	Bioengineering in Extreme Environments	SNW TECH	3
+BME 203	BME	203	Emergent Biodesign		3
+BME 205	BME	205	Clinical Challenges of the 21st Century	SNW TECH	3
+BME 212	BME	212	Biomedical Engineering Research Fundamentals		3
+BME 260	BME	260	Statics and Dynamics in Biological Systems		4
+BME 271	BME	271	Introduction to Electric Circuits and Bioelectricity		3
+BME 300	BME	300	Writing in Biomedical Engineering		0
+BME 301	BME	301	Bioelectricity		3
+BME 303	BME	303	Biomechanics	STAS	3
+BME 304	BME	304	Genetic Engineering	STAS	3
+BME 305	BME	305	Biofluids		3
+BME 311	BME	311	Fundamentals of Macro to Molecular Bioimaging		3
+BME 312	BME	312	LabVIEW Programming in Engineering		3
+BME 313	BME	313	Bioinstrumentation		3
+BME 353	BME	353	Introduction to Biomaterials		3
+BME 354	BME	354	Advanced Biomaterials		3
+BME 361	BME	361	Data Science with Python		3
+BME 371	BME	371	Biological Microfluidics		3
+BME 381	BME	381	Nanofabrication in Biomedical Applications		3
+BME 402	BME	402	Contemporary Biotechnology		3
+BME 404	BME	404	Essentials of Tissue Engineering		3
+BME 420	BME	420	Computational Biomechanics		3
+BME 430	BME	430	Quantitative Human Physiology		3
+BME 440	BME	440	Biomedical Engineering Design	CER ESI EXP+ SBS+ SPK STEM+ WRTD	3
+BME 441	BME	441	Senior Design Project in Biomedical Engineering	CER ESI EXP+ SBS+ SPK STEM+ WRTD	3
+BME 444	BME	444	Experiential Learning	EXP+	0
+BME 461	BME	461	Biosystems Analysis		3
+BME 475	BME	475	Undergraduate Teaching Practicum	EXP+	3
+BME 476	BME	476	Undergrad Teaching Practicum II	EXP+	3
+BME 481	BME	481	Biosensors		3
+BME 488	BME	488	Biomedical Engineering Internship	EXP+	3-6
+BME 494	BME	494	Honors Seminar on Research		1
+BME 495	BME	495	Honors Independent Research		3
+BME 499	BME	499	Research in Biomedical Engineering		0-3
+BUS 115	BUS	115	Introduction to Business		3
+BUS 215	BUS	215	Introduction to Business Statistics		3
+BUS 220	BUS	220	Introduction to Decision Sciences	STEM+	3
+BUS 294	BUS	294	Principles of Management		3
+BUS 300	BUS	300	Writing for Business Management		0
+BUS 301	BUS	301	Business Communications	SPK WRTD	3
+BUS 302	BUS	302	Social Media Marketing Strategy		3
+BUS 317	BUS	317	Estate & Financial Planning		3
+BUS 325	BUS	325	Legal Environment of Business	CER	3
+BUS 326	BUS	326	Organizational Behavior	DIV	3
+BUS 330	BUS	330	Principles of Finance		3
+BUS 331	BUS	331	International Finance		3
+BUS 332	BUS	332	Entrepreneurial Finance		3
+BUS 333	BUS	333	Introduction to the Business of Real Estate		3
+BUS 334	BUS	334	Integrated Mktg Communications		3
+BUS 336	BUS	336	Mergers & Acquisitions		3
+BUS 337	BUS	337	Entrepreneurship Compared Across Countries		3
+BUS 340	BUS	340	Information Systems in Management	TECH	3
+BUS 346	BUS	346	Operations Management		3
+BUS 348	BUS	348	Principles of Marketing		3
+BUS 351	BUS	351	Human Resource Management		3
+BUS 353	BUS	353	Entrepreneurship		3
+BUS 354	BUS	354	Understanding Business Agreements		3
+BUS 355	BUS	355	Investment Analysis		3
+BUS 356	BUS	356	Financial Analysis with Excel		3
+BUS 357	BUS	357	Principles of Sales		3
+BUS 358	BUS	358	Marketing Research	ESI	3
+BUS 359	BUS	359	Consumer Behavior		3
+BUS 361	BUS	361	Retail Management		3
+BUS 362	BUS	362	Principles of International Marketing		3
+BUS 363	BUS	363	Brand Management		3
+BUS 365	BUS	365	Financial Management	ESI	3
+BUS 366	BUS	366	Money and Financial Institutions		3
+BUS 370	BUS	370	Lean Practices in Operations		3
+BUS 371	BUS	371	Supply Chain Management		3
+BUS 372	BUS	372	Quality Management		3
+BUS 375	BUS	375	Data Mining		3
+BUS 376	BUS	376	Risk Management & Insurance		3
+BUS 377	BUS	377	Risk Management & Insurance II		3
+BUS 378	BUS	378	Marketing Ethics, Public Policy, and Social Change		3
+BUS 380	BUS	380	Honors - Research Methods	ESI	3
+BUS 383	BUS	383	Social Entrepreneurship		3
+BUS 389	BUS	389	Honors Research in Marketing		3
+BUS 390	BUS	390	Special Topics in Business Management		3
+BUS 391	BUS	391	Management of Sports Organizations		3
+BUS 393	BUS	393	Principles of Project Management		3
+BUS 399	BUS	399	Intellectual Property Strategy		3
+BUS 401	BUS	401	Negotiation Workshop		3
+BUS 440	BUS	440	International Management		3
+BUS 441	BUS	441	Business Strategy		3
+BUS 446	BUS	446	Ethics: Critical Thinking through Film	CER	3
+BUS 447	BUS	447	Business Ethics	CER	3
+BUS 448	BUS	448	Marketing Strategy		3
+BUS 449	BUS	449	Marketing in Action	EXP+	3
+BUS 475	BUS	475	Undergraduate Teaching Practicum I	EXP+	3
+BUS 476	BUS	476	Undergraduate Teaching Practicum II	EXP+	3
+BUS 487	BUS	487	Independent Research	EXP+	0-3
+BUS 488	BUS	488	Internship	EXP+	0-3
+BUS 495	BUS	495	Business Honors Program Thesis		3
+BUS 496	BUS	496	Business Honors Program Thesis	EXP+	3
+CAR 151	CAR	151	Career & Life Design I: Introduction		2
+CAR 251	CAR	251	Career & Life Design II - Employability Skills		2
+CAR 351	CAR	351	Career & Life Design III: Special Topics		2
+CAR 444	CAR	444	Experiential Learning	EXP+	0
+CAR 451	CAR	451	Career & Life Design IV - After College Transitions		2
+CAR 475	CAR	475	Undergraduate Teaching Practicum I	EXP+	0-3
+CAR 476	CAR	476	Undergraduate Teaching Practicum II	EXP+	0-3
+CCS 200	CCS	200	Media History	ARTS	3
+CCS 202	CCS	202	Film Genres	ARTS	3
+CCS 203	CCS	203	Cinema History	ARTS GLO	3
+CCS 204	CCS	204	The Stony Brook Film Festival: Films and Contexts	ARTS	3
+CCS 301	CCS	301	Cinema and Media Theory	CER DIV HFA+	3
+CCS 311	CCS	311	Gender and Genre in Film	DIV HFA+	3
+CCS 312	CCS	312	Cinema and the Ancient World	HFA+	3
+CCS 313	CCS	313	Television Studies	ESI STAS	3
+CCS 325	CCS	325	Culture in Context	SBS+	3
+CCS 381	CCS	381	Topics in Cinema Studies	HFA+ WRTD	3
+CCS 382	CCS	382	Topics in Media and Popular Culture		3
+CCS 383	CCS	383	Topics in Game Studies	ESI STAS	3
+CCS 391	CCS	391	Topics in Contemporary African Cinema and Cultural Studies	ESI HFA+	3
+CCS 392	CCS	392	Topics in American Cinema and Cultural Studies	ESI HFA+	3
+CCS 393	CCS	393	Topics in European Cinema and Cultural Studies	ESI HFA+	3
+CCS 394	CCS	394	Topics in Asian Cinema and Cultural Studies	ESI HFA+	3
+CCS 395	CCS	395	Topics in Digital Technology and Culture	ESI STAS	3
+CCS 401	CCS	401	Senior Seminar in Cinema & Cultural Studies	SPK WRTD	3
+CCS 444	CCS	444	Experiential Learning	EXP+	0
+CCS 458	CCS	458	Speak Effectively Before an Audience	SPK	0
+CCS 459	CCS	459	Write Effectively in Cinema and Cultural Studies	WRTD	0
+CCS 475	CCS	475	Undergraduate Teaching Practicum	EXP+	3
+CCS 476	CCS	476	Undergraduate Teaching Practicum II	EXP+	3
+CCS 487	CCS	487	Independent Research in Cinema and Cultural Studies		0-6
+CCS 488	CCS	488	Internship	EXP+	0-6
+CCS 495	CCS	495	Senior Honors Project in Cinema and Cultural Studies		3
+CDS 101	CDS	101	Energy, Climate, and Society	STAS	3
+CDT 317	CDT	317	Interactive Media, Performance, and Installation		3
+CDT 318	CDT	318	Movie Making: Shoot, Edit, Score		3
+CDT 444	CDT	444	Experiential Learning	EXP+	0
+CDT 450	CDT	450	Topics in Computational Arts	STAS	3
+CDT 487	CDT	487	Independent Project in Computational Arts		0-6
+CDT 488	CDT	488	Internship	EXP+	0-6
+CEF 347	CEF	347	Introduction to Special Education		3
+CHE 115	CHE	115	Chemistry, Life, and Environment	SNW	3
+CHE 129	CHE	129	General Chemistry IA	SNW	4
+CHE 130	CHE	130	Problem Solving in General Chemistry		1
+CHE 131	CHE	131	General Chemistry IB	SNW	4
+CHE 132	CHE	132	General Chemistry II	SNW	4
+CHE 133	CHE	133	General Chemistry Laboratory I		1
+CHE 134	CHE	134	General Chemistry Laboratory II		1
+CHE 152	CHE	152	Molecular Science I	SNW	4
+CHE 154	CHE	154	Molecular Science Laboratory I		2
+CHE 301	CHE	301	Physical Chemistry I	STEM+	4
+CHE 302	CHE	302	Physical Chemistry II		4
+CHE 303	CHE	303	Solution Chemistry Laboratory	ESI WRTD	2
+CHE 304	CHE	304	Chemical Instrumentation Laboratory	TECH WRTD	2
+CHE 310	CHE	310	Chemistry in Technology and the Environment	STAS	3
+CHE 312	CHE	312	Physical Chemistry for the Life Sciences	STEM+	3
+CHE 321	CHE	321	Organic Chemistry I	STEM+	4
+CHE 322	CHE	322	Organic Chemistry IIA		4
+CHE 327	CHE	327	Organic Chemistry Laboratory		2
+CHE 328	CHE	328	Synthetic and Spectroscopic Laboratory Techniques	TECH	3
+CHE 331	CHE	331	Molecular Science II	STEM+	4
+CHE 332	CHE	332	Molecular Science III		4
+CHE 345	CHE	345	Structure and Reactivity in Organic Chemistry		3
+CHE 346	CHE	346	Biomolecular Structure and Reactivity		3
+CHE 348	CHE	348	Reaction Mechanisms in Organic Chemistry		3
+CHE 351	CHE	351	Quantum Chemistry		3
+CHE 353	CHE	353	Chemical Thermodynamics		3
+CHE 357	CHE	357	Molecular Structure and Spectroscopy Laboratory		2
+CHE 358	CHE	358	Computing in Chemistry		3
+CHE 361	CHE	361	Nuclear Chemistry		3
+CHE 362	CHE	362	Nuclear Chemistry Laboratory		3
+CHE 375	CHE	375	Inorganic Chemistry I		3
+CHE 376	CHE	376	Inorganic Chemistry II		3
+CHE 378	CHE	378	Materials Chemistry		3
+CHE 383	CHE	383	Introductory Synthetic and Spectroscopic Laboratory Techniques	ESI	2
+CHE 384	CHE	384	Intermediate Synthetic and Spectroscopic Laboratory Techniques	TECH WRTD	3
+CHE 385	CHE	385	Tools of Chemistry	CER SPK	1
+CHE 444	CHE	444	Experiential Learning	EXP+	0
+CHE 459	CHE	459	Write Effectively in Chemistry	WRTD	0
+CHE 461	CHE	461	Selected Topics in Chemistry		1-3
+CHE 475	CHE	475	Undergraduate Teaching Practicum I	EXP+	3
+CHE 476	CHE	476	Undergraduate Teaching Practicum II	EXP+	3
+CHE 477	CHE	477	Undergraduate Teaching Practicum III	EXP+	0
+CHE 487	CHE	487	Research in Chemistry	EXP+	0-6
+CHE 488	CHE	488	Internship	EXP+	0-6
+CHE 495	CHE	495	Senior Research	EXP+	3
+CHE 496	CHE	496	Senior Research	ESI EXP+ SPK	3
+CHI 101	CHI	101	Intensive Elementary Chinese	LANG	6
+CHI 111	CHI	111	Elementary Chinese I	LANG	4
+CHI 112	CHI	112	Elementary Chinese II	LANG	4
+CHI 120	CHI	120	Elementary Chinese for Heritage Speakers	GLO LANG	4
+CHI 201	CHI	201	Intensive Intermediate Chinese	GLO HUM LANG	6
+CHI 211	CHI	211	Intermediate Chinese I	GLO LANG	3
+CHI 212	CHI	212	Intermediate Chinese II	GLO HUM LANG	3
+CHI 220	CHI	220	Intermediate Chinese for Heritage Speakers	GLO HUM LANG	3
+CHI 311	CHI	311	Advanced Chinese I	HFA+ LANG	3
+CHI 312	CHI	312	Advanced Chinese II	HFA+ LANG SPK	3
+CHI 320	CHI	320	Advanced Chinese for Heritage Speakers	HFA+ LANG	3
+CHI 410	CHI	410	Business Chinese	SBS+ SPK	3
+CHI 411	CHI	411	Readings in Journalistic Chinese	HFA+	3
+CHI 412	CHI	412	Readings in Classical Chinese	HFA+	3
+CHI 421	CHI	421	Chinese Poetry and Short Stories	HFA+	3
+CHI 422	CHI	422	Chinese Lyric Prose and Plays	HFA+	3
+CHI 426	CHI	426	Structure of Mandarin Chinese	ESI SBS+	3
+CHI 444	CHI	444	Experiential Learning	EXP+	0
+CHI 447	CHI	447	Directed Readings in Chinese	EXP+	1-6
+CHI 475	CHI	475	Undergraduate Teaching Practicum I	EXP+	3
+CHI 476	CHI	476	Undergraduate Teaching Practicum II	EXP+	3
+CHI 487	CHI	487	Supervised Research in Chinese		0-3
+CIV 101	CIV	101	Introduction to Civil Engineering	TECH	3
+CIV 203	CIV	203	Autocad Basics		1
+CIV 210	CIV	210	Land Surveying		1
+CIV 300	CIV	300	Technical Communication		1
+CIV 305	CIV	305	Transportation Systems Analysis I		3
+CIV 306	CIV	306	Transportation Systems Analysis II		3
+CIV 310	CIV	310	Structural Engineering	TECH	3
+CIV 312	CIV	312	Steel and Reinforced Concrete Design I		3
+CIV 320	CIV	320	Water Supply and Wastewater Treatment Design		3
+CIV 330	CIV	330	Introduction to Geotechnical Engineering		3
+CIV 340	CIV	340	Civil Engineering Materials Laboratory		2
+CIV 341	CIV	341	Geotechnical Engineering Laboratory		2
+CIV 342	CIV	342	Civil Engineering Hydraulics Laboratory		1
+CIV 350	CIV	350	Numerical Analysis for Civil Engineers		3
+CIV 355	CIV	355	Data Analytics for Civil Engineering Systems		3
+CIV 364	CIV	364	Fluid Mechanics for Civil Engineers		3
+CIV 393	CIV	393	Construction Management		3
+CIV 407	CIV	407	Transportation Economics		3
+CIV 410	CIV	410	Principles of Foundation Engineering		3
+CIV 411	CIV	411	Matrix Structural Analysis		3
+CIV 412	CIV	412	Steel and Reinforced Concrete Design II		3
+CIV 414	CIV	414	Advanced Construction Materials		3
+CIV 420	CIV	420	Hydraulics		3
+CIV 422	CIV	422	Introduction to Coastal Engineering		3
+CIV 423	CIV	423	Coastal Engineering Planning and Design		3
+CIV 424	CIV	424	Stormwater Management & Design		3
+CIV 426	CIV	426	Introduction to Environmental Biotechnology		3
+CIV 432	CIV	432	Vibration Mechanics		3
+CIV 436	CIV	436	Prestressed Concrete Design		3
+CIV 440	CIV	440	Senior Design I	CER ESI EXP+ SBS+ SPK STEM+ WRTD	3
+CIV 441	CIV	441	Senior Design II	CER ESI EXP+ SBS+ SPK STEM+ WRTD	3
+CIV 475	CIV	475	Undergraduate Teaching Practicum	EXP+	0-3
+CIV 476	CIV	476	Instructional Laboratory Development Practicum	EXP+	0-3
+CIV 488	CIV	488	Civil Engineering Internship	EXP+	0-6
+CIV 491	CIV	491	Topics in Civil Engineering		1-4
+CIV 499	CIV	499	Independent Research		0-3
+CLL 215	CLL	215	Classical Mythology	HUM	3
+CLL 315	CLL	315	Gender and Sexuality in Ancient Greek Literature	HFA+	3
+CLL 444	CLL	444	Experiential Learning	EXP+	0
+CLS 113	CLS	113	Greek and Latin Literature in Translation	HUM	3
+CLS 225	CLS	225	The Classical Tradition	GLO HUM	3
+CLS 325	CLS	325	The Latin and Greek Origins of Medicine	STAS	3
+CLS 444	CLS	444	Experiential Learning	EXP+	0
+CLS 447	CLS	447	Directed Readings in Classics		1-6
+CLS 475	CLS	475	Undergraduate Teaching Practicum	EXP+	3
+CLT 101	CLT	101	Introduction to World Literatures	GLO HUM	3
+CLT 109	CLT	109	Philosophy and Literature in Social Context (III)	CER HUM	3
+CLT 121	CLT	121	Death and Afterlife in Literature	CER HUM	3
+CLT 122	CLT	122	Images of Women in Literature	HUM	3
+CLT 123	CLT	123	Sexuality in Literature	CER HUM	3
+CLT 220	CLT	220	Literature Beyond European Traditions	GLO	3
+CLT 221	CLT	221	Cross-Cultural Encounters	HFA+	3
+CLT 235	CLT	235	American Pluralism in Film and Literature	USA	3
+CLT 266	CLT	266	The 20th-Century Novel	HUM	3
+CLT 301	CLT	301	Theory of Literature	HFA+ SPK WRTD	3
+CLT 330	CLT	330	Literary Genres	HFA+	3
+CLT 334	CLT	334	Other Literary Genres	HFA+	3
+CLT 335	CLT	335	Interdisciplinary Study of Film	HFA+	3
+CLT 361	CLT	361	Literature and Society	HFA+	3
+CLT 362	CLT	362	Literature and Ideas	HFA+	3
+CLT 371	CLT	371	Literature and Justice (III)	CER HFA+	3
+CLT 393	CLT	393	European Comparative Literature	HFA+	3
+CLT 394	CLT	394	Asian Comparative Literature	GLO HFA+	3
+CLT 444	CLT	444	Experiential Learning	EXP+	0
+CLT 458	CLT	458	Speak Effectively Before an Audience	SPK	0
+CLT 459	CLT	459	Write Effectively in Comparative Literature	WRTD	0
+CLT 475	CLT	475	Undergraduate Teaching Practicum I	EXP+	3
+CLT 476	CLT	476	Undergraduate Teaching Practicum II	EXP+	3
+CLT 487	CLT	487	Independent Reading and Research	CER ESI	0-6
+CLT 495	CLT	495	Comparative Literature Honors Project	ESI	3
+CME 101	CME	101	Introduction to Chemical and Molecular Engineering		2
+CME 160	CME	160	Introduction to Nanoscience and Nanotechnology	TECH	3
+CME 199	CME	199	Introduction to Undergraduate Research		0-3
+CME 201	CME	201	Sustainable Energy - Evaluating the Options	TECH	3
+CME 233	CME	233	Ethics and Business Practices for Engineers		2
+CME 240	CME	240	Introduction to Food Technology	TECH	3
+CME 300	CME	300	Writing in Chemical and Molecular Engineering		0
+CME 304	CME	304	Chemical Engineering Thermodynamics I		3
+CME 310	CME	310	Chemical Engineering Laboratory I: Unit Operation Fundamentals		3
+CME 312	CME	312	Material and Energy Balance		3
+CME 314	CME	314	Chemical Engineering Thermodynamics II		3
+CME 315	CME	315	Numerical Methods for Chemical Engineering Analysis		3
+CME 318	CME	318	Chemical Engineering Fluid Mechanics		3
+CME 320	CME	320	Chemical Engineering Lab II: Unit Operation	TECH	2
+CME 321	CME	321	Introduction To Working In The Good Manufacturing Practice (GMP) Environment		3
+CME 322	CME	322	Chemical Engineering Heat and Mass Transfer		3
+CME 323	CME	323	Reaction Engineering and Chemical Kinetics		3
+CME 350	CME	350	Comparative Energy Technologies		3
+CME 355	CME	355	Chemical Process Safety		3
+CME 360	CME	360	Nanomaterials and Applications		3
+CME 369	CME	369	Polymer Engineering		3
+CME 371	CME	371	Biomaterials		3
+CME 372	CME	372	Colloids, Micelles and Emulsion Science		3
+CME 375	CME	375	Fundamentals of Industrial Corrosion and Corrosion Protection		3
+CME 401	CME	401	Separation Technologies		3
+CME 405	CME	405	Process Control in Engineering Design		3
+CME 410	CME	410	Chemical Engineering Laboratory III: Instrumentation, Material Design and Characterization		2
+CME 420	CME	420	Chemical Engineering Laboratory IV: Senior Thesis		2
+CME 425	CME	425	Introduction to Catalysis		3
+CME 427	CME	427	Molecular Modeling for Chemical Engineers		3
+CME 440	CME	440	Process Engineering and Design I	CER ESI EXP+ SBS+ SPK STEM+ WRTD	3
+CME 441	CME	441	Process Engineering and Design II	CER ESI EXP+ SBS+ SPK STEM+ WRTD	3
+CME 460	CME	460	Nanomaterials: Synthesis, Processing and Characterization		3
+CME 470	CME	470	Polymer Synthesis: Theory and Practice, Fundamentals, Methods, Experiments		3
+CME 475	CME	475	Undergraduate Teaching Practicum	EXP+	3
+CME 480	CME	480	Cellular Biology for Chemical Engineers		3
+CME 481	CME	481	Advanced Cell Biology for Chemical Engineers		3
+CME 488	CME	488	Industrial Internship in Chemical Engineering	EXP+	0-1
+CME 490	CME	490	Preparation for the Chemical Engineering/Fundamentals of Engineering Examination		1
+CME 491	CME	491	Sustainable Future through Renewable Energy	TECH	3
+CME 499	CME	499	Research in Chemical Engineering		0-3
+COM 106	COM	106	Introduction to Mass Media	SBS USA	3
+COM 120	COM	120	Fundamentals of Public Speaking	SPK	3
+COM 207	COM	207	Media Writing		3
+COM 208	COM	208	History of Mass Communication	USA	3
+COM 305	COM	305	Mass Communication Law & Ethics		3
+COM 306	COM	306	Modes of Media Criticism		3
+COM 307	COM	307	Critical Media Theory	HFA+	3
+COM 316	COM	316	Mass Communication Research Methods	SBS+	3
+COM 317	COM	317	Mass Communication Theory		3
+COM 346	COM	346	Race, Class, and Gender in Media		3
+COM 351	COM	351	Team Collaboration	EXP+	3
+COM 365	COM	365	Talking Science	SPK	3
+COM 399	COM	399	Topics in Mass Communication		3
+COM 415	COM	415	Data Analysis and Storytelling	STAS	3
+COM 436	COM	436	Environmental Communication		3
+COM 487	COM	487	Independent Study		0-6
+COM 491	COM	491	Mass Communication Senior Project	EXP+ WRTD	3
+COM 494	COM	494	Mass Communication Internship	EXP+	0-6
+CSE 101	CSE	101	Computer Science Principles	TECH	3
+CSE 102	CSE	102	Introduction to Web Design and Programming	TECH	3
+CSE 110	CSE	110	Introduction to Computer Science	TECH	3
+CSE 114	CSE	114	Introduction to Object-Oriented Programming	TECH	4
+CSE 130	CSE	130	Introduction to Programming in C		3
+CSE 150	CSE	150	Foundations of Computer Science: Honors		4
+CSE 160	CSE	160	Computer Science A: Honors	TECH	3
+CSE 161	CSE	161	Laboratory for Computer Science A: Honors		1
+CSE 190	CSE	190	Special Topics in Practice and Applications of Computer Science	TECH	3
+CSE 191	CSE	191	Special Topics in Practice and Applications for Computer Science	TECH	3
+CSE 192	CSE	192	Special Topics in Practice and Applications for Computer Science	TECH	3
+CSE 214	CSE	214	Data Structures		4
+CSE 215	CSE	215	Foundations of Computer Science		4
+CSE 216	CSE	216	Programming Abstractions		4
+CSE 220	CSE	220	Systems Fundamentals I		4
+CSE 230	CSE	230	Intermediate Programming in C and C++		3
+CSE 260	CSE	260	Computer Science B: Honors		3
+CSE 261	CSE	261	Laboratory for Computer Science B: Honors		1
+CSE 300	CSE	300	Technical Communications	SPK WRTD	3
+CSE 301	CSE	301	History of Computing	STAS	3
+CSE 303	CSE	303	Introduction to the Theory of Computation		3
+CSE 304	CSE	304	Compiler Design		3
+CSE 305	CSE	305	Principles of Database Systems	ESI EXP+ SBS+ STEM+	3
+CSE 306	CSE	306	Operating Systems	ESI EXP+ SBS+ STEM+	3
+CSE 307	CSE	307	Principles of Programming Languages		3
+CSE 310	CSE	310	Computer Networks		3
+CSE 311	CSE	311	Systems Administration		3
+CSE 312	CSE	312	Legal, Social, and Ethical Issues in Information Systems	CER ESI STAS	3
+CSE 316	CSE	316	Fundamentals of Software Development	ESI EXP+ SBS+ STEM+	3
+CSE 320	CSE	320	Systems Fundamentals II		3
+CSE 323	CSE	323	Human-Computer Interaction		3
+CSE 325	CSE	325	Computers and Sculpture		3
+CSE 327	CSE	327	Fundamentals of Computer Vision		3
+CSE 328	CSE	328	Fundamentals of Computer Graphics		3
+CSE 331	CSE	331	Computer Security Fundamentals		3
+CSE 332	CSE	332	Introduction to Visualization		3
+CSE 333	CSE	333	User Interface Development		3
+CSE 334	CSE	334	Introduction to Multimedia Systems		3
+CSE 336	CSE	336	Internet Programming		3
+CSE 337	CSE	337	Scripting Languages		3
+CSE 350	CSE	350	Theory of Computation: Honors		4
+CSE 351	CSE	351	Introduction to Data Science		3
+CSE 352	CSE	352	Artificial Intelligence		3
+CSE 353	CSE	353	Machine Learning		3
+CSE 354	CSE	354	Natural Language Processing		3
+CSE 355	CSE	355	Computational Geometry		3
+CSE 356	CSE	356	Cloud Computing		3
+CSE 357	CSE	357	Statistical Methods for Data Science		3
+CSE 360	CSE	360	Software Security		3
+CSE 361	CSE	361	Web Security		3
+CSE 362	CSE	362	Mobile Security		3
+CSE 363	CSE	363	Offensive Security		3
+CSE 364	CSE	364	Advanced Multimedia Techniques		3
+CSE 366	CSE	366	Introduction to Virtual Reality		3
+CSE 370	CSE	370	Wireless and Mobile Networking		3
+CSE 371	CSE	371	Logic		3
+CSE 373	CSE	373	Analysis of Algorithms		3
+CSE 376	CSE	376	Advanced Systems Programming in UNIX/C		3
+CSE 377	CSE	377	Introduction to Medical Imaging		3
+CSE 378	CSE	378	Introduction to Robotics		3
+CSE 380	CSE	380	2D Game Programming		3
+CSE 381	CSE	381	3D Game Programming		3
+CSE 385	CSE	385	Analysis of Algorithms: Honors		4
+CSE 390	CSE	390	Special Topics in Computer Science		3
+CSE 391	CSE	391	Special Topics in Computer Science		3
+CSE 392	CSE	392	Special Topics in Computer Science		3
+CSE 393	CSE	393	Special Topics in Computer Science		3
+CSE 394	CSE	394	Special Topics in Computer Science		3
+CSE 416	CSE	416	Software Engineering	ESI EXP+ SBS+ STEM+	3
+CSE 475	CSE	475	Undergraduate Teaching Practicum	EXP+	3
+CSE 487	CSE	487	Research in Computer Science		0-6
+CSE 488	CSE	488	Internship in Computer Science	EXP+	3
+CSE 495	CSE	495	Senior Honors Research Project I		3
+CSE 496	CSE	496	Senior Honors Research Project II		3
+CWL 190	CWL	190	Introduction to Contemporary Literature	HUM	3
+CWL 202	CWL	202	Introduction to Creative Writing: Writing Everything	ARTS	3
+CWL 250	CWL	250	Join the Conversation		3
+CWL 300	CWL	300	Forms of Creative Nonfiction	HFA+ WRTD	3
+CWL 305	CWL	305	Forms of Fiction	HFA+ WRTD	3
+CWL 310	CWL	310	Forms of Poetry	HFA+ WRTD	3
+CWL 315	CWL	315	Forms of Scriptwriting	HFA+ WRTD	3
+CWL 320	CWL	320	Forms of Interdisciplinary Arts	EXP+ WRTD	3
+CWL 325	CWL	325	Forms of Science Writing	STAS WRTD	3
+CWL 330	CWL	330	Topics in European Literature for Writers	GLO HFA+	3
+CWL 335	CWL	335	Topics in American Literature for Writers	HFA+ USA	3
+CWL 340	CWL	340	Topics in World Literature for Writers	GLO HFA+	3
+CWL 390	CWL	390	The Ethics of the Creative Imagination	CER SPK	4
+CWL 444	CWL	444	Experiential Learning	EXP+	0
+CWL 450	CWL	450	Senior Project	EXP+	3
+CWL 487	CWL	487	Mind the Gap: Independent Reading	ESI	4
+CWL 499	CWL	499	Thesis		1-6
+DAN 101	DAN	101	Movement & Somatic Learning	ARTS	3
+DAN 102	DAN	102	Intro to World Dance Cultures	ARTS GLO	3
+DAN 164	DAN	164	Tap Technique and History	ARTS	3
+DAN 165	DAN	165	Contemporary Dance I	ARTS	3
+DAN 166	DAN	166	Ballet Technique I	ARTS	3
+DAN 167	DAN	167	Jazz Dance Technique I	ARTS	3
+DAN 168	DAN	168	World Dance I	ARTS GLO	3
+DAN 203	DAN	203	Laban Movement Analysis	HFA+	3
+DAN 264	DAN	264	Movement Awareness and Analysis	ARTS	3
+DAN 353	DAN	353	Special Topics in Dance Performance	HFA+	3
+DAN 365	DAN	365	Contemporary Dance II	HFA+	3
+DAN 366	DAN	366	Ballet Technique II	HFA+	3
+DAN 367	DAN	367	Jazz Dance Technique II	HFA+	3
+DAN 368	DAN	368	Dance Improvisation	HFA+	3
+DAN 369	DAN	369	World Dance II	GLO HFA+	3
+DAN 400	DAN	400	Performance Dance Ensemble	EXP+ HFA+	3
+DAN 444	DAN	444	Experiential Learning	EXP+	0
+DAN 465	DAN	465	Contemporary Dance Theatre and Repertory	HFA+	3
+DAN 467	DAN	467	Jazz Dance Technique III	HFA+	3
+DAN 468	DAN	468	Choreography		3
+DAN 475	DAN	475	Undergraduate Teaching Practicum I	EXP+	3
+DAN 476	DAN	476	Undergraduate Teaching Practicum II	EXP+	3
+DAN 487	DAN	487	Independent Research		0-6
+DAN 488	DAN	488	Internship	EXP+	0-6
+DIA 383	DIA	383	Topics in Game Studies	ESI STAS	3
+DIA 444	DIA	444	Experiential Learning	EXP+	0
+EAS 101	EAS	101	Engineering and Applied Sciences		1-3
+EAS 310	EAS	310	Global Design Engineering Innovation	GLO SPK TECH ESI EXP+	3
+EAS 312	EAS	312	Engineering for the Developing World	STAS ESI EXP+	3
+EBH 200	EBH	200	The Evolution of Human Behavior	SBS+	3
+EBH 204	EBH	204	Research Skills	ESI SPK	3
+EBH 230	EBH	230	Computer-based Biostatistics	QPS	4
+EBH 302	EBH	302	Human Genetics		3
+EBH 316	EBH	316	The Evolution of the Human Brain	STEM+	3
+EBH 325	EBH	325	Evolution of Sex	SPK STEM+	3
+EBH 331	EBH	331	Hormones and Behavior	STEM+	3
+EBH 359	EBH	359	Behavioral Ecology	STEM+	3
+EBH 362	EBH	362	Evolution of Social Complexity	STEM+	3
+EBH 370	EBH	370	Advanced Human Genetics	TECH	3
+EBH 380	EBH	380	Genomics		3
+EBH 381	EBH	381	Genomics Laboratory	TECH	3
+EBH 391	EBH	391	Topics in Human Evolutionary Biology		3
+EBH 401	EBH	401	Seminar in Evolutionary Biology of Humans		3
+EBH 404	EBH	404	Evolution of Parenting		3
+EBH 405	EBH	405	Life History and Development	STEM+	3
+EBH 444	EBH	444	Experiential Learning	EXP+	0
+EBH 447	EBH	447	Readings in Human Evolutionary Biology		1-2
+EBH 458	EBH	458	Speak Effectively Before an Audience	SPK	0
+EBH 459	EBH	459	Write Effectively in Human Evolutionary Biology	WRTD	0
+EBH 475	EBH	475	Undergraduate Teaching Practicum I	EXP+	3
+EBH 476	EBH	476	Undergraduate Teaching Practicum II	EXP+	3
+EBH 487	EBH	487	Independent Research in Human Evolutionary Biology	EXP+	0-6
+EBH 488	EBH	488	Internship in Human Evolutionary Biology	EXP+	0-1
+EBH 495	EBH	495	Senior Honors Project in Human Evolutionary Biology		3
+EBH 496	EBH	496	Senior Honors Project in Human Evolutionary Biology	EXP+	3
+ECO 108	ECO	108	Introduction to Economics	SBS	4
+ECO 303	ECO	303	Intermediate Microeconomic Theory	SBS+	4
+ECO 305	ECO	305	Intermediate Macroeconomic Theory	SBS+	4
+ECO 310	ECO	310	Basic Computational Methods in Economics		4
+ECO 320	ECO	320	Mathematical Statistics		4
+ECO 321	ECO	321	Econometrics		4
+ECO 322	ECO	322	Data Science and Machine Learning in Economics		3
+ECO 323	ECO	323	Applied Microeconomics		4
+ECO 325	ECO	325	International Trade		3
+ECO 326	ECO	326	Industrial Organization		3
+ECO 327	ECO	327	Health Economics	SBS+	3
+ECO 329	ECO	329	Urban Economics		3
+ECO 334	ECO	334	Demographic Economics of Developing Countries	SBS+	3
+ECO 335	ECO	335	Economic Development		3
+ECO 337	ECO	337	Labor Theory		3
+ECO 348	ECO	348	Analysis for Managerial Decision Making		4
+ECO 351	ECO	351	Special Topics in Economics		3
+ECO 352	ECO	352	Special Topics in Economics		3
+ECO 354	ECO	354	Special Topics in Economics		3
+ECO 355	ECO	355	Game Theory	SBS+	3
+ECO 356	ECO	356	Special Topics in Economics		3
+ECO 357	ECO	357	Special Topics in Economics		3
+ECO 359	ECO	359	Reading and Writing in Economics	WRTD	3
+ECO 360	ECO	360	Money and Banking		3
+ECO 362	ECO	362	Financial Economics		3
+ECO 364	ECO	364	Thinking Strategically		3
+ECO 373	ECO	373	Economics of Environment and Natural Resources	STAS	3
+ECO 383	ECO	383	Public Finance		3
+ECO 385	ECO	385	U.S. Economic History		3
+ECO 386	ECO	386	International Finance		3
+ECO 389	ECO	389	Corporate Finance		3
+ECO 444	ECO	444	Experiential Learning	EXP+	0
+ECO 459	ECO	459	Write Effectively in Economics	WRTD	0
+ECO 475	ECO	475	Undergraduate Teaching Practicum I	EXP+	3
+ECO 476	ECO	476	Undergraduate Teaching Practicum II	EXP+	3
+ECO 487	ECO	487	Independent Research in Economics		0-6
+ECO 488	ECO	488	Internship in Economics	EXP+	0-6
+EDP 301	EDP	301	Urban Systems	SBS+	3
+EDP 302	EDP	302	Sustainable Planning and Development	SBS+	3
+EDP 303	EDP	303	Spatial Economics		3
+EDP 305	EDP	305	Risk Assessment and Sustainable Development		3
+EDP 307	EDP	307	Theories and Design of Urban Settlements	SBS+	3
+EDP 309	EDP	309	Planning: Policies and Regulations	SBS+	3
+EDP 404	EDP	404	Environmental Design Project	EXP+	3
+EDP 444	EDP	444	Experiential Learning	EXP+	0
+EDP 487	EDP	487	Research in Environmental Design, Policy, & Planning	EXP+	0-6
+EDP 488	EDP	488	Internship in Environmental Design, Policy, & Planning	EXP+	0-1
+EEL 111	EEL	111	Elementary Selected East European Language I	LANG	3
+EEL 112	EEL	112	Elementary Selected East European Language II	LANG	3
+EEO 124	EEO	124	C Programming for Electrical Engineers		3
+EEO 218	EEO	218	Digital Logic Design	TECH	3
+EEO 219	EEO	219	Digital Logic Design Laboratory		1
+EEO 224	EEO	224	Object Oriented Programming for Electrical and Computer Engineers		3
+EEO 271	EEO	271	Electrical Circuit Analysis		3
+EEO 300	EEO	300	Technical Communication for Electrical Engineers		3
+EEO 301	EEO	301	Signals and Systems		3
+EEO 302	EEO	302	Engineering Ethics and Societal Impact	STAS	3
+EEO 303	EEO	303	Digital Signal Processing		3
+EEO 304	EEO	304	Electronic Instrumentation and Operational Amplifiers		3
+EEO 306	EEO	306	Random Signals and Systems		3
+EEO 311	EEO	311	Electronics Circuits II		3
+EEO 314	EEO	314	Mos Transistor Modeling		3
+EEO 315	EEO	315	Electronics Circuits I		3
+EEO 316	EEO	316	Integrated Electronic Devices and Circuits		3
+EEO 319	EEO	319	Electromagnetic Waves and Transmission Lines		3
+EEO 331	EEO	331	Semiconductor Devices		3
+EEO 346	EEO	346	Computer Communications		3
+EEO 352	EEO	352	Electronics Laboratory I		3
+EEO 353	EEO	353	Electronics Laboratory II		3
+EEO 366	EEO	366	Design using Programmable Mixed-Signal Systems-on-Chip		4
+EEO 388	EEO	388	Foundations of Machine Learning		3
+EEO 414	EEO	414	Fundamentals of Low Noise Electronics for Sensors		3
+EEO 425	EEO	425	Electric Machinery and Energy Conversion		3
+EEO 440	EEO	440	Engineering Design I	CER ESI EXP+ SBS+ SPK STEM+ WRTD	3
+EEO 441	EEO	441	Engineering Design II	CER ESI EXP+ SBS+ SPK STEM+ WRTD	3
+EEO 470	EEO	470	Renewable Distributed Generation and Storage		3
+EEO 475	EEO	475	Undergraduate Teaching Practicum		3
+EEO 482	EEO	482	Power Systems Engineering I		3
+EEO 488	EEO	488	Internship in Electrical Engineering	EXP+	3
+EEO 499	EEO	499	Research in Electrical Engineering		0-3
+EGL 111	EGL	111	World Literature: Ancient	GLO HUM	3
+EGL 112	EGL	112	World Literature: Modern and Contemporary	GLO HUM	3
+EGL 121	EGL	121	Global Film Traditions	GLO HUM	3
+EGL 130	EGL	130	Literature, Science and Technology	CER STAS	3
+EGL 140	EGL	140	Shakespeare in Performance	ARTS	3
+EGL 191	EGL	191	Poetry: The Art of Verse	HUM	3
+EGL 192	EGL	192	Fiction: The Art of the Story	HUM	3
+EGL 193	EGL	193	Drama: Character on Stage and Page	HUM	3
+EGL 194	EGL	194	Film: Mastering the Movies	GLO HUM	3
+EGL 204	EGL	204	Literary Analysis and Argumentation		3
+EGL 205	EGL	205	Survey of British Literature I	HFA+	3
+EGL 206	EGL	206	Survey of British Literature II	HFA+	3
+EGL 207	EGL	207	History of the English Language		3
+EGL 210	EGL	210	Literature, Medicine, and Ethics	CER	3
+EGL 217	EGL	217	American Literature I	DIV HUM USA	3
+EGL 218	EGL	218	American Literature II	HUM USA	3
+EGL 220	EGL	220	Critical Approaches to the Cinema	ARTS HUM	3
+EGL 224	EGL	224	20th-Century Literatures in English	GLO HUM	3
+EGL 226	EGL	226	20th-Century American Literature	HUM USA	3
+EGL 231	EGL	231	Saints and Fools	CER HFA+	3
+EGL 232	EGL	232	Rebels and Tyrants	CER HFA+	3
+EGL 243	EGL	243	Shakespeare: The Major Works	HUM	3
+EGL 249	EGL	249	African-American Literature and Music in the 19th and 20th Centuries	HFA+	3
+EGL 250	EGL	250	Introduction to English Studies for STEM Majors	STAS	3
+EGL 260	EGL	260	World Mythology	GLO HUM	3
+EGL 261	EGL	261	The Bible as Literature	HUM	3
+EGL 266	EGL	266	The 20th-Century Novel	HUM	3
+EGL 274	EGL	274	African-American Literature	HUM USA	3
+EGL 276	EGL	276	Feminism: Literature and Cultural Contexts	DIV HUM	3
+EGL 284	EGL	284	Public Humanities Workshop	EXP+ HUM	3
+EGL 285	EGL	285	Writing Workshop: Fiction		3
+EGL 286	EGL	286	Writing Workshop: Poetry		3
+EGL 290	EGL	290	What is Public Health? A Humanities Approach	CER HUM	3
+EGL 300	EGL	300	Old English Literature	HFA+	3
+EGL 301	EGL	301	Authors, Periods, Topics, or Genres, with Intensive Writing	ESI SPK WRTD	3
+EGL 303	EGL	303	Genre or Media	HFA+	3
+EGL 304	EGL	304	Renaissance Literature in English	HFA+	3
+EGL 305	EGL	305	The Pacific, Travel & Empire	HFA+	3
+EGL 308	EGL	308	Single Author	HFA+	3
+EGL 309	EGL	309	Interdisciplinary Study of Literature	HFA+	3
+EGL 311	EGL	311	Literary or Critical History	HFA+	3
+EGL 317	EGL	317	Energy Humanities and Literature	HFA+ SPK TECH	3
+EGL 319	EGL	319	Ecology and Evolution in American Literature	HFA+ WRTD	3
+EGL 320	EGL	320	Modern and Contemporary Literature	HFA+	3
+EGL 325	EGL	325	Screenwriting	ARTS	3
+EGL 328	EGL	328	Documentary Theatre Creation	ARTS	3
+EGL 333	EGL	333	The Italian-American Experience in Literature	HFA+	3
+EGL 345	EGL	345	Shakespeare I	HFA+	3
+EGL 346	EGL	346	Shakespeare II	HFA+	3
+EGL 351	EGL	351	Documentary Cinema: History, Theory, Practice		3
+EGL 360	EGL	360	Young Adult Literature	HFA+	3
+EGL 361	EGL	361	Poetry in English	HFA+	3
+EGL 362	EGL	362	Drama in English	HFA+	3
+EGL 364	EGL	364	Prose in English	HFA+	3
+EGL 367	EGL	367	Contemporary African-American Literature	DIV HFA+ USA	3
+EGL 368	EGL	368	Caribbean and American Connections in Literature	HFA+	3
+EGL 369	EGL	369	Topics in Race and Ethnicity in American Literatures and Cultures	HFA+ USA	3
+EGL 370	EGL	370	Literature and Ethics	CER HFA+	3
+EGL 371	EGL	371	Topics in Gender Studies in Literature	HFA+	3
+EGL 372	EGL	372	Topics in Women and Literature	HFA+	3
+EGL 373	EGL	373	Literature in English from Non-Western Cultures	GLO HFA+	3
+EGL 374	EGL	374	English Literature in Relation to Other Literatures	HFA+	3
+EGL 376	EGL	376	The Literature of Imperialism	CER GLO HFA+	3
+EGL 378	EGL	378	Contemporary Native American Fiction	HFA+ USA	3
+EGL 379	EGL	379	Native American Texts and Contexts	HFA+ USA	3
+EGL 380	EGL	380	Senior Seminar	SPK WRTD	3
+EGL 381	EGL	381	Advanced Analytic and Argumentative Writing	ESI	3
+EGL 382	EGL	382	Black Women's Literature of the African Diaspora	DIV HFA+	3
+EGL 385	EGL	385	Advanced Fiction Workshop		3
+EGL 386	EGL	386	Advanced Poetry Workshop	ARTS	3
+EGL 387	EGL	387	Playwriting	ARTS	3
+EGL 389	EGL	389	Science Fiction	CER STAS	3
+EGL 390	EGL	390	Topics in American or Anglophone Literary History	HFA+	3
+EGL 391	EGL	391	Topics in British Literary History Pre-1800	HFA+	3
+EGL 392	EGL	392	Topics in British Literary History After 1750	HFA+	3
+EGL 394	EGL	394	Topics in Literary and Cultural Studies of Science and Technology	CER STAS	3
+EGL 395	EGL	395	Topics in Literary and Cultural Studies of Europe	HFA+	3
+EGL 397	EGL	397	Topics in Literary and Cultural Studies in Asia, Africa, and Latin America	HFA+	3
+EGL 399	EGL	399	Topics in American Literary and Cultural Studies	HFA+ USA	3
+EGL 400	EGL	400	Experiential Learning, Speak Effectively, Practice Critical and Ethical Reasoning	CER EXP+ SPK	0
+EGL 440	EGL	440	Performance and Technology in Teaching Literature and Composition	CER EXP+ SPK	3
+EGL 441	EGL	441	Methods of Instruction in Literature and Composition		3
+EGL 444	EGL	444	Experiential Learning	EXP+	0
+EGL 449	EGL	449	Field Experience, Grades 7-12	EXP+	1
+EGL 450	EGL	450	Field Experience, Grades 7-12	CER EXP+ SPK	1
+EGL 451	EGL	451	Supervised Student Teaching - English; Middle Level Grades 7-9	CER EXP+ SPK	6
+EGL 452	EGL	452	Supervised Student Teaching - English; High School Grades 10-12	CER EXP+ SPK	6
+EGL 454	EGL	454	Student Teaching Seminar	CER EXP+ SPK	3
+EGL 458	EGL	458	Speak Effectively Before an Audience	SPK	0
+EGL 475	EGL	475	Undergraduate Teaching Practicum I	EXP+	3
+EGL 476	EGL	476	Undergraduate Teaching Practicum II	EXP+	3
+EGL 487	EGL	487	Independent Project		0-6
+EGL 488	EGL	488	Internship	EXP+	0-6
+EGL 491	EGL	491	Honors Seminar: British Literature		3
+EGL 492	EGL	492	Honors Seminar: American or Anglophone Literature		3
+EGL 494	EGL	494	Honors Practicum: Research		3
+EGL 496	EGL	496	Senior Honors Project		0-3
+ENS 101	ENS	101	Prospects for Planet Earth	SNW	3
+ENS 119	ENS	119	Physics for Environmental Studies	SNW	4
+ENS 301	ENS	301	Contemporary Environmental Issues and Policies	STAS	3
+ENS 311	ENS	311	Ecosystem Ecology and the Global Environment	STAS	3
+ENS 312	ENS	312	Population, Technology, and the Environment	STAS	3
+ENS 333	ENS	333	Environmental Law		3
+ENS 339	ENS	339	Economics of Coastal and Marine Ecosystems	STAS	3
+ENS 395	ENS	395	Topics in Environmental Sciences		3
+ENS 443	ENS	443	Environmental Problem Solving		3
+ENS 447	ENS	447	Readings in Environmental Studies		1-3
+ENS 487	ENS	487	Independent Research in Environmental Studies	EXP+	0-6
+ENS 488	ENS	488	Internship in Environmental Studies	EXP+	0-6
+ENV 115	ENV	115	Chemistry, Life, and Environment	SNW	3
+ENV 301	ENV	301	Sustainability of the Long Island Pine Barrens	SPK STAS	3
+ENV 304	ENV	304	Global Environmental Change	STAS	3
+ENV 310	ENV	310	Sustainability and Renewable Energy - Costa Rica	STAS	4
+ENV 315	ENV	315	Principles and Applications of Groundwater Hydrology		3
+ENV 316	ENV	316	Coastal Zone Management		3
+ENV 320	ENV	320	Chemistry for Environmental Scientists	STAS	3
+ENV 321	ENV	321	Chemistry for Environmental Scientists-Lab		1
+ENV 339	ENV	339	Economics of Coastal and Marine Ecosystems	STAS	3
+ENV 340	ENV	340	Contemporary Topics in Environmental Science	ESI STEM+	3
+ENV 444	ENV	444	Experiential Learning	EXP+	0
+ENV 487	ENV	487	Research in Environmental Sciences	EXP+	0-6
+ENV 488	ENV	488	Internship in Coastal Environmental Studies	EXP+	0-1
+ESE 111	ESE	111	Making with Arduino: Hardware and Programming	TECH	3
+ESE 118	ESE	118	Digital Logic Design	TECH	4
+ESE 121	ESE	121	Introduction to Audio Systems	TECH	3
+ESE 122	ESE	122	Discrete Mathematics for Engineers		3
+ESE 123	ESE	123	Introduction to Electrical and Computer Engineering	TECH	4
+ESE 124	ESE	124	Programming Fundamentals		4
+ESE 188	ESE	188	Understanding Machine Learning	TECH	3
+ESE 201	ESE	201	Engineering and Technology Entrepreneurship		3
+ESE 224	ESE	224	Advanced Programming and Data Structures		4
+ESE 271	ESE	271	Electrical Circuit Analysis		3
+ESE 272	ESE	272	Electronics		4
+ESE 273	ESE	273	Microelectronic Circuits		3
+ESE 280	ESE	280	Embedded Microcontroller Systems Design I		4
+ESE 290	ESE	290	Transitional Study		1-3
+ESE 300	ESE	300	Technical Communication for Electrical and Computer Engineers		2
+ESE 301	ESE	301	Engineering Ethics and Societal Impact	STAS	2
+ESE 304	ESE	304	Applications of Operational Amplifiers		3
+ESE 305	ESE	305	Deterministic Signals and Systems		3
+ESE 306	ESE	306	Random Signals and Systems		3
+ESE 315	ESE	315	Control System Design		3
+ESE 319	ESE	319	Electromagnetic Waves and Transmission Lines		3
+ESE 323	ESE	323	Modern Circuit Board Design and Prototyping		3
+ESE 324	ESE	324	Advanced Electronics Laboratory		3
+ESE 325	ESE	325	Modern Sensors		3
+ESE 326	ESE	326	Fundamental Algorithms for Automated Electronic Design		3
+ESE 327	ESE	327	Fundamental Algorithms for Machine Learning Systems		3
+ESE 330	ESE	330	Integrated Electronics		3
+ESE 331	ESE	331	Semiconductor Devices		3
+ESE 332	ESE	332	Quantum Mechanics for Engineers		3
+ESE 333	ESE	333	Real-Time Operating Systems		3
+ESE 334	ESE	334	Introduction to Nanoelectronic Devices		3
+ESE 337	ESE	337	Digital Signal Processing: Theory		3
+ESE 342	ESE	342	Communication Systems		3
+ESE 343	ESE	343	Mobile Cloud Computing		3
+ESE 344	ESE	344	Software Techniques for Engineers		3
+ESE 345	ESE	345	Computer Architecture		3
+ESE 346	ESE	346	Computer Communications		3
+ESE 347	ESE	347	Digital Signal Processing: Implementation		4
+ESE 350	ESE	350	Electrical Power Systems		3
+ESE 352	ESE	352	Electromechanical Energy Converters		3
+ESE 355	ESE	355	VLSI System Design		4
+ESE 356	ESE	356	Digital System Specification and Modeling		3
+ESE 358	ESE	358	Computer Vision		3
+ESE 360	ESE	360	Network Security Engineering		3
+ESE 366	ESE	366	Design using Programmable Mixed-Signal Systems-on-Chip		4
+ESE 375	ESE	375	Architectures for Digital Signal Processing		3
+ESE 381	ESE	381	Embedded Microprocessor Systems Design II		4
+ESE 382	ESE	382	Digital Design Using VHDL and PLDs		4
+ESE 388	ESE	388	Foundations of Machine Learning		3
+ESE 411	ESE	411	Analog Integrated Circuits		3
+ESE 412	ESE	412	Lightwave Devices		3
+ESE 413	ESE	413	Introduction to Photovoltaics		3
+ESE 414	ESE	414	Fundamentals of Low Noise Electronics for Sensors		3
+ESE 440	ESE	440	Senior Design I	CER ESI EXP+ SBS+ SPK STEM+ WRTD	3
+ESE 441	ESE	441	Senior Design II	CER ESI EXP+ SBS+ SPK STEM+ WRTD	3
+ESE 442	ESE	442	Recent Advances in Communications and Networks		3
+ESE 451	ESE	451	Power Electronics		3
+ESE 452	ESE	452	Advanced Power Electronics		3
+ESE 457	ESE	457	Fundamentals of Digital Image Processing		3
+ESE 475	ESE	475	Undergraduate Teaching Practicum	EXP+	3
+ESE 476	ESE	476	Instructional Laboratory Development Practicum	EXP+	3
+ESE 488	ESE	488	Internship in Electrical/Computer Engineering	EXP+	3
+ESE 494	ESE	494	Honors Seminar on Research		1
+ESE 495	ESE	495	Honors Research Project		3
+ESE 499	ESE	499	Research in Electrical Sciences		0-3
+ESG 100	ESG	100	Introduction to Engineering Science	TECH	3
+ESG 111	ESG	111	Programming for Engineers		3
+ESG 198	ESG	198	Fundamentals of Engineering Chemistry		3
+ESG 199	ESG	199	Introduction to Undergraduate Research		0-3
+ESG 201	ESG	201	Learning from Engineering Disaster	STAS	3
+ESG 281	ESG	281	Engineering Introduction to the Solid State		3
+ESG 300	ESG	300	Writing in Engineering Science		0
+ESG 302	ESG	302	Thermodynamics of Materials		3
+ESG 312	ESG	312	Engineering Laboratory		4
+ESG 316	ESG	316	Engineering Science Design Methods		4
+ESG 332	ESG	332	Materials Science I: Structure and Properties of Materials		3
+ESG 333	ESG	333	Materials Science II: Electronic Properties		3
+ESG 375	ESG	375	Fundamentals of Professional Engineering		1
+ESG 420	ESG	420	Fluid Flow, Heat & Mass Transport		3
+ESG 440	ESG	440	Capstone Engineering Design I	CER ESI EXP+ SBS+ SPK STEM+ WRTD	3
+ESG 441	ESG	441	Capstone Engineering Design II	CER ESI EXP+ SBS+ SPK STEM+ WRTD	3
+ESG 487	ESG	487	Cooperative Research in Technological Solutions		0-3
+ESM 121	ESM	121	Better Planet By Design	STAS	3
+ESM 150	ESM	150	Materials of the Modern World	TECH	3
+ESM 212	ESM	212	Introduction to Environmental Engineering		3
+ESM 213	ESM	213	Introduction to Nanotechnology Studies		3
+ESM 299	ESM	299	Directed Research in Materials Science		0-3
+ESM 325	ESM	325	Diffraction Techniques and Structure of Solids		3
+ESM 335	ESM	335	Strength of Materials		3
+ESM 336	ESM	336	Electronic Materials		3
+ESM 339	ESM	339	Microfabrication and Thin Film Processing of Advanced Materials		4
+ESM 378	ESM	378	Materials Chemistry		3
+ESM 400	ESM	400	Research and Nanotechnology		3
+ESM 450	ESM	450	Engineering Systems Laboratory	TECH	3
+ESM 453	ESM	453	Biomaterials		3
+ESM 455	ESM	455	Materials and Processes in Manufacturing Design		3
+ESM 460	ESM	460	Advanced Engineering Laboratory		3
+ESM 469	ESM	469	Polymer Engineering		3
+ESM 475	ESM	475	Undergraduate Teaching Practicum	EXP+	3
+ESM 486	ESM	486	Innovation and Entrepreneurship in Engineering		3
+ESM 488	ESM	488	Cooperative Industrial Practice	EXP+	0-6
+ESM 499	ESM	499	Research in Materials Science		0-4
+EST 100	EST	100	Designing, Producing & Presenting Multimedia Projects	TECH	3
+EST 102	EST	102	Weather and Climate	SNW	3
+EST 104	EST	104	Projects in Technology and Society		1-3
+EST 105	EST	105	The Digital Generation: Leveraging Technology to Build 21st Century Skills	TECH	3
+EST 106	EST	106	The Digital Generation: Creating a Professional Web Presence	TECH	3
+EST 192	EST	192	Introduction to Modern Engineering		3
+EST 194	EST	194	Decision-making	QPS	3
+EST 200	EST	200	Cultural Technologies and Society	STAS	3
+EST 201	EST	201	Technological Trends in Society	STAS	3
+EST 202	EST	202	Introduction to Science, Technology, and Society Studies	TECH	3
+EST 203	EST	203	Technology in the City		3
+EST 204	EST	204	Modern Digital Technology and Innovation	TECH	3
+EST 205	EST	205	Introduction to Technological Design: Innovation and Design Thinking	TECH	3
+EST 207	EST	207	Interaction Design	TECH	3
+EST 208	EST	208	Virtual Distance Foundations: Collaborating Across Boundaries in the Digital Age	TECH	3
+EST 209	EST	209	Introduction to Italian Design: Theory and Practice	STAS	3
+EST 210	EST	210	Emerging Technologies in Atypical Operations	TECH	3
+EST 221	EST	221	Multimedia for Online Content Platforms	TECH	3
+EST 230	EST	230	Information and Communications Technology for Sustainable Development	TECH	3
+EST 240	EST	240	Visual Rhetoric and Information Technology	TECH	3
+EST 280	EST	280	Fundamentals of Industrial Engineering	TECH	3
+EST 291	EST	291	Energy, Environment, and People	STAS	3
+EST 304	EST	304	Communication for Engineers and Scientists		3
+EST 305	EST	305	Applications Software for Information Management		3
+EST 306	EST	306	Cloud Computing Applications		3
+EST 310	EST	310	Design of Computer Games	TECH	3
+EST 320	EST	320	Communication Technology Systems	STAS	3
+EST 323	EST	323	Human-Computer Interaction		3
+EST 325	EST	325	Technology in the Workplace	STAS	3
+EST 326	EST	326	Management for Engineers		3
+EST 327	EST	327	Systems Engineering Management, Elements of Product Design and Development		3
+EST 330	EST	330	Natural Disasters: Societal Impacts and Technological Solutions	STAS	3
+EST 331	EST	331	Engineering Ethics	STAS	3
+EST 339	EST	339	Benevolent Computing		3
+EST 341	EST	341	Waste Treatment Technologies	TECH	3
+EST 342	EST	342	Industrial Engineering, Intro to Operations Research I		3
+EST 344	EST	344	Technical Writing		3
+EST 364	EST	364	How to Build a Startup	EXP+	3
+EST 371	EST	371	Data Science Management		3
+EST 372	EST	372	The Mobile Revolution in Development		3
+EST 388	EST	388	Special Topics in Technological Systems Management		1
+EST 389	EST	389	Special Topics in Technological Systems Management		3
+EST 391	EST	391	Technology Assessment	STAS	3
+EST 392	EST	392	Engineering Economics	SBS	3
+EST 393	EST	393	Project Management		3
+EST 440	EST	440	Interdisciplinary Research Methods	CER ESI EXP+ SBS+ SPK STEM+ WRTD	3
+EST 441	EST	441	Interdisciplinary Senior Project	CER ESI EXP+ SBS+ SPK STEM+ WRTD	3
+EST 475	EST	475	Undergraduate Teaching Practicum	EXP+	3
+EST 488	EST	488	Internship in Technology and Society	EXP+	1-3
+EST 499	EST	499	Research in Technology and Society	EXP+	0-3
+EUR 101	EUR	101	Foundations of European Culture	GLO	3
+EUR 201	EUR	201	Development of European Culture	HUM	3
+EUR 390	EUR	390	Special Topics in European Studies	ARTS HFA+	3
+EUR 401	EUR	401	Senior Research Seminar in European Studies	ESI WRTD	3
+EUR 444	EUR	444	Experiential Learning	EXP+	0
+EUR 447	EUR	447	Directed Readings in European Studies		1-6
+EUR 458	EUR	458	Speak Effectively Before an Audience	SPK	0
+EUR 459	EUR	459	Write Effectively in European Studies	WRTD	0
+EUR 475	EUR	475	Undergraduate Teaching Practicum in European Studies I	EXP+	3
+EUR 476	EUR	476	Undergraduate Teaching Practicum in European Studies II	EXP+	3
+EUR 487	EUR	487	Independent Project in European Studies		0-6
+EUR 488	EUR	488	Internship in European Studies	EXP+	0-6
+EUR 495	EUR	495	Senior Honors Project in European Studies		3
+EXT 288	EXT	288	Externship: Applied Learning for Career Readiness	EXP+	0-3
+EXT 488	EXT	488	Externship: Applied Learning for Career Readiness II	EXP+	0-6
+FLA 307	FLA	307	Critical Pedagogy		3
+FLA 339	FLA	339	Methods and Materials in the Teaching of Foreign Languages		3
+FLA 340	FLA	340	Curriculum Development and Micro-Teaching	CER EXP+ SPK	3
+FLA 400	FLA	400	Experiential Learning, Speak Effectively, Practice Critical and Ethical Reasoning	CER EXP+ SPK	0
+FLA 439	FLA	439	Technology Literacy for Foreign Language Teachers	TECH	3
+FLA 440	FLA	440	Foreign Language Acquisition Research		3
+FLA 449	FLA	449	Field Experience, Grades 7-12		1
+FLA 450	FLA	450	Field Experience, Grades 7-12	CER EXP+ SPK	1
+FLA 451	FLA	451	Supervised Student Teaching: Middle School Level Grades 7-9	CER EXP+ SPK	6
+FLA 452	FLA	452	Supervised Student Teaching: High School Grades 10-12	CER EXP+ SPK	6
+FLA 454	FLA	454	Student Teaching Seminar	CER EXP+ SPK	3
+FLM 101	FLM	101	Introduction to Filmmaking and Television: Visual Storytelling	ARTS	3
+FLM 102	FLM	102	Introduction to Film and Television Composition: How Films and TV Shows Say What They Mean	HUM	3
+FLM 215	FLM	215	Scriptwriting for Film and Television	HFA+	3
+FLM 220	FLM	220	Documentary Filmmaking	HFA+	3
+FLM 221	FLM	221	Fiction Filmmaking	HFA+	3
+FLM 301	FLM	301	The Filmmaker's Toolbox: Cinematography, Sound and Editing	TECH	3
+FLM 302	FLM	302	Producing Practices for Film and Television: Producing and Directing	SPK	3
+FLM 303	FLM	303	Podcasting: Audio Storytelling Skills for Filmmakers	SPK	3
+FLM 310	FLM	310	Story Analysis for Filmmakers and Television Writers	HFA+	3
+FLM 320	FLM	320	Topics in Film for Filmmakers and Television Writers	HFA+	3
+FLM 402	FLM	402	Capstone Project	EXP+	3
+FLM 488	FLM	488	Internship	EXP+	3
+FRN 101	FRN	101	Intensive Elementary French	LANG	6
+FRN 111	FRN	111	Elementary French I	LANG	4
+FRN 112	FRN	112	Elementary French II	LANG	4
+FRN 201	FRN	201	Intensive Intermediate French	GLO HUM LANG	6
+FRN 211	FRN	211	Intermediate French 1	GLO LANG	3
+FRN 212	FRN	212	Intermediate French 2	GLO HUM LANG	3
+FRN 311	FRN	311	Conversation	HFA+ LANG SPK	3
+FRN 312	FRN	312	Composition	ESI HFA+ LANG WRTD	3
+FRN 313	FRN	313	French Vocabulary through Popular Culture	HFA+	3
+FRN 395	FRN	395	Readings in French Literature I: Analysis and Interpretation	HFA+	3
+FRN 396	FRN	396	Readings in French Literature II: Analysis and Interpretation	HFA+	3
+FRN 410	FRN	410	Business French	SBS+	3
+FRN 411	FRN	411	Phonetics and Diction	HFA+	3
+FRN 412	FRN	412	Stylistics	HFA+ WRTD	3
+FRN 413	FRN	413	Advanced French Conversation	HFA+	3
+FRN 423	FRN	423	Africana Literature in French	HFA+	3
+FRN 433	FRN	433	Studies in 17th-Century Literature	HFA+	3
+FRN 434	FRN	434	Studies in 18th-Century Literature	HFA+	3
+FRN 435	FRN	435	Studies in 19th-Century Literature	HFA+	3
+FRN 436	FRN	436	Studies in 20th-Century Literature	HFA+	3
+FRN 438	FRN	438	Francophone cultures	HFA+	3
+FRN 441	FRN	441	French Civilization	HFA+	3
+FRN 442	FRN	442	Free Seminar	HFA+	3
+FRN 444	FRN	444	Experiential Learning	EXP+	0
+FRN 447	FRN	447	Directed Readings in French	EXP+	1-6
+FRN 459	FRN	459	Write Effectively in French	WRTD	0
+FRN 475	FRN	475	Undergraduate Teaching Practicum in French I	EXP+	3
+FRN 476	FRN	476	Undergraduate Teaching Practicum in French II	EXP+	3
+FRN 488	FRN	488	Internship	EXP+	0-6
+FRN 495	FRN	495	Senior Honors Project in French	EXP+	3
+GEO 101	GEO	101	Environmental Geology	SNW	3
+GEO 102	GEO	102	The Earth	SNW	3
+GEO 103	GEO	103	The Earth Through Time	SNW	3
+GEO 104	GEO	104	Ripples across the World: Global Effects of Natural Disasters	GLO	3
+GEO 105	GEO	105	Energy Resources for the 21st Century	SNW	3
+GEO 106	GEO	106	Planetary Geology	SNW	3
+GEO 107	GEO	107	Natural Hazards	SNW	3
+GEO 112	GEO	112	Physical Geology Laboratory		1
+GEO 113	GEO	113	Historical Geology Laboratory		1
+GEO 115	GEO	115	Making the Invisible Visible: Polarized light microscopy	TECH	1
+GEO 121	GEO	121	Principles of Geology		4
+GEO 122	GEO	122	Physical Geology	SNW	4
+GEO 287	GEO	287	Introductory Research in Geology	ESI	0-3
+GEO 303	GEO	303	Sedimentary Geology and Geochronology (with emphasis on the Turkana Basin)	SNW	3
+GEO 304	GEO	304	Energy, Mineral Resources, and the Environment	STAS	3
+GEO 305	GEO	305	Field Geology	EXP+	3
+GEO 306	GEO	306	Mineralogy		3
+GEO 307	GEO	307	Global Environmental Change	STAS	3
+GEO 309	GEO	309	Structural Geology		3
+GEO 310	GEO	310	Introduction to Geophysics		3
+GEO 311	GEO	311	Geoscience and Global Concerns	STAS	3
+GEO 313	GEO	313	Understanding Water Resources for the 21st Century	ESI STAS	3
+GEO 315	GEO	315	Groundwater Hydrology		3
+GEO 316	GEO	316	Geochemistry of Surficial Processes		4
+GEO 318	GEO	318	Engineering Geology and Coastal Processes	STEM+	3
+GEO 320	GEO	320	Glacial Geology	STEM+	3
+GEO 330	GEO	330	The Geology of Mars	ESI	3
+GEO 347	GEO	347	Remote Sensing		3
+GEO 366	GEO	366	Mineralogy Laboratory	TECH	1
+GEO 369	GEO	369	Structural Geology Laboratory		1
+GEO 403	GEO	403	Sedimentation and Stratigraphy		3
+GEO 404	GEO	404	Geomorphology	STEM+	3
+GEO 405	GEO	405	Field Camp		1-6
+GEO 407	GEO	407	Igneous and Metamorphic Petrology	STEM+	3
+GEO 420	GEO	420	Environmental Analysis Using Remote Sensing and Geographic Information Systems	TECH	4
+GEO 444	GEO	444	Experiential Learning	EXP+	0
+GEO 447	GEO	447	Senior Tutorial in Geology		1-3
+GEO 448	GEO	448	Geosciences Colloquium		1
+GEO 463	GEO	463	Sedimentation and Stratigraphy Laboratory		1
+GEO 467	GEO	467	Igneous and Metamorphic Petrology Laboratory	STEM+	1
+GEO 475	GEO	475	Undergraduate Teaching Practicum I	EXP+	3
+GEO 476	GEO	476	Undergraduate Teaching Practicum II	EXP+	3
+GEO 487	GEO	487	Senior Research in Geology	ESI EXP+	0-6
+GEO 488	GEO	488	Internship	EXP+	0-6
+GEO 496	GEO	496	Research and Synthesize Scientific Literature in Geoscience	ESI WRTD	1
+GEO 497	GEO	497	Research Communication in Geoscience	CER SPK	1
+GER 101	GER	101	Intensive Elementary German	LANG	6
+GER 111	GER	111	Elementary German I	LANG	4
+GER 112	GER	112	Elementary German II	LANG	4
+GER 211	GER	211	Intermediate German I	GLO LANG	3
+GER 212	GER	212	Intermediate German II	GLO HUM LANG	3
+GER 311	GER	311	German Conversation and Composition	HFA+ SPK	3
+GER 312	GER	312	German Conversation and Composition	ESI HFA+ WRTD	3
+GER 313	GER	313	German Vocabulary in Conceptual Groups	HFA+	3
+GER 343	GER	343	Introduction to Literary Genres	HFA+	3
+GER 438	GER	438	Structure of German	HFA+	3
+GER 439	GER	439	History of German	HFA+	3
+GER 444	GER	444	Experiential Learning	EXP+	0
+GER 447	GER	447	Directed Readings in German	EXP+	1-6
+GER 459	GER	459	Write Effectively in German	WRTD	0
+GER 475	GER	475	Undergraduate Teaching Practicum in German I	EXP+	3
+GER 476	GER	476	Undergraduate Teaching Practicum in German II	EXP+	3
+GER 488	GER	488	Internship	EXP+	0-6
+GER 495	GER	495	Senior Honors Project in German	EXP+	3
+GLI 102	GLI	102	Academy of Civic Life	USA	3
+GLI 211	GLI	211	Perspectives in Globalization Studies and International Relations	SBS SPK	3
+GLI 212	GLI	212	Issues in Globalization Studies and International Relations	GLO HUM	3
+GLI 320	GLI	320	Global, Cultural, and Environmental Issues	STAS	3
+GLI 330	GLI	330	Global, Political, and Economic Issues	SBS+	3
+GLI 340	GLI	340	Conflict Resolution, Coalition Building, and Peacemaking	CER	3
+GLI 391	GLI	391	Humanities and Fine Arts Topics in Globalization Studies	GLO HFA+	3
+GLI 392	GLI	392	Social and Behavioral Sciences Topics in Globalization Studies	GLO SBS+	3
+GLI 402	GLI	402	Democracy and Justice for All	EXP+ USA	3
+GLI 444	GLI	444	Experiential Learning	EXP+	0
+GLI 450	GLI	450	Capstone Seminar in Globalization Studies and International Relations	ESI SPK WRTD	3
+GLI 458	GLI	458	Speak Effectively Before an Audience	SPK	0
+GLI 459	GLI	459	Write Effectively in Globalization Studies and International Relations	SPK	0
+GLI 475	GLI	475	Undergraduate Teaching Practicum I	EXP+	3
+GLI 476	GLI	476	Undergraduate Teaching Practicum II	EXP+	3
+GLI 487	GLI	487	Independent Research in Globalization Studies and International Relations	EXP+	0-6
+GLI 488	GLI	488	Internship	EXP+	0-6
+GLI 495	GLI	495	Senior Honors Project in Globalization Studies and International Relations		3
+GRK 101	GRK	101	Intensive Elementary Modern Greek	LANG	6
+GRK 111	GRK	111	Elementary Ancient Greek I	LANG	4
+GRK 112	GRK	112	Elementary Ancient Greek II	LANG	4
+GRK 121	GRK	121	Elementary Modern Greek I	LANG	3
+GRK 122	GRK	122	Elementary Modern Greek II	LANG	3
+GRK 211	GRK	211	Intermediate Modern Greek I	GLO LANG	3
+GRK 212	GRK	212	Intermediate Modern Greek II	GLO HUM LANG	3
+GRK 321	GRK	321	Advanced Modern Greek I	HFA+ LANG	3
+GRK 322	GRK	322	Advanced Modern Greek II	HFA+ LANG	3
+GSS 105	GSS	105	Introduction to Maps and Mapping	SBS	3
+GSS 309	GSS	309	GIS and Cartography		3
+GSS 313	GSS	313	GIS Design and Application I	TECH	3
+GSS 314	GSS	314	GIS Laboratory		1
+GSS 317	GSS	317	Geospatial Narratives: Deep Mapping for Humanities and Social Sciences	TECH	3
+GSS 323	GSS	323	GIS Database and Design		3
+GSS 325	GSS	325	GIS Design & Applications II		3
+GSS 326	GSS	326	GIS Project Management		3
+GSS 350	GSS	350	Applied Spatial Data Analysis	STEM+	3
+GSS 354	GSS	354	Geospatial Science for the Coastal Zone		3
+GSS 355	GSS	355	Remote Sensing GIS Data	STEM+	3
+GSS 360	GSS	360	LiDAR Remote Sensing		3
+GSS 390	GSS	390	Topics in Geospatial Science		3
+GSS 475	GSS	475	Undergraduate Teaching Practicum	EXP+	0-3
+GSS 487	GSS	487	Geospatial Science Research	EXP+	0-6
+GSS 488	GSS	488	Geospatial Science Internship	EXP+	0-1
+HBW 101	HBW	101	Intensive Elementary Hebrew	LANG	6
+HBW 111	HBW	111	Elementary Hebrew I	LANG	3
+HBW 112	HBW	112	Elementary Hebrew II	LANG	3
+HBW 211	HBW	211	Intermediate Hebrew I	GLO LANG	3
+HBW 212	HBW	212	Intermediate Hebrew II	GLO HUM LANG	3
+HBW 311	HBW	311	Advanced Hebrew I	HFA+ LANG	3
+HBW 312	HBW	312	Advanced Hebrew II	HFA+ LANG	3
+HBW 405	HBW	405	Studies in Hebrew Literature	HFA+	3
+HBW 415	HBW	415	The History of the Hebrew Language	HFA+	3
+HBW 447	HBW	447	Directed Readings in Hebrew	EXP+	1-4
+HBW 475	HBW	475	Undergraduate Teaching Practicum I	EXP+	3
+HBW 476	HBW	476	Undergraduate Teaching Practicum II	EXP+	3
+HIN 111	HIN	111	Elementary Hindi I	LANG	3
+HIN 112	HIN	112	Elementary Hindi II	LANG	3
+HIN 211	HIN	211	Intermediate Hindi I	GLO LANG	3
+HIN 212	HIN	212	Intermediate Hindi II	GLO HUM LANG	3
+HIN 311	HIN	311	Hindi Conversation and Composition I	HFA+ LANG	3
+HIN 312	HIN	312	Hindi Conversation and Composition II	HFA+ LANG SPK	3
+HIS 100	HIS	100	The Ancient World	GLO SBS	3
+HIS 101	HIS	101	Ancient Mesopotamia to Early Modern Europe	GLO SBS	3
+HIS 102	HIS	102	Modern European History, 18th c. to the Present	GLO SBS	3
+HIS 103	HIS	103	American History to 1877	DIV SBS USA	3
+HIS 104	HIS	104	United States Since 1877	DIV SBS USA	3
+HIS 113	HIS	113	America in the Atlantic World	GLO SBS USA	3
+HIS 116	HIS	116	Women as a Force in US History	SBS USA	3
+HIS 201	HIS	201	The Ancient Near East	GLO	3
+HIS 202	HIS	202	Ancient Greece	GLO	3
+HIS 203	HIS	203	Ancient Rome	GLO	3
+HIS 206	HIS	206	Europe in the Age of Discovery, 1348-1789	GLO SBS	3
+HIS 212	HIS	212	Ancient History of Mesoamerica	GLO	3
+HIS 213	HIS	213	Colonial Latin America	GLO SBS	3
+HIS 214	HIS	214	Modern Latin America	GLO SBS	3
+HIS 215	HIS	215	Long Island History	SBS USA	3
+HIS 216	HIS	216	History of U.S.-Latin American Relations	GLO SBS	3
+HIS 218	HIS	218	Ancient, Medieval, & Early Modern South Asia	GLO HUM	3
+HIS 220	HIS	220	Japan in the Age of Courtier and Samurai	GLO SBS	3
+HIS 221	HIS	221	Introduction to Modern African History	GLO SBS	3
+HIS 223	HIS	223	Regional History of Africa	GLO SBS	3
+HIS 225	HIS	225	Jewish History from Antiquity to the Middle Ages	CER GLO	3
+HIS 226	HIS	226	Modern Jewish History: Dilemmas of Difference	GLO SBS	3
+HIS 227	HIS	227	Islamic Civilization & Muslim Societies	GLO SBS	3
+HIS 229	HIS	229	Victorian Britain	GLO SBS	3
+HIS 230	HIS	230	Britain since 1688: Four Nations in the World	GLO SBS	3
+HIS 235	HIS	235	The Heirs of Rome: The Early Medieval World, 300-1000	GLO	3
+HIS 236	HIS	236	The World of the Later Middle Ages, 1000-1500	GLO	3
+HIS 237	HIS	237	Science, Technology, and Medicine in Western Civilization I	STAS	3
+HIS 238	HIS	238	Science, Technology, and Medicine in Western Civilization II	STAS	3
+HIS 239	HIS	239	From Columbus to Darwin: Investigating Nature, Medicine, and Science in the Americas	ESI SPK STAS	3
+HIS 241	HIS	241	Nazi Genocide and the Holocaust	GLO	3
+HIS 247	HIS	247	Modern Korea through Visual Culture	GLO SBS	3
+HIS 248	HIS	248	Modern Europe, 1815-1914	GLO	3
+HIS 249	HIS	249	Modern Europe, 1914-1945	GLO	3
+HIS 250	HIS	250	The Second World War, 1939-1945	GLO SBS	3
+HIS 251	HIS	251	Europe Since 1945	GLO	3
+HIS 256	HIS	256	Tacos to Telenovelas: Latin American Popular Culture	DIV GLO SBS	3
+HIS 261	HIS	261	Change and Reform in the United States, 1877-1919	USA	3
+HIS 262	HIS	262	American Colonial Society	DIV SBS USA	3
+HIS 263	HIS	263	Age of the American Revolution	SBS USA	3
+HIS 264	HIS	264	The Early Republic	DIV USA	3
+HIS 265	HIS	265	Civil War and Reconstruction	DIV USA	3
+HIS 266	HIS	266	History of the United States West	USA	3
+HIS 273	HIS	273	U.S. History, 1900-1945	SBS USA	3
+HIS 274	HIS	274	U.S. History, 1945-2000	SBS USA	3
+HIS 277	HIS	277	The Modern Color Line	USA	3
+HIS 280	HIS	280	The History of the U.S. Working Class	SBS USA	3
+HIS 281	HIS	281	Global History and Geography	STAS	3
+HIS 282	HIS	282	African American History Since 1877	SBS USA	3
+HIS 283	HIS	283	The History of Latinos in the United States	DIV SBS USA	3
+HIS 285	HIS	285	Games, Burlesques, and Spectacles: Popular Culture in 19th-Century America	SBS USA	3
+HIS 286	HIS	286	The Global History of Human Health	GLO SBS	3
+HIS 287	HIS	287	Crime and Criminal Justice in the U.S.	SBS USA	3
+HIS 288	HIS	288	Wealth and Inequality in Early America	DIV SBS USA	3
+HIS 289	HIS	289	Wealth and Inequality in America's Corporate Age	SBS USA	3
+HIS 293	HIS	293	Disease in American History	STAS	3
+HIS 295	HIS	295	History of North American Cities and Suburbs	SBS USA	3
+HIS 299	HIS	299	College Regional Studies Program	SBS USA	3
+HIS 300	HIS	300	Topics in Global History	SBS+	3
+HIS 301	HIS	301	Reading and Writing History	ESI	3
+HIS 302	HIS	302	Environmental History in Global Perspective	STAS	3
+HIS 303	HIS	303	The Crusades and Medieval Society	SBS+	3
+HIS 304	HIS	304	Religion, Magic and Witchcraft in Early Modern Europe	SBS+	3
+HIS 307	HIS	307	Silk Roads and Spice Routes: Travel, Exploration and Discovery in the Premodern World	DIV GLO SBS+	3
+HIS 308	HIS	308	Britain and France in the Age of Revolution	SBS+	3
+HIS 309	HIS	309	Victorian Britain and Monsters: A Peculiar History of Empire	DIV SBS+	3
+HIS 310	HIS	310	Britain Since 1945: Postcolonial Disruptions	DIV SBS+	3
+HIS 312	HIS	312	From Empire to Third Reich: Germany, 1890-1945	SBS+	3
+HIS 314	HIS	314	Indigenous-Settler Relations in the United States	CER DIV SBS+	3
+HIS 315	HIS	315	Nazi Empire	GLO SBS+	3
+HIS 318	HIS	318	Modern European Intellectual History	SBS+	3
+HIS 320	HIS	320	Latino New York	DIV SBS+ SPK	3
+HIS 323	HIS	323	Women of Color in the U.S.	DIV SBS+	3
+HIS 325	HIS	325	Civil Rights and Black Power	SBS+	3
+HIS 327	HIS	327	The Arts as History	HFA+ SBS+	3
+HIS 328	HIS	328	History of New York City	SBS+	3
+HIS 329	HIS	329	Environmental Disasters	STAS	3
+HIS 331	HIS	331	Immigration in American History	DIV SBS+	3
+HIS 332	HIS	332	Postcolonial South Asia	ESI SBS+	3
+HIS 334	HIS	334	Women and Gender in Pre-Modern European History	SBS+	3
+HIS 336	HIS	336	Women and Gender in Modern European History	SBS+	3
+HIS 337	HIS	337	History of Korea	SBS+	3
+HIS 338	HIS	338	Asian and Pacific Islanders in American History	SBS+	3
+HIS 339	HIS	339	Recent African American History	SBS+ USA	3
+HIS 340	HIS	340	Topics in Asian History	GLO SBS+	3
+HIS 344	HIS	344	Modern Japan	GLO SBS+	3
+HIS 348	HIS	348	Colonial South Asia	CER SBS+	3
+HIS 350	HIS	350	Topics in African History	SBS+	3
+HIS 351	HIS	351	Revolutionary China: Politics, Culture, and Power	SBS+	3
+HIS 352	HIS	352	Environmental History of China	STAS	3
+HIS 353	HIS	353	Postwar Japan	GLO SBS+	3
+HIS 356	HIS	356	Zionism, Israel, and the Middle East	CER SBS+	3
+HIS 360	HIS	360	Changing Families: US History to 1860	DIV SBS+	3
+HIS 361	HIS	361	Slavery and Freedom in the Making of the Atlantic	CER DIV SBS+	3
+HIS 362	HIS	362	Unsettled Decade: The Sixties	SBS+	3
+HIS 363	HIS	363	Topics in American History	SBS+	3
+HIS 364	HIS	364	Oceans Past: World History from a Maritime Perspective	STAS	3
+HIS 365	HIS	365	Environmental History of North America	ESI STAS	3
+HIS 366	HIS	366	Carceral Studies: Histories of Policing, Prisons, and Surveillance	DIV SBS+	3
+HIS 368	HIS	368	Health and Disease in Africa	SBS+	3
+HIS 369	HIS	369	Religion and Politics in Africa	CER SBS+	3
+HIS 370	HIS	370	US Social History from 1860 to 1940	DIV SBS+	3
+HIS 371	HIS	371	Law and Society in American History, 1620-1877	DIV SBS+	3
+HIS 373	HIS	373	Global 1960s	GLO SBS+	3
+HIS 374	HIS	374	Surveillance State: A History of U.S. Domestic Spying	SBS+	3
+HIS 379	HIS	379	Rebels & Revolutionaries: 1960s Latin America	GLO SBS+	3
+HIS 380	HIS	380	Topics in Latin-American History	SBS+	3
+HIS 381	HIS	381	Global Commodity Histories, 1500-2000	DIV GLO SBS+	3
+HIS 383	HIS	383	The World of Jane Austen; Jane Austen in the World	HFA+ SBS+	3
+HIS 385	HIS	385	Aztec Civilization	ESI SBS+	3
+HIS 386	HIS	386	The Maya	SBS+	3
+HIS 387	HIS	387	Cuba: Island of Consequence	ESI GLO SBS+	3
+HIS 389	HIS	389	Mexico: From Revolutions to Cartels, 1810-2020	DIV SBS+	3
+HIS 390	HIS	390	Topics in Ancient History	SBS+	3
+HIS 391	HIS	391	Topics in Ancient and Medieval Europe	SBS+	3
+HIS 392	HIS	392	Topics in Early Modern Europe	SBS+	3
+HIS 393	HIS	393	Topics in Modern European History	SBS+	3
+HIS 396	HIS	396	Topics in U.S. History	SBS+	3
+HIS 397	HIS	397	Topics in History of U.S. Immigration and Ethnicity		3
+HIS 398	HIS	398	Topics in the History of Science, Medicine and Technology	STAS	3
+HIS 399	HIS	399	Topics in U.S. History	SBS+	3
+HIS 401	HIS	401	Senior Colloquium	EXP+ SPK WRTD	3
+HIS 444	HIS	444	Experiential Learning	EXP+	0
+HIS 447	HIS	447	Independent Readings in History		1-3
+HIS 458	HIS	458	Speak Effectively Before an Audience	SPK	0
+HIS 459	HIS	459	Write Effectively in History	WRTD	0
+HIS 487	HIS	487	Supervised Research	EXP+	0-6
+HIS 488	HIS	488	Internship	EXP+	0-6
+HIS 495	HIS	495	Senior Honors Project in History		3
+HIS 496	HIS	496	Senior Honors Project in History	EXP+	3
+HON 101	HON	101	Introduction to Stony Brook		1
+HON 105	HON	105	Modes of Knowledge	CER HUM SBS	3
+HON 106	HON	106	Modes of Being	CER HUM SBS	3
+HON 110	HON	110	Honors Topics		1
+HON 111	HON	111	Honors Topics		1
+HON 112	HON	112	Honors Topics		1
+HON 113	HON	113	Honors Topics		1
+HON 114	HON	114	Honors Topics		1
+HON 115	HON	115	Honors Topics		1
+HON 116	HON	116	Honors Topics		1
+HON 117	HON	117	Honors Topics		1
+HON 118	HON	118	Honors Topics		1
+HON 119	HON	119	Honors Topics		1
+HON 120	HON	120	Honors Topics		1
+HON 201	HON	201	The Arts and Society	ARTS	3
+HON 301	HON	301	Science, Engineering, Medicine, and Society	CER STAS	3
+HON 401	HON	401	Global Issues	DIV GLO	3
+HON 475	HON	475	Honors College Teaching Practicum	EXP+	1
+HON 495	HON	495	Honors College Senior Project	ESI EXP+ SPK WRTD	3
+HON 496	HON	496	Honors College Senior Project	ESI EXP+ SPK WRTD	3
+HUE 269	HUE	269	Topics in Contemporary Slavic Culture	GLO HUM	3
+HUE 392	HUE	392	Topics in Slavic Studies	HFA+	3
+HUE 487	HUE	487	Independent Research		0-6
+HUF 211	HUF	211	French Cinema	ARTS	3
+HUF 216	HUF	216	French Civilization through the Ages	GLO HUM	3
+HUF 219	HUF	219	Modern France	GLO	3
+HUF 311	HUF	311	French Literature	GLO HFA+	3
+HUF 318	HUF	318	Pan-African Literature I	GLO HFA+	3
+HUF 319	HUF	319	Women of the Middle East	GLO HFA+	3
+HUF 385	HUF	385	French Caribbean Literature	HFA+	3
+HUF 475	HUF	475	Undergraduate Teaching Practicum I	EXP+	3
+HUG 221	HUG	221	German Cinema Since 1945	ARTS	3
+HUG 229	HUG	229	Germany Today	GLO	3
+HUG 321	HUG	321	Topics in the Literature of Germany	HFA+	3
+HUI 216	HUI	216	Italian Civilization Through the Ages	GLO	3
+HUI 231	HUI	231	Italian Cinema	ARTS CER	3
+HUI 234	HUI	234	Introduction to 20th-Century Drama	GLO HUM	3
+HUI 235	HUI	235	Love and Tragedy in Early Italian Literature	GLO HUM	3
+HUI 236	HUI	236	The Italian-American Scene	HUM USA	3
+HUI 237	HUI	237	Images of Italian-American Women	DIV HUM USA	3
+HUI 239	HUI	239	Modern Italy	GLO HUM	3
+HUI 306	HUI	306	Italian Renaissance Art	HFA+	3
+HUI 331	HUI	331	Italian Literature	HFA+	3
+HUI 333	HUI	333	The Italian-American Experience in Literature	HFA+	3
+HUI 336	HUI	336	Italian Americans and Ethnic Relations	USA	3
+HUI 338	HUI	338	Images of Italian Americans in Film	HFA+	3
+HUI 390	HUI	390	Italian-American Studies in the Humanities	HFA+	3
+HUI 392	HUI	392	Italian-American Studies in the Social and Behavioral Sciences	SBS+	3
+HUI 447	HUI	447	Directed Readings in Italian Studies		1-6
+HUI 475	HUI	475	Undergraduate Teaching Practicum I	EXP+	3
+HUI 476	HUI	476	Undergraduate Teaching Practicum II	EXP+	3
+HUL 324	HUL	324	Romance Linguistics	HFA+	3
+HUR 141	HUR	141	The Age of Empire	HUM	3
+HUR 142	HUR	142	Culture and Revolution	HUM	3
+HUR 231	HUR	231	Saints and Fools	CER HFA+	3
+HUR 232	HUR	232	Rebels and Tyrants	CER HFA+	3
+HUR 235	HUR	235	Crime and Punishment in World Literature	CER GLO HUM	3
+HUR 241	HUR	241	Russian Cinema	ARTS	3
+HUR 249	HUR	249	Russia Today	GLO HUM	3
+HUR 341	HUR	341	Russian Literature and the West	HFA+	3
+HUR 393	HUR	393	Literary Analysis of Russian Texts	HFA+	3
+HUR 475	HUR	475	Undergraduate Teaching Practicum I	EXP+	3
+HUR 476	HUR	476	Undergraduate Teaching Practicum II	EXP+	3
+HUS 201	HUS	201	The Hispanic World through Visual Cultures	ARTS DIV	3
+HUS 221	HUS	221	Disabled Bodies, National Politics	DIV STAS	3
+HUS 250	HUS	250	Caribbean Cultures	DIV GLO HUM	3
+HUS 254	HUS	254	Latin America Today	DIV GLO HUM	3
+HUS 255	HUS	255	Modern Spain	GLO HUM	3
+HUS 261	HUS	261	Latin American Literature in a Global Context	DIV GLO HUM	3
+HUS 271	HUS	271	United States Latino Literature and Culture	DIV HUM USA	3
+HUS 272	HUS	272	Science, Technology, and the Environment in Latin America	CER STAS	3
+HUS 290	HUS	290	Latin American Cinema	ARTS DIV GLO	3
+HUS 475	HUS	475	Undergraduate Teaching Practicum in Hispanic Cultures	EXP+	3
+IAE 101	IAE	101	Digital Intelligence	ARTS TECH	3
+IAP 249	IAP	249	Placeholder Course		0-1
+IAP 302	IAP	302	Placeholder course		0-1
+IAP 390	IAP	390	Rethinking America: Traditions and Trends		3
+IAP 391	IAP	391	American Society and Culture		3
+IAP 444	IAP	444	Global Service Learning	EXP+	0-6
+IAP 488	IAP	488	Internship	EXP+	0-6
+INT 201	INT	201	Democracy and Capitalism		2
+INT 401	INT	401	Global Social Problems		3
+INT 487	INT	487	Independent Study in International Studies	EXP+	0-6
+ISE 102	ISE	102	Introduction to Web Design and Programming	TECH	3
+ISE 108	ISE	108	Introduction to Programming	TECH	3
+ISE 208	ISE	208	Intermediate Programming		3
+ISE 218	ISE	218	Fundamentals of Information Technology		3
+ISE 300	ISE	300	Technical Communications	SPK WRTD	3
+ISE 301	ISE	301	History of Computing	STAS	3
+ISE 305	ISE	305	Database Design and Practice	EXP+ TECH	3
+ISE 311	ISE	311	Systems Administration		3
+ISE 312	ISE	312	Legal, Social, and Ethical Issues in Information Systems	CER ESI STAS	3
+ISE 316	ISE	316	Introduction to Networking		3
+ISE 317	ISE	317	Computer Networking II		3
+ISE 320	ISE	320	Information Management		3
+ISE 321	ISE	321	Introduction to Network Administration		3
+ISE 323	ISE	323	Human-Computer Interaction		3
+ISE 325	ISE	325	Computers and Sculpture		3
+ISE 331	ISE	331	Fundamentals of Computer Security		3
+ISE 332	ISE	332	Introduction to Visualization		3
+ISE 333	ISE	333	User Interface Development		3
+ISE 334	ISE	334	Introduction to Multimedia Systems		3
+ISE 337	ISE	337	Scripting Languages		3
+ISE 339	ISE	339	Benevolent Computing		3
+ISE 340	ISE	340	Design of Computer Games	TECH	3
+ISE 364	ISE	364	Advanced Multimedia Techniques		3
+ISE 369	ISE	369	Introduction to Political Informatics	SBS+ TECH	3
+ISE 377	ISE	377	Introduction to Medical Imaging		3
+ISE 378	ISE	378	Introduction to Robotics		3
+ISE 390	ISE	390	Special Topics in Information Systems		3
+ISE 391	ISE	391	Special Topics in Information Systems		3
+ISE 392	ISE	392	Special Topics in Information Systems		3
+ISE 475	ISE	475	Undergraduate Teaching Practicum	EXP+	3
+ISE 487	ISE	487	Research in Information Systems		0-6
+ISE 488	ISE	488	Information Systems Internship	EXP+	3
+ITL 101	ITL	101	Intensive Elementary Italian	LANG	6
+ITL 111	ITL	111	Elementary Italian I	LANG	4
+ITL 112	ITL	112	Elementary Italian II	LANG	4
+ITL 201	ITL	201	Intensive Intermediate Italian	GLO HUM LANG	6
+ITL 211	ITL	211	Intermediate Italian 1	GLO LANG	3
+ITL 212	ITL	212	Intermediate Italian 2	GLO HUM LANG	3
+ITL 311	ITL	311	Italian Conversation and Composition 1	HFA+ LANG SPK	3
+ITL 312	ITL	312	Italian Conversation and Composition 2	ESI HFA+ LANG WRTD	3
+ITL 313	ITL	313	Italian Vocabulary	HFA+	1
+ITL 395	ITL	395	Readings in Italian Literature I	HFA+	3
+ITL 396	ITL	396	Readings in Italian Literature II	HFA+	3
+ITL 410	ITL	410	Business Italian	HFA+	3
+ITL 411	ITL	411	Advanced Conversation and Composition	WRTD	3
+ITL 412	ITL	412	Advanced Conversation and Syntax	WRTD	3
+ITL 424	ITL	424	History of the Italian Language	HFA+	3
+ITL 425	ITL	425	Italian and Its Dialects	HFA+	3
+ITL 426	ITL	426	Italian Linguistics	HFA+	3
+ITL 431	ITL	431	Studies in 13th- and 14th-Century Literature	HFA+	3
+ITL 432	ITL	432	Studies in 15th- and 16th-Century Literature	HFA+	3
+ITL 434	ITL	434	Studies in 19th-Century Literature	HFA+	3
+ITL 435	ITL	435	Studies in Contemporary Literature	HFA+	3
+ITL 436	ITL	436	Special Topics in Italian Cinema		3
+ITL 440	ITL	440	The Italian Scene	HFA+	3
+ITL 441	ITL	441	Topic Seminar	HFA+	3
+ITL 444	ITL	444	Experiential Learning	EXP+	0
+ITL 447	ITL	447	Directed Readings in Italian	EXP+	1-6
+ITL 459	ITL	459	Write Effectively in Italian	WRTD	0
+ITL 475	ITL	475	Undergraduate Teaching Practicum I (in Italian)	EXP+	3
+ITL 476	ITL	476	Undergraduate Teaching Practicum in Italian II	EXP+	3
+ITL 488	ITL	488	Internship	EXP+	0-6
+ITL 495	ITL	495	Senior Honors Project in Italian	EXP+	3
+JDH 261	JDH	261	The Bible as Literature	HUM	3
+JDH 390	JDH	390	Humanities Topics in Judaic Studies	HFA+	3
+JDH 447	JDH	447	Readings in Judaic Studies		1-6
+JDS 225	JDS	225	Jewish History from Antiquity to the Middle Ages	CER GLO	3
+JDS 226	JDS	226	Modern Jewish History: Dilemmas of Difference	GLO SBS	3
+JDS 241	JDS	241	Nazi Genocide and the Holocaust	GLO	3
+JDS 356	JDS	356	Zionism, Israel, and the Middle East	CER SBS+	3
+JDS 447	JDS	447	Readings in Judaic Studies		1-6
+JPN 111	JPN	111	Elementary Japanese I	LANG	4
+JPN 112	JPN	112	Elementary Japanese II	LANG	4
+JPN 211	JPN	211	Intermediate Japanese I	GLO LANG	4
+JPN 212	JPN	212	Intermediate Japanese II	GLO HUM LANG	3
+JPN 311	JPN	311	Advanced Japanese I	HFA+ LANG	3
+JPN 312	JPN	312	Advanced Japanese II	HFA+ LANG SPK	3
+JPN 331	JPN	331	Social Sciences Topics in Japanese Studies	SBS+	3
+JPN 332	JPN	332	Humanities Topics in Japanese Studies	HFA+	3
+JPN 410	JPN	410	Business Japanese	SBS+ SPK	3
+JPN 411	JPN	411	Advanced Japanese III	SPK WRTD	3
+JPN 412	JPN	412	Advanced Japanese IV	SPK WRTD	3
+JPN 426	JPN	426	Structure of Japanese	ESI SBS+	3
+JPN 444	JPN	444	Experiential Learning	EXP+	0
+JPN 447	JPN	447	Independent Study		1-6
+JPN 475	JPN	475	Undergraduate Teaching Practicum I	EXP+	3
+JPN 476	JPN	476	Undergraduate Teaching Practicum II	EXP+	3
+JPN 487	JPN	487	Independent Research		0-3
+JPN 488	JPN	488	Internship	EXP+	0-6
+JRN 101	JRN	101	News Literacy	CER SBS	3
+JRN 106	JRN	106	Introduction to Mass Media	SBS USA	3
+JRN 108	JRN	108	The History and Future of the American Press	SBS USA	3
+JRN 111	JRN	111	Grammar and Editing Lab		1
+JRN 115	JRN	115	News Reporting & Writing I		3
+JRN 116	JRN	116	Introduction to Digital Journalism		3
+JRN 205	JRN	205	News Reporting & Writing II		3
+JRN 208	JRN	208	History of Mass Communication	USA	3
+JRN 215	JRN	215	Introduction to Multimedia Skills Lab		1
+JRN 216	JRN	216	Intermediate Digital Journalism		3
+JRN 217	JRN	217	Journalistic Reporting and Writing		3
+JRN 220	JRN	220	Media Law		2
+JRN 301	JRN	301	The Changing News Business		3
+JRN 303	JRN	303	Global Issues in Journalism	DIV GLO	3
+JRN 305	JRN	305	Mass Communication Law & Ethics		3
+JRN 310	JRN	310	Multimedia Newsroom I / Visual	SPK	3
+JRN 311	JRN	311	Advanced Digital Journalism - Text		3
+JRN 312	JRN	312	Advanced Digital Journalism - Audio		3
+JRN 313	JRN	313	Advanced Digital Journalism - Audio-Visual		3
+JRN 316	JRN	316	Mass Communication Research Methods	SBS+	3
+JRN 317	JRN	317	Mass Communication Theory		3
+JRN 319	JRN	319	The Image of the Journalist in Popular Culture		3
+JRN 320	JRN	320	Multimedia Newsroom II / Web		3
+JRN 333	JRN	333	Business Reporting		3
+JRN 334	JRN	334	Science and Health Reporting		3
+JRN 335	JRN	335	Reporting in New York City	EXP+	3
+JRN 336	JRN	336	Sports Reporting		3
+JRN 337	JRN	337	Introduction to Narrative Journalism		3
+JRN 339	JRN	339	Foreign Reporting		3
+JRN 340	JRN	340	Beat Reporting		3
+JRN 350	JRN	350	Journalistic Judgment and Ethics	CER ESI	3
+JRN 355	JRN	355	Reporting in New York City - Broadcast		3
+JRN 361	JRN	361	News Editing and Presentation/Print		3
+JRN 363	JRN	363	Magazine Writing		3
+JRN 364	JRN	364	Advanced Reporting		3
+JRN 365	JRN	365	Talking Science	SPK	3
+JRN 366	JRN	366	Press & the Presidency		3
+JRN 367	JRN	367	Opinion Journalism		3
+JRN 370	JRN	370	Advanced Visual Reporting and Storytelling		3
+JRN 371	JRN	371	Weekly Broadcast		3
+JRN 372	JRN	372	Introduction to Weathercasting		1
+JRN 373	JRN	373	Advanced Weathercasting: Extreme and Hyperlocal		1
+JRN 380	JRN	380	Multimedia Photojournalism		3
+JRN 381	JRN	381	Web Presentation		3
+JRN 390	JRN	390	Special Topics in Journalism		3
+JRN 391	JRN	391	Journalism Workshops		1-2
+JRN 392	JRN	392	Special Topics: Issues in Contemporary Journalism-Journalism Without Walls Prep		1
+JRN 393	JRN	393	Audio Journalism Lab	EXP+	1
+JRN 411	JRN	411	Television Practicum		3
+JRN 413	JRN	413	Journalisms of the Global South		3
+JRN 415	JRN	415	Data Analysis and Storytelling	STAS	3
+JRN 433	JRN	433	Journalistic Book and Serial Narrative Production		3
+JRN 434	JRN	434	Photojournalism		3
+JRN 435	JRN	435	Journalism Without Walls	EXP+	3
+JRN 438	JRN	438	Weathercasting & Environmental Reporting		3
+JRN 444	JRN	444	Experiential Learning	EXP+	0
+JRN 475	JRN	475	Undergraduate Teaching Practicum I	EXP+	3
+JRN 476	JRN	476	Undergraduate Teaching Practicum II	EXP+	3
+JRN 487	JRN	487	Independent Study		0-6
+JRN 488	JRN	488	Internship	EXP+	0-1
+JRN 489	JRN	489	Specialized Internship	EXP+	0-1
+JRN 490	JRN	490	Senior Project	EXP+ WRTD	3
+JRN 491	JRN	491	Mass Communication Senior Project	EXP+ WRTD	3
+KOR 101	KOR	101	Intensive Elementary Korean	LANG	6
+KOR 111	KOR	111	Elementary Korean I	LANG	4
+KOR 112	KOR	112	Elementary Korean II	LANG	4
+KOR 120	KOR	120	Elementary Korean for Heritage Speakers	LANG	4
+KOR 211	KOR	211	Intermediate Korean I	GLO LANG	3
+KOR 212	KOR	212	Intermediate Korean II	GLO HUM LANG	3
+KOR 220	KOR	220	Intermediate Korean for Korean Speakers	GLO HUM LANG	3
+KOR 311	KOR	311	Advanced Korean	HFA+ LANG	3
+KOR 312	KOR	312	Advanced Korean II	HFA+ LANG SPK	3
+KOR 331	KOR	331	Social Science Topics in Korean Studies	SBS+	3
+KOR 332	KOR	332	Humanities Topics in Korean Studies	HFA+	3
+KOR 411	KOR	411	Advanced Korean III	HFA+ SPK	3
+KOR 412	KOR	412	Advanced Korean IV	SBS+ WRTD	3
+KOR 426	KOR	426	Structure of Korean	ESI SBS+	3
+KOR 444	KOR	444	Experiential Learning	EXP+	0
+KOR 447	KOR	447	Independent Study		1-6
+KOR 475	KOR	475	Undergraduate Teaching Practicum I	EXP+	3
+KOR 476	KOR	476	Undergraduate Teaching Practicum II	EXP+	3
+KOR 487	KOR	487	Supervised Research in Korean Studies		0-3
+KOR 488	KOR	488	Internship		0-6
+LAC 200	LAC	200	Introduction to Latin American and Caribbean Societies	GLO	3
+LAC 487	LAC	487	Independent Research in Latin American and Caribbean Studies		0-6
+LAC 488	LAC	488	Internship	EXP+	0-6
+LAN 111	LAN	111	Uncommonly Taught Language (Elementary) I	LANG	3
+LAN 112	LAN	112	Uncommonly Taught Language (Elementary) II	LANG	3
+LAN 211	LAN	211	Uncommonly Taught Language (Intermediate) I	GLO	3
+LAN 212	LAN	212	Uncommonly Taught Language (Intermediate) II	GLO HUM	3
+LAN 447	LAN	447	Directed Readings in Uncommonly Taught Languages	EXP+ LANG	1-6
+LAN 475	LAN	475	Practicum in Language Teaching I	EXP+	3
+LAN 476	LAN	476	Practicum in Language Teaching II	EXP+	3
+LAT 111	LAT	111	Elementary Latin I	LANG	3
+LAT 112	LAT	112	Elementary Latin II	LANG	3
+LAT 251	LAT	251	Readings in Latin Literature I	HFA+ LANG	3
+LAT 252	LAT	252	Readings in Latin Literature II	HFA+ LANG	3
+LAT 353	LAT	353	Literature of the Roman Republic	HFA+	3
+LAT 354	LAT	354	Literature of the Roman Empire	HFA+	3
+LAT 355	LAT	355	Early Medieval Latin	HFA+	3
+LAT 356	LAT	356	Late Medieval Latin	HFA+	3
+LAT 447	LAT	447	Directed Readings in Latin		1-6
+LAT 475	LAT	475	Undergraduate Teaching Practicum	EXP+	3
+LCR 487	LCR	487	Directed Research in Community Service Learning		0-6
+LDR 210	LDR	210	Principles of Leadership		3
+LDR 310	LDR	310	Case Studies in Leadership	SPK	3
+LDR 410	LDR	410	Leadership Exploration and Practicum	EXP+	3
+LDR 488	LDR	488	Internship in Leadership Development	EXP+	1-6
+LHD 305	LHD	305	HIV Reduction in the Campus Context		2
+LHD 306	LHD	306	HIV Reduction in the Campus Context		2
+LHD 307	LHD	307	Laboratory in HIV Reduction in the Campus Context		1
+LHD 308	LHD	308	Laboratory in HIV Reduction in the Campus Context		1
+LHD 487	LHD	487	Independent Study in Human Sexual and Gender Development		0-3
+LHW 102	LHW	102	Introductory Seminar to the Health Professions		1
+LHW 301	LHW	301	Issues in Health and Wellness	ESI SPK	3
+LHW 488	LHW	488	Internship in Health and Wellness	EXP+	0-6
+LIA 487	LIA	487	Independent Research in Interdisciplinary Arts		0-6
+LIA 488	LIA	488	Internship in Arts Management	EXP+	0-6
+LIN 101	LIN	101	Human Language	SBS SNW	3
+LIN 110	LIN	110	The Anatomy of English Words	SBS	3
+LIN 120	LIN	120	Language and Technology	TECH	3
+LIN 200	LIN	200	Language in the United States	DIV SBS USA	3
+LIN 201	LIN	201	Phonetics	SBS+	4
+LIN 202	LIN	202	Introduction to Phonetics and Phonology	SBS	3
+LIN 230	LIN	230	Languages of the World	DIV GLO	3
+LIN 235	LIN	235	Signed Languages and Deaf Communities	DIV SBS USA	3
+LIN 240	LIN	240	Spanish in the U.S.	SBS USA	3
+LIN 250	LIN	250	Languages and Cultures of Asian Americans	SBS USA	3
+LIN 260	LIN	260	Language and Mind	SBS SNW	3
+LIN 270	LIN	270	Language and Politics	GLO SBS	3
+LIN 301	LIN	301	Phonology		4
+LIN 307	LIN	307	Sociolinguistics	ESI SBS+	3
+LIN 308	LIN	308	Language Variation and Change		3
+LIN 311	LIN	311	Syntax		4
+LIN 320	LIN	320	English Grammar		3
+LIN 321	LIN	321	Morphology and Word Formation		3
+LIN 324	LIN	324	Romance Linguistics	HFA+	3
+LIN 330	LIN	330	Language Acquisition	ESI SBS+ STEM+	3
+LIN 335	LIN	335	Computational Linguistics	STEM+	3
+LIN 340	LIN	340	Historical Linguistics		3
+LIN 344	LIN	344	Literacy Development		3
+LIN 345	LIN	345	Writing Systems of the World	GLO SBS+	3
+LIN 346	LIN	346	Language and Meaning	SBS+	4
+LIN 347	LIN	347	Pragmatics		3
+LIN 350	LIN	350	Experimental Phonetics	SBS+ SNW	3
+LIN 355	LIN	355	Language and Life in a Selected Area of the World	DIV GLO SBS+	3
+LIN 356	LIN	356	Topics in Language and Life in Europe	GLO SBS+	3
+LIN 361	LIN	361	Mathematical Methods in Linguistics	QPS	3
+LIN 370	LIN	370	Intercultural Communication	SBS+	3
+LIN 375	LIN	375	TESOL Pedagogy: Theory and Practice		3
+LIN 378	LIN	378	Content-Based Language and Literacy Development	CER EXP+ SPK	3
+LIN 380	LIN	380	Anatomy and Physiology of Speech and Hearing	STEM+	3
+LIN 381	LIN	381	Language and Speech Disorders	STEM+	3
+LIN 382	LIN	382	Audiology	STEM+	3
+LIN 405	LIN	405	Writing in Linguistics	ESI WRTD	2
+LIN 425	LIN	425	Special Topics in Linguistics		3
+LIN 426	LIN	426	Special Topics in Linguistics		3
+LIN 427	LIN	427	Special Topics in Linguistics		3
+LIN 431	LIN	431	The Structure of an Uncommonly Taught Language	CER SBS+ SPK	4
+LIN 444	LIN	444	Experiential Learning	EXP+	0
+LIN 447	LIN	447	Directed Readings in Linguistics		1-6
+LIN 449	LIN	449	Field Experience, Grades N-12	EXP+	1
+LIN 450	LIN	450	Field Experience, Grades N-12	CER EXP+ SPK	1
+LIN 451	LIN	451	Supervised Teaching -- English as a Second Language: Primary Grades N-6	CER EXP+ SPK	6
+LIN 452	LIN	452	Supervised Student Teaching in English as a Second Language: Secondary Grades 7-12	CER EXP+ SPK	6
+LIN 454	LIN	454	Managing Instruction, Assessment, and Resources	CER EXP+ SPK	3
+LIN 475	LIN	475	Undergraduate Teaching Practicum I	EXP+	3
+LIN 476	LIN	476	Undergraduate Teaching Practicum II	EXP+	3
+LIN 487	LIN	487	Directed Research in Linguistics		1-6
+LIN 488	LIN	488	Internship	EXP+	0-6
+LIN 495	LIN	495	Senior Honors Project in Linguistics		0-3
+LIN 496	LIN	496	Senior Honors Project in Linguistics		0-3
+MAE 301	MAE	301	Foundations of Secondary School Mathematics		3
+MAE 302	MAE	302	Methods and Materials for Teaching Secondary School Mathematics	CER EXP+ SPK	3
+MAE 311	MAE	311	Introduction to Methods of Teaching Secondary School Mathematics		3
+MAE 312	MAE	312	Micro-Teaching	DIV EXP+ SPK	2
+MAE 330	MAE	330	Technology in Mathematics Education	TECH	3
+MAE 400	MAE	400	Experiential Learning, Speak Effectively, Practice Critical and Ethical Reasoning	CER EXP+ SPK	0
+MAE 401	MAE	401	Respect Diversity and Foster Inclusiveness (DIV) for BS/MA in Teaching only	DIV	0
+MAE 447	MAE	447	Directed Readings in Mathematics Education		1
+MAE 451	MAE	451	Supervised Teaching - Middle School Level Grades 7-9	CER EXP+ SPK	6
+MAE 452	MAE	452	Supervised Teaching - High School Grades 10-12	CER EXP+ SPK	6
+MAE 454	MAE	454	Student Teaching Seminar	CER EXP+ SPK	3
+MAP 101	MAP	101	Fundamentals of Arithmetic and Algebra		3
+MAP 102	MAP	102	Proficiency Algebra Review		0
+MAP 103	MAP	103	Proficiency Algebra		3
+MAR 101	MAR	101	Long Island Sound: Science and Use	SNW	3
+MAR 102	MAR	102	Introduction to SCUBA Diving		2
+MAR 104	MAR	104	Oceanography	SNW	3
+MAR 301	MAR	301	Environmental Microbiology		4
+MAR 302	MAR	302	Marine Microbiology and Microbial Ecology		3
+MAR 303	MAR	303	Long Island Marine Habitats	STEM+	4
+MAR 304	MAR	304	Waves, Tides, and Beaches	STEM+	3
+MAR 305	MAR	305	Experimental Marine Biology	STEM+	3
+MAR 306	MAR	306	Introduction to Scientific Diving		2
+MAR 308	MAR	308	Environmental Instrumental Analysis	STEM+ TECH	3
+MAR 315	MAR	315	Marine Conservation	ESI STAS	3
+MAR 318	MAR	318	Engineering Geology and Coastal Processes	STEM+	3
+MAR 320	MAR	320	Limnology	STEM+	4
+MAR 333	MAR	333	Coastal Oceanography	STEM+	3
+MAR 334	MAR	334	Remote Sensing of the Environment	STEM+ TECH	3
+MAR 336	MAR	336	Marine Pollution		3
+MAR 340	MAR	340	Environmental Problems and Solutions	STAS	3
+MAR 346	MAR	346	Marine Sedimentology		3
+MAR 349	MAR	349	Introduction to Biological Oceanography		4
+MAR 350	MAR	350	Introduction to Ocean Physics		2
+MAR 351	MAR	351	Introduction to Ocean Chemistry	STEM+	3
+MAR 352	MAR	352	Introduction to Physical Oceanography	STEM+	3
+MAR 354	MAR	354	Introduction to Geological Oceanography	STEM+	3
+MAR 355	MAR	355	Coastal Cultural Experience	ESI EXP+	2
+MAR 356	MAR	356	Maritime Traditions of New England	SBS USA	3
+MAR 357	MAR	357	Unsinkable Technologies: History of Maritime Science and Technology	ESI STAS	3
+MAR 370	MAR	370	Marine Mammals		3
+MAR 373	MAR	373	Marine Apex Predators: Ecology and Conservation		3
+MAR 375	MAR	375	Marine Mammal and Sea Turtle Rehabilitation		3
+MAR 376	MAR	376	Biology and Conservation of Sea Turtles		3
+MAR 377	MAR	377	Biology and Conservation of Seabirds		3
+MAR 380	MAR	380	Ichthyology	ESI WRTD	3
+MAR 382	MAR	382	Introduction to Next Generation Sequencing and its applications across fields	STEM+	3
+MAR 384	MAR	384	Diseases of Aquatic Organisms	STEM+	3
+MAR 385	MAR	385	Principles of Fishery Biology and Management		3
+MAR 386	MAR	386	Ecosystem Science for Fisheries Management		3
+MAR 388	MAR	388	Tropical Marine Ecology	ESI EXP+ STEM+	4
+MAR 390	MAR	390	Aquaculture	ESI STEM+	3
+MAR 392	MAR	392	Waste Management Issues	STAS	3
+MAR 393	MAR	393	Waste Treatment Technologies		3
+MAR 394	MAR	394	Environmental Toxicology and Public Health	ESI STAS	3
+MAR 395	MAR	395	Topics in Marine Environmental Sciences		3
+MAR 447	MAR	447	Readings in Marine Science		1-3
+MAR 458	MAR	458	Speak Effectively Before an Audience	SPK	0
+MAR 459	MAR	459	Write Effectively in ATM, ENS, MAR and MVB	WRTD	0
+MAR 475	MAR	475	Undergraduate Teaching Practicum	EXP+	3
+MAR 487	MAR	487	Research in Marine Sciences	EXP+	0-6
+MAR 488	MAR	488	Internship	EXP+	0-6
+MAT 118	MAT	118	Mathematical Thinking	QPS	3
+MAT 119	MAT	119	Foundations for Precalculus		1
+MAT 122	MAT	122	Overview of Calculus with Applications	QPS	3
+MAT 123	MAT	123	Precalculus	QPS	3
+MAT 125	MAT	125	Calculus A	QPS	3
+MAT 126	MAT	126	Calculus B	QPS	3
+MAT 127	MAT	127	Calculus C	QPS	3
+MAT 130	MAT	130	Trigonometry and Logarithms		1
+MAT 131	MAT	131	Calculus I	QPS	4
+MAT 132	MAT	132	Calculus II	QPS	4
+MAT 141	MAT	141	Analysis I	QPS	4
+MAT 142	MAT	142	Analysis II	QPS	4
+MAT 171	MAT	171	Accelerated Single-Variable Calculus	QPS	4
+MAT 200	MAT	200	Logic, Language and Proof	STEM+	3
+MAT 203	MAT	203	Calculus III with Applications	STEM+	4
+MAT 211	MAT	211	Introduction to Linear Algebra	STEM+	3
+MAT 220	MAT	220	Linear Algebra and Geometry	STEM+	3
+MAT 250	MAT	250	Introduction to Advanced Mathematics	QPS	4
+MAT 260	MAT	260	Problem Solving in Mathematics		1
+MAT 303	MAT	303	Calculus IV with Applications	STEM+	4
+MAT 307	MAT	307	Multivariable Calculus with Linear Algebra	STEM+	4
+MAT 308	MAT	308	Differential Equations with Linear Algebra	STEM+	4
+MAT 310	MAT	310	Linear Algebra		4
+MAT 311	MAT	311	Number Theory		3
+MAT 312	MAT	312	Applied Algebra		3
+MAT 313	MAT	313	Abstract Algebra		3
+MAT 314	MAT	314	Abstract Algebra II		3
+MAT 315	MAT	315	Advanced Linear Algebra		4
+MAT 319	MAT	319	Foundations of Analysis		4
+MAT 320	MAT	320	Introduction to Analysis		4
+MAT 322	MAT	322	Analysis in Several Dimensions		3
+MAT 324	MAT	324	Real Analysis		3
+MAT 331	MAT	331	Computer-Assisted Mathematical Problem Solving	TECH	3
+MAT 336	MAT	336	History of Mathematics	SPK STAS WRTD	3
+MAT 341	MAT	341	Applied Real Analysis		3
+MAT 342	MAT	342	Applied Complex Analysis		3
+MAT 351	MAT	351	Differential Equations: Dynamics and Chaos		3
+MAT 360	MAT	360	Geometric Structures		3
+MAT 362	MAT	362	Differential Geometry of Surfaces		3
+MAT 364	MAT	364	Topology and Geometry		3
+MAT 371	MAT	371	Logic		3
+MAT 373	MAT	373	Analysis of Algorithms		3
+MAT 401	MAT	401	Seminar in Mathematics	SPK	3
+MAT 402	MAT	402	Seminar in Mathematics	SPK	3
+MAT 425	MAT	425	How to teach remedial mathematics		3
+MAT 444	MAT	444	Experiential Learning	EXP+	0
+MAT 458	MAT	458	Speak Effectively Before an Audience	SPK	0
+MAT 459	MAT	459	Write Effectively in Mathematics	WRTD	0
+MAT 475	MAT	475	Undergraduate Teaching Practicum	EXP+	3
+MAT 487	MAT	487	Independent Study in Special Topics		0-6
+MAT 495	MAT	495	Honors Thesis	EXP+ WRTD	3
+MDA 117	MDA	117	Media: Analysis and Culture		3
+MDA 277	MDA	277	The Media Industry		3
+MDA 480	MDA	480	Projects in Media		0-3
+MDA 488	MDA	488	Internship	EXP+	0-6
+MEC 100	MEC	100	Introduction to Mechanical Engineering		3
+MEC 101	MEC	101	Freshman Design Innovation		3
+MEC 102	MEC	102	Engineering Computing and Problem Solving		2
+MEC 104	MEC	104	Practical Science of Things	SNW TECH	3
+MEC 105	MEC	105	Everyday Science and Engineering	SNW TECH	3
+MEC 203	MEC	203	Engineering Graphics and CAD		3
+MEC 220	MEC	220	Practical Electronics for Mechanical Engineers		3
+MEC 225	MEC	225	Fundamentals of Machining Practices		1
+MEC 226	MEC	226	Modern Machining Practices		1
+MEC 260	MEC	260	Engineering Statics		3
+MEC 262	MEC	262	Engineering Dynamics		3
+MEC 280	MEC	280	Pollution and Human Health	STAS	3
+MEC 300	MEC	300	Professional Conduct for Engineers		2
+MEC 301	MEC	301	Thermodynamics		3
+MEC 305	MEC	305	Heat and Mass Transfer		3
+MEC 310	MEC	310	Introduction to Machine Design		3
+MEC 316	MEC	316	Instrumentation and Solid Mechanics Laboratory	TECH	2
+MEC 317	MEC	317	Thermal Sciences and Fluid Mechanics Laboratory	TECH	2
+MEC 320	MEC	320	Numerical Methods in Engineering Design and Analysis		3
+MEC 325	MEC	325	Manufacturing Processes		3
+MEC 363	MEC	363	Mechanics of Solids		3
+MEC 364	MEC	364	Introduction to Fluid Mechanics		3
+MEC 393	MEC	393	Engineering Fluid Mechanics		3
+MEC 398	MEC	398	Thermodynamics II		3
+MEC 402	MEC	402	Mechanical Vibrations		3
+MEC 410	MEC	410	Design of Machine Elements		3
+MEC 411	MEC	411	Control System Analysis and Design		4
+MEC 422	MEC	422	Thermal System Design		3
+MEC 423	MEC	423	Internal Combustion Engines		3
+MEC 440	MEC	440	Mechanical Engineering Design I	CER ESI EXP+ SBS+ SPK STEM+ WRTD	3
+MEC 441	MEC	441	Mechanical Engineering Design II	CER ESI EXP+ SBS+ SPK STEM+ WRTD	3
+MEC 442	MEC	442	Introduction to Experimental Stress Analysis		3
+MEC 450	MEC	450	Mechatronics		3
+MEC 455	MEC	455	Applied Stress Analysis		3
+MEC 456	MEC	456	Introduction to Engineering Mechanics of Composites		3
+MEC 457	MEC	457	Engineering Composites Fabrication and Characterization		3
+MEC 464	MEC	464	Fundamentals of Aerodynamics		3
+MEC 465	MEC	465	Aerospace Propulsion		3
+MEC 470	MEC	470	Introduction to Tribology		3
+MEC 475	MEC	475	Undergraduate Teaching Practicum	EXP+	3
+MEC 488	MEC	488	Mechanical Engineering Internship	EXP+	3-9
+MEC 491	MEC	491	Topics in Mechanical Engineering		1-4
+MEC 492	MEC	492	Topics in Mechanical Engineering		1-4
+MEC 495	MEC	495	Professional Engineering Seminar		1
+MEC 499	MEC	499	Research in Mechanical Engineering		0-3
+MSL 101	MSL	101	Introduction to the Army		1
+MSL 102	MSL	102	Foundations of Agile and Adaptive Leadership		1
+MSL 201	MSL	201	Leadership and Decision Making		2
+MSL 202	MSL	202	Army Doctrine and Team Development		2
+MSL 301	MSL	301	Training Management and Warfighting Functions		4
+MSL 302	MSL	302	Applied Leadership in Small Unit Operations		4
+MSL 401	MSL	401	The Army Officer		4
+MSL 402	MSL	402	Company Grade Leadership	EXP+	4
+MUS 101	MUS	101	Introduction to Western Classical Music	ARTS	3
+MUS 103	MUS	103	Introduction to Music and the Cinema	ARTS	3
+MUS 105	MUS	105	Music Cultures of the World	ARTS	3
+MUS 109	MUS	109	Rock, Popular Music, and Society	ARTS	3
+MUS 119	MUS	119	The Elements of Music	ARTS	3
+MUS 120	MUS	120	Elementary Musicianship		2
+MUS 121	MUS	121	Musicianship I		2
+MUS 122	MUS	122	Beginning Keyboard		1
+MUS 130	MUS	130	Sound Structures	ARTS	3
+MUS 141	MUS	141	Keyboard Harmony A		1
+MUS 142	MUS	142	Keyboard Harmony B		1
+MUS 161	MUS	161	Piano		2
+MUS 163	MUS	163	Harpsichord		2
+MUS 165	MUS	165	Violin		2
+MUS 166	MUS	166	Viola		2
+MUS 167	MUS	167	Cello		2
+MUS 168	MUS	168	String Bass		2
+MUS 169	MUS	169	Classical Guitar		2
+MUS 170	MUS	170	Flute		2
+MUS 171	MUS	171	Oboe		2
+MUS 172	MUS	172	Clarinet		2
+MUS 173	MUS	173	Bassoon		2
+MUS 175	MUS	175	Horn		2
+MUS 176	MUS	176	Trumpet		2
+MUS 177	MUS	177	Trombone		2
+MUS 178	MUS	178	Saxophone		2
+MUS 180	MUS	180	Percussion		2
+MUS 182	MUS	182	Voice		2
+MUS 187	MUS	187	Other Instruments		2
+MUS 189	MUS	189	Introduction to Jazz Improvisation		1
+MUS 208	MUS	208	Introduction to Music Technology	ARTS TECH	3
+MUS 220	MUS	220	Musicianship II		2
+MUS 221	MUS	221	Musicianship III		2
+MUS 235	MUS	235	Introduction to African Drumming		1
+MUS 261	MUS	261	Stony Brook Chorale		1
+MUS 262	MUS	262	University Orchestra		1
+MUS 263	MUS	263	University Wind Ensemble		1
+MUS 264	MUS	264	Big Band Jazz Ensemble		1
+MUS 265	MUS	265	Workshop in Performance		1
+MUS 266	MUS	266	Guitar Workshop		1
+MUS 267	MUS	267	Small Jazz Ensemble Level 1		1
+MUS 268	MUS	268	Spirit of Stony Brook Athletic Band		1
+MUS 271	MUS	271	Camerata Singers		1
+MUS 289	MUS	289	Small Jazz Ensemble Level 2		1
+MUS 290	MUS	290	Vocal Repertory		1
+MUS 300	MUS	300	Music, Technology, and Digital Culture	STAS	3
+MUS 303	MUS	303	Music in the Age of Beethoven	GLO HFA+	3
+MUS 304	MUS	304	American Music	HFA+ USA	3
+MUS 306	MUS	306	The Music and Culture of Hip-Hop	HFA+ USA	3
+MUS 307	MUS	307	Imaginative Worlds of Opera	GLO HFA+	3
+MUS 308	MUS	308	History of Jazz	HFA+ USA	3
+MUS 309	MUS	309	Music Since 1900	GLO HFA+	3
+MUS 310	MUS	310	Music and Culture in the 1960's	HFA+ USA	3
+MUS 311	MUS	311	Topics in Ethnomusicology	GLO SBS+	3
+MUS 313	MUS	313	Hearing Politics	DIV HUM SBS+	3
+MUS 314	MUS	314	Music, Gender, and Sexuality	SBS+	3
+MUS 315	MUS	315	The Structural Principles of Music I		3
+MUS 316	MUS	316	The Structural Principles of Music II		3
+MUS 317	MUS	317	Music in China	GLO SBS+	3
+MUS 320	MUS	320	U.S. Popular Music	HFA+ USA	3
+MUS 321	MUS	321	Tonal Harmony I		3
+MUS 322	MUS	322	Tonal Harmony II		3
+MUS 323	MUS	323	Techniques of Music, 1880 to the Present		3
+MUS 331	MUS	331	Musicianship IV		2
+MUS 335	MUS	335	Advanced African Drumming		1
+MUS 339	MUS	339	Beginning Composition		3
+MUS 340	MUS	340	Timbre and Technology		3
+MUS 341	MUS	341	Sound Design	ARTS TECH	3
+MUS 344	MUS	344	Audio Engineering	TECH	3
+MUS 350	MUS	350	Western Classical Music Before 1750	ESI GLO HFA+	4
+MUS 351	MUS	351	Western Classical Music 1750 to 1900	ESI GLO HFA+	4
+MUS 352	MUS	352	Western Classical Music from 1900 to the Present	ESI GLO HFA+	4
+MUS 361	MUS	361	Piano		4
+MUS 362	MUS	362	Piano Pedagogy		1
+MUS 363	MUS	363	Harpsichord		4
+MUS 365	MUS	365	Violin		4
+MUS 366	MUS	366	Viola		4
+MUS 367	MUS	367	Cello		4
+MUS 368	MUS	368	String Bass		4
+MUS 369	MUS	369	Classical Guitar		4
+MUS 370	MUS	370	Flute		4
+MUS 371	MUS	371	Oboe		4
+MUS 372	MUS	372	Clarinet		4
+MUS 373	MUS	373	Bassoon		4
+MUS 375	MUS	375	Horn		4
+MUS 376	MUS	376	Trumpet		4
+MUS 377	MUS	377	Trombone		4
+MUS 378	MUS	378	Saxophone		4
+MUS 380	MUS	380	Percussion		4
+MUS 382	MUS	382	Voice		4
+MUS 387	MUS	387	Other Instruments		4
+MUS 388	MUS	388	Fundamentals of Accompanying		2
+MUS 390	MUS	390	Advanced Accompanying		2
+MUS 391	MUS	391	Chamber Music		1
+MUS 421	MUS	421	Analysis of Tonal Music		3
+MUS 422	MUS	422	Analysis of Post-Tonal Music		3
+MUS 437	MUS	437	Electronic Music	TECH	3
+MUS 439	MUS	439	Composition		3
+MUS 444	MUS	444	Experiential Learning	EXP+	0
+MUS 450	MUS	450	Seminar in the History of Music	ESI HFA+	3
+MUS 451	MUS	451	Senior Seminar in Ethnography of Music	DIV ESI HFA+	3
+MUS 458	MUS	458	Speak Effectively Before an Audience	SPK	0
+MUS 459	MUS	459	Write Effectively in Music	WRTD	0
+MUS 475	MUS	475	Undergraduate Teaching Practicum I	EXP+	3
+MUS 476	MUS	476	Undergraduate Teaching Practicum II	EXP+	3
+MUS 487	MUS	487	Independent Project		0-6
+MUS 488	MUS	488	Internship	EXP+	0-6
+MUS 491	MUS	491	Conducting		3
+MUS 495	MUS	495	Senior Honors Project in Music		3
+MVL 141	MVL	141	The Legend of King Arthur	GLO HUM	3
+MVL 241	MVL	241	Heroes and Warriors	GLO HUM	3
+MVL 447	MVL	447	Independent Readings and Research		1-3
+MVL 475	MVL	475	Undergraduate Teaching Practicum I	EXP+	3
+MVL 476	MVL	476	Undergraduate Teaching Practicum II	EXP+	3
+OAE 190	OAE	190	Intermediate Oral Academic English		3
+OAE 194	OAE	194	Advanced Oral Academic English		3
+PER 101	PER	101	Intensive Elementary Persian	LANG	6
+PER 111	PER	111	Elementary Persian I	LANG	3
+PER 112	PER	112	Elementary Persian II	LANG	3
+PHI 100	PHI	100	Concepts of the Person (II)	CER HUM	3
+PHI 101	PHI	101	Historical Introduction to Western Philosophy (I)	HUM	3
+PHI 102	PHI	102	Introduction to Philosophical Psychology	HUM SBS	3
+PHI 103	PHI	103	Philosophic Problems (II)	HUM SBS	3
+PHI 104	PHI	104	Moral Reasoning (II)	CER HUM	3
+PHI 105	PHI	105	Politics and Society (II)	CER HUM	3
+PHI 108	PHI	108	Logical and Critical Reasoning (II)	ESI HUM	3
+PHI 109	PHI	109	Philosophy and Literature in Social Context (III)	CER HUM	3
+PHI 110	PHI	110	Arts and Ideas (III)	HUM	3
+PHI 111	PHI	111	Introduction to Eastern Philosophy (I)	GLO HUM	3
+PHI 112	PHI	112	Technology and Modern Life	STAS	3
+PHI 113	PHI	113	Philosophical Engineering	HUM TECH	3
+PHI 116	PHI	116	Philosophy of America's Founding	HUM USA	3
+PHI 200	PHI	200	Introduction to Ancient Philosophy (I)	GLO HUM	3
+PHI 201	PHI	201	Demons to Think With	HUM TECH	3
+PHI 206	PHI	206	Introduction to Modern Philosophy (17th and 18th century) (I)	GLO HUM	3
+PHI 220	PHI	220	Introduction to Symbolic Logic (II)	QPS	3
+PHI 247	PHI	247	Existentialism (I)	CER HUM	3
+PHI 264	PHI	264	Philosophy and the Arts (III)	ARTS HUM	3
+PHI 268	PHI	268	Science, Technology, and Society	STAS	3
+PHI 277	PHI	277	Political Philosophy (II)	CER HUM	3
+PHI 284	PHI	284	Introduction to Feminist Theory (III)	CER HUM	3
+PHI 300	PHI	300	Ancient Philosophy (I)	CER HFA+	3
+PHI 304	PHI	304	Medieval Philosophy (I)	HFA+	3
+PHI 306	PHI	306	Modern Philosophy (I)	CER HFA+	3
+PHI 308	PHI	308	19th-Century Philosophy (I)	HFA+	3
+PHI 309	PHI	309	20th-Century Philosophy (I)	CER HFA+	3
+PHI 310	PHI	310	American Philosophy (I)	HFA+ USA	3
+PHI 312	PHI	312	Phenomenology	GLO HFA+ SBS+	3
+PHI 320	PHI	320	Metaphysics (II)	HFA+	3
+PHI 325	PHI	325	Contemporary Philosophies of Language (II)	HFA+	3
+PHI 330	PHI	330	Topics in Advanced Symbolic Logic (II)	STEM+	3
+PHI 332	PHI	332	Theories of Knowledge (II)	HFA+	3
+PHI 335	PHI	335	Philosophy of Time (II)	HFA+	3
+PHI 336	PHI	336	Philosophy of Religion (II)	CER HFA+	3
+PHI 340	PHI	340	Philosophical Traditions of East Asia (I)	CER GLO HFA+	3
+PHI 344	PHI	344	Japanese Thought and Philosophy (I)	CER GLO HFA+	3
+PHI 347	PHI	347	Hermeneutics and Deconstruction (II)	ESI HFA+	3
+PHI 353	PHI	353	Philosophy of Mind (II)	ESI HFA+	3
+PHI 362	PHI	362	Philosophy of Biology	STAS	3
+PHI 363	PHI	363	Philosophy of the Social Sciences (III)	HFA+ SBS+	3
+PHI 364	PHI	364	Philosophy of Technology (III)	STAS	3
+PHI 365	PHI	365	Philosophy and Computers (III)	TECH	3
+PHI 366	PHI	366	Philosophy of the Environment (III)	CER HFA+	3
+PHI 367	PHI	367	Philosophy of War and Peace (III)	CER HFA+	3
+PHI 368	PHI	368	Philosophy of Science (III)	STAS	3
+PHI 369	PHI	369	Philosophy of Mathematics (III)	STEM+	3
+PHI 370	PHI	370	Philosophical Psychology (III)	HFA+ SBS+	3
+PHI 371	PHI	371	Literature and Justice (III)	CER HFA+	3
+PHI 372	PHI	372	Ethical Inquiry (II)	CER HFA+	3
+PHI 373	PHI	373	Philosophy in Relation to Other Disciplines (III)	HFA+	3
+PHI 374	PHI	374	Bioethics	CER HFA+	3
+PHI 375	PHI	375	Philosophy of Law (III)	CER HFA+	3
+PHI 376	PHI	376	Philosophy and Medicine (III)	CER HFA+	3
+PHI 377	PHI	377	Contemporary Political Philosophy (II)	CER HFA+	3
+PHI 378	PHI	378	Philosophical Topics in Asian American History (III)	HFA+	3
+PHI 379	PHI	379	Philosophy of Race (III)	CER HFA+ USA	3
+PHI 380	PHI	380	Literature and Philosophy (III)	HFA+	3
+PHI 381	PHI	381	Aesthetics (II)	HFA+	3
+PHI 382	PHI	382	The Quantum Moment: Quantum Mechanics in Philosophy, Culture, and Life (III)	STAS	3
+PHI 384	PHI	384	Advanced Topics in Feminist Philosophy (III)	CER HFA+	3
+PHI 390	PHI	390	Topics in Philosophy (either I, II, or III)		1-3
+PHI 395	PHI	395	Junior Seminar	ESI	3
+PHI 400	PHI	400	Advanced Seminar on Ancient Western Philosophy		3
+PHI 401	PHI	401	Individual Systems of the Great Philosophers (I)	HFA+	3
+PHI 402	PHI	402	Analysis of Philosophic Texts (I)	HFA+	3
+PHI 406	PHI	406	Advanced Seminar on Modern Western Philosophy		3
+PHI 420	PHI	420	Advanced Topics in Philosophy (either I, II, or III)		3
+PHI 444	PHI	444	Experiential Learning	EXP+	0
+PHI 458	PHI	458	Speak Effectively Before an Audience	SPK	0
+PHI 459	PHI	459	Write Effectively in Philosophy	WRTD	0
+PHI 472	PHI	472	Topics in Asian Philosophy (I)	ESI HFA+	3
+PHI 473	PHI	473	Orientalism	HFA+	3
+PHI 475	PHI	475	Undergraduate Teaching Practicum I	EXP+	3
+PHI 476	PHI	476	Undergraduate Teaching Practicum II	EXP+	3
+PHI 487	PHI	487	Readings and Research in Philosophy (II)		0-6
+PHI 489	PHI	489	Readings and Research in the History of Philosophy (I)		0-6
+PHI 490	PHI	490	Readings and Research in Philosophical Investigations of Other Disciplines (III)		0-6
+PHI 495	PHI	495	Philosophy Honors Thesis		3
+PHY 112	PHY	112	Light, Color, and Vision	SNW	3
+PHY 113	PHY	113	Physics of Sports	SNW	3
+PHY 115	PHY	115	Physics of Sports Laboratory		1
+PHY 119	PHY	119	Physics for Environmental Studies	SNW	4
+PHY 121	PHY	121	Physics for the Life Sciences I	SNW	4
+PHY 122	PHY	122	Physics for the Life Sciences II	SNW	4
+PHY 125	PHY	125	Classical Physics A	SNW	3
+PHY 126	PHY	126	Classical Physics B	SNW	3
+PHY 127	PHY	127	Classical Physics C	SNW	3
+PHY 131	PHY	131	Classical Physics I	SNW	3
+PHY 132	PHY	132	Classical Physics II	SNW	3
+PHY 133	PHY	133	Classical Physics Laboratory I		1
+PHY 134	PHY	134	Classical Physics Laboratory II		1
+PHY 141	PHY	141	Classical Physics I: Honors	SNW	3
+PHY 142	PHY	142	Classical Physics II: Honors	SNW	3
+PHY 153	PHY	153	Data Analysis for Physics and Astronomy with Python	TECH	3
+PHY 191	PHY	191	Transitional Study		1
+PHY 192	PHY	192	Transitional Study		1
+PHY 231	PHY	231	Physics for Future Presidents	STAS	3
+PHY 237	PHY	237	World Climate and Atmosphere	STAS	3
+PHY 251	PHY	251	Modern Physics	STEM+	3
+PHY 252	PHY	252	Modern Physics Laboratory		1
+PHY 277	PHY	277	Computation for Physics and Astronomy	TECH	3
+PHY 287	PHY	287	Introduction to Research	EXP+	0-3
+PHY 291	PHY	291	Transitional Study		1
+PHY 300	PHY	300	Waves and Optics	STEM+	4
+PHY 301	PHY	301	Electromagnetic Theory I		3
+PHY 302	PHY	302	Electromagnetic Theory II		3
+PHY 303	PHY	303	Mechanics		3
+PHY 306	PHY	306	Thermodynamics, Kinetic Theory, and Statistical Mechanics		3
+PHY 307	PHY	307	Physical and Mathematical Foundations of Quantum Mechanics		4
+PHY 308	PHY	308	Quantum Physics		3
+PHY 311	PHY	311	Connections in Science		1
+PHY 313	PHY	313	Mystery of Matter	STAS	3
+PHY 335	PHY	335	Electronics and Instrumentation Laboratory	TECH	3
+PHY 382	PHY	382	The Quantum Moment: Quantum Mechanics in Philosophy, Culture, and Life (III)	STAS	3
+PHY 390	PHY	390	Special Topics in Physics		3
+PHY 405	PHY	405	Advanced Quantum Physics		3
+PHY 408	PHY	408	Relativity		3
+PHY 420	PHY	420	Introduction to Accelerator Science and Technology		3
+PHY 431	PHY	431	Nuclear and Particle Physics		3
+PHY 444	PHY	444	Experiential Learning	EXP+	0
+PHY 445	PHY	445	Senior Laboratory	ESI SPK	3
+PHY 447	PHY	447	Tutorial in Advanced Topics		1-6
+PHY 451	PHY	451	Quantum Electronics		3
+PHY 452	PHY	452	Atomic Physics and Lasers	TECH	3
+PHY 458	PHY	458	Speak Effectively Before an Audience	SPK	0
+PHY 459	PHY	459	Write Effectively in Physics	WRTD	0
+PHY 472	PHY	472	Solid-State Physics		3
+PHY 475	PHY	475	Undergraduate Teaching Practicum	EXP+	0-3
+PHY 487	PHY	487	Research	EXP+	0-6
+POL 101	POL	101	World Politics	GLO SBS	3
+POL 102	POL	102	Introduction to American Government	SBS USA	3
+POL 103	POL	103	Introduction to Comparative Politics	SBS	3
+POL 201	POL	201	Introduction to Statistical Methods in Political Science	QPS	3
+POL 214	POL	214	Modern Latin America	GLO SBS	3
+POL 216	POL	216	History of U.S.-Latin American Relations	GLO SBS	3
+POL 270	POL	270	Experiments in Political Science	SBS	3
+POL 287	POL	287	Introductory Research in Political Science	ESI	0-3
+POL 305	POL	305	Government and Politics of the United Kingdom	SBS+	3
+POL 307	POL	307	Women in U.S.-Asian Relations	SBS+ SPK	3
+POL 308	POL	308	Women Islam and Political Change in Africa	GLO SBS+	3
+POL 309	POL	309	Politics in the European Union	SBS+	3
+POL 310	POL	310	Immigration and Refugee Politics	DIV SBS+	3
+POL 311	POL	311	Introduction to International Law		3
+POL 313	POL	313	Problems of International Relations	SBS+	3
+POL 317	POL	317	American Election Campaigns	SBS+	3
+POL 318	POL	318	Voters and Elections	SBS+	3
+POL 319	POL	319	Business Law		3
+POL 320	POL	320	Constitutional Law and Politics: United States	SBS+	3
+POL 322	POL	322	The Presidency in the American Political System	SBS+	3
+POL 323	POL	323	U.S. Congress	SBS+	3
+POL 324	POL	324	American Political Parties and Pressure Groups	SBS+	3
+POL 325	POL	325	Civil Liberties and Civil Rights	SBS+	3
+POL 327	POL	327	Urban Politics	SBS+	3
+POL 328	POL	328	Criminal Law	SBS+	3
+POL 330	POL	330	Gender Issues in the Law	DIV SBS+	3
+POL 332	POL	332	Politics of Criminal Due Process	SBS+	3
+POL 333	POL	333	Environmental Law		3
+POL 334	POL	334	Modern Terrorism	SBS+	3
+POL 336	POL	336	U.S. Foreign Policy	SBS+	3
+POL 337	POL	337	The Politics of Africa	SBS+	3
+POL 338	POL	338	Contemporary India: History, Politics, and Diplomacy	GLO SBS+	3
+POL 339	POL	339	Contemporary China: History, Politics, and Diplomacy	GLO SBS+	3
+POL 340	POL	340	America's Wars in Asia	SBS+ WRTD	3
+POL 344	POL	344	American Political Ideology and Public Opinion	SBS+	3
+POL 346	POL	346	Political Psychology	SBS+	3
+POL 347	POL	347	Women and Politics	DIV SBS+	3
+POL 348	POL	348	Political Beliefs and Judgments	SBS+	3
+POL 349	POL	349	Social Psychology and Law	SBS+	3
+POL 350	POL	350	Contemporary European Political Theory	SBS+	3
+POL 351	POL	351	Social Surveys in Contemporary Society	SBS+	3
+POL 352	POL	352	Current Political Events	SBS+	3
+POL 353	POL	353	Contemporary Race Relations in American Politics	DIV SBS+	3
+POL 357	POL	357	India's Foreign Policy	SBS+	3
+POL 359	POL	359	Public Policy Analysis	SBS+	3
+POL 365	POL	365	Economy and Democracy	SBS+	3
+POL 366	POL	366	Press & the Presidency		3
+POL 367	POL	367	Mass Media in American Politics	SBS+	3
+POL 368	POL	368	Social Networks and Politics	SBS+ WRTD	3
+POL 369	POL	369	Introduction to Political Informatics	SBS+ TECH	3
+POL 371	POL	371	Politics of Climate Change	STAS	3
+POL 373	POL	373	The Biology of Politics	SBS+ SNW	3
+POL 374	POL	374	Global Issues in the United Nations	SBS+	3
+POL 375	POL	375	The Political Animal	SBS+ SNW	3
+POL 377	POL	377	Contemporary Political Philosophy (II)	CER HFA+	3
+POL 380	POL	380	Government and Politics of the Middle East	GLO SBS+	3
+POL 390	POL	390	Topics in Political Science		3
+POL 391	POL	391	Topics in Political Science		3
+POL 401	POL	401	Seminar in Advanced Topics		3
+POL 402	POL	402	Seminar in Advanced Topics		3
+POL 403	POL	403	Seminar in Advanced Topics		3
+POL 404	POL	404	Seminar in Advanced Topics		3
+POL 434	POL	434	Supreme Court Decision Making	SBS	3
+POL 444	POL	444	Experiential Learning	EXP+	0
+POL 447	POL	447	Directed Readings in Political Science		1-6
+POL 458	POL	458	Speak Effectively Before an Audience	SPK	0
+POL 459	POL	459	Write Effectively in Political Science	WRTD	0
+POL 475	POL	475	Undergraduate Teaching Practicum I	EXP+	3
+POL 476	POL	476	Undergraduate Teaching Practicum II	EXP+	3
+POL 477	POL	477	Qualitative & Mixed Methods	CER ESI SBS+	3
+POL 487	POL	487	Directed Research	ESI	0-6
+POL 488	POL	488	Internship	EXP+	0-6
+POL 489	POL	489	Washington or Albany Internship	EXP+	1
+POL 490	POL	490	Washington or Albany Seminar	EXP+	3
+POL 495	POL	495	Senior Honors Project in Political Science		3
+POL 496	POL	496	Senior Honors Project in Political Science	ESI WRTD	3
+POR 111	POR	111	Elementary Portuguese I	LANG	4
+POR 112	POR	112	Elementary Portuguese II	LANG	4
+POR 411	POR	411	Portuguese for Spanish Speakers	GLO LANG	3
+PSY 103	PSY	103	Introduction to Psychology	CER SBS	3
+PSY 201	PSY	201	Statistical Methods in Psychology	QPS	3
+PSY 220	PSY	220	Survey in Developmental Psychology	SBS+	3
+PSY 230	PSY	230	Survey in Abnormal and Clinical Psychology	SBS+	3
+PSY 240	PSY	240	Survey in Social Psychology	DIV SBS+	3
+PSY 250	PSY	250	Survey in Biopsychology	SBS+ STEM+	3
+PSY 260	PSY	260	Survey in Cognition and Perception	SBS+ STEM+	3
+PSY 273	PSY	273	Supervised Research in Psychology	EXP+	0-6
+PSY 283	PSY	283	Applications and Community Service	EXP+	1-3
+PSY 301	PSY	301	Advanced Statistics		3
+PSY 310	PSY	310	Research and Writing in Psychology	ESI SPK WRTD	4
+PSY 325	PSY	325	Children's Cognitive Development		3
+PSY 326	PSY	326	Children's Social and Emotional Development		3
+PSY 327	PSY	327	Human Growth and Development in the Educational Context		3
+PSY 329	PSY	329	Special Topics in Developmental Psychology		3
+PSY 333	PSY	333	Mood Disorders		3
+PSY 334	PSY	334	Autism Spectrum Disorders	SBS+	3
+PSY 338	PSY	338	Abnormal Child Psychology		3
+PSY 339	PSY	339	Special Topics in Clinical Psychology		3
+PSY 341	PSY	341	Psychology of Prejudice		3
+PSY 342	PSY	342	Psychology of Women's Health	DIV	3
+PSY 345	PSY	345	Theories of Personality		3
+PSY 346	PSY	346	Health Psychology		3
+PSY 347	PSY	347	Psychology of Women	SBS+	3
+PSY 348	PSY	348	Special Topics in Social Psychology		3
+PSY 349	PSY	349	Special Topics in Social Psychology		3
+PSY 354	PSY	354	Neurobiology of Learning and Memory		3
+PSY 355	PSY	355	Human Brain Function		3
+PSY 356	PSY	356	Physiological Psychology		3
+PSY 357	PSY	357	Animal Learning		3
+PSY 358	PSY	358	Special Topics in Biopsychology		3
+PSY 359	PSY	359	Special Topics in Biopsychology		3
+PSY 364	PSY	364	Judgment and Decision Making		3
+PSY 365	PSY	365	The Psychology of Language		3
+PSY 366	PSY	366	Human Problem Solving		3
+PSY 367	PSY	367	Memory		3
+PSY 368	PSY	368	Sensation and Perception		3
+PSY 369	PSY	369	Special Topics in Cognition and Perception		3
+PSY 375	PSY	375	History and Systems of Psychology		3
+PSY 380	PSY	380	Research Lab: Human Cognition		4
+PSY 382	PSY	382	Research Lab: Social Psychology	ESI WRTD	4
+PSY 386	PSY	386	Research Lab: Cultural Psychology		4
+PSY 389	PSY	389	Research Lab: Special Topics		4
+PSY 399	PSY	399	Junior Honors Seminar	ESI WRTD	1
+PSY 444	PSY	444	Experiential Learning	EXP+	0
+PSY 447	PSY	447	Readings in Psychology		1-6
+PSY 459	PSY	459	Write Effectively in Psychology	WRTD	0
+PSY 475	PSY	475	Undergraduate Teaching Practicum I	EXP+	3
+PSY 476	PSY	476	Undergraduate Teaching Practicum II	EXP+	3
+PSY 487	PSY	487	Independent Research in Psychology	EXP+	0-6
+PSY 488	PSY	488	Internship	EXP+	0-6
+PSY 491	PSY	491	Advanced Seminar in Psychology		1-3
+PSY 492	PSY	492	Advanced Seminar in Psychology		1-3
+PSY 495	PSY	495	Senior Honors Seminar	ESI WRTD	1
+PSY 496	PSY	496	Senior Honors Seminar	ESI WRTD	1
+RLS 101	RLS	101	Western Religions	GLO HUM	3
+RLS 102	RLS	102	Eastern Religions	GLO HUM	3
+RLS 240	RLS	240	Confucianism and Daoism	GLO HUM	3
+RLS 256	RLS	256	Hinduism	GLO HUM	3
+RLS 260	RLS	260	Buddhism	GLO HUM	3
+RLS 270	RLS	270	Christianity	GLO HUM	3
+RLS 280	RLS	280	Islam	GLO HUM	3
+RLS 287	RLS	287	Islam in China	GLO HUM	3
+RLS 366	RLS	366	Feminine Spirituality	HFA+	3
+RLS 367	RLS	367	Meditation and Enlightenment	HFA+	3
+RLS 368	RLS	368	Yoga: Theory and Praxis	HFA+	3
+RLS 380	RLS	380	Islamic Classics	HFA+	3
+RLS 382	RLS	382	Japanese Buddhism	HFA+	3
+RLS 387	RLS	387	Islam and Confucianism	HFA+	3
+RLS 444	RLS	444	Experiential Learning	EXP+	0
+RLS 447	RLS	447	Readings in Religious Studies		1-6
+RLS 459	RLS	459	Write Effectively in Religious Studies	WRTD	0
+RLS 475	RLS	475	Undergraduate Teaching Practicum	EXP+	3
+RUS 101	RUS	101	Intensive Elementary Russian	LANG	6
+RUS 111	RUS	111	Elementary Russian I	LANG	4
+RUS 112	RUS	112	Elementary Russian II	LANG	4
+RUS 211	RUS	211	Intermediate Russian I	GLO LANG	3
+RUS 212	RUS	212	Intermediate Russian II	GLO HUM LANG	3
+RUS 213	RUS	213	Intermediate Russian for Students of Russian-Speaking Background	GLO HUM LANG	3
+RUS 311	RUS	311	Russian Conversation and Composition	HFA+ LANG	3
+RUS 312	RUS	312	Russian Conversation and Composition	HFA+ LANG	3
+RUS 323	RUS	323	Russian Literary Texts	HFA+	3
+RUS 331	RUS	331	Contemporary Russian Literacy	HFA+	3
+RUS 332	RUS	332	Professional Russian		3
+RUS 411	RUS	411	Advanced Russian I (Fourth-year)		3
+RUS 412	RUS	412	Advanced Russian II (Fourth-year)		3
+RUS 439	RUS	439	Structure of Russian	HFA+	3
+RUS 444	RUS	444	Experiential Learning	EXP+	0
+RUS 447	RUS	447	Directed Readings in Russian	EXP+	1-3
+RUS 475	RUS	475	Undergraduate Teaching Practicum in Russian I	EXP+	3
+RUS 476	RUS	476	Undergraduate Teaching Practicum in Russian II	EXP+	3
+RUS 491	RUS	491	Special Author	HFA+	3
+RUS 492	RUS	492	Special Genre or Period	HFA+	3
+RUS 495	RUS	495	Senior Honors Project in Russian	EXP+	3
+SBU 101	SBU	101	Introduction to Stony Brook		1
+SBU 102	SBU	102	Undergraduate College Seminar		1
+SBU 275	SBU	275	Undergraduate College Fellows Seminar		1
+SBU 276	SBU	276	Undergraduate College Fellows Practicum	EXP+	1
+SBU 475	SBU	475	Undergraduate College Teaching Practicum	EXP+	1
+SBU 488	SBU	488	Undergraduate College Internship	EXP+	0-3
+SCH 101	SCH	101	Introduction to Stony Brook		1
+SCH 102	SCH	102	University Scholars Seminar		1
+SCH 275	SCH	275	Scholars Fellows Seminar		1
+SCH 276	SCH	276	Scholars Fellows Practicum	EXP+	1
+SCH 444	SCH	444	Experiential Learning	EXP+	0
+SCH 475	SCH	475	Scholars Teaching Practicum	EXP+	1
+SCH 488	SCH	488	University Scholars Internship	EXP+	0-3
+SCI 410	SCI	410	Pedagogy and Methods for Science Education I		3
+SCI 420	SCI	420	Pedagogy and Methods for Science Education II	CER EXP+ SPK	3
+SCI 447	SCI	447	Directed Readings in Science Education		1-6
+SCI 449	SCI	449	Field Experience, Grades 7-12		1
+SCI 450	SCI	450	Field Experience, Grades 7-12	CER EXP+ SPK	1
+SCI 451	SCI	451	Supervised Teaching-Science: Middle Level Grades 7-9	CER EXP+ SPK	6
+SCI 452	SCI	452	Supervised Teaching-Science: High School Grades 10-12	CER EXP+ SPK	6
+SCI 454	SCI	454	Science Student Teaching Seminar	CER EXP+ SPK	3
+SCI 487	SCI	487	Applied Research	EXP+	0-3
+SKT 111	SKT	111	Elementary Sanskrit I	LANG	4
+SKT 112	SKT	112	Elementary Sanskrit II	LANG	4
+SLN 111	SLN	111	Elementary American Sign Language I	LANG	3
+SLN 112	SLN	112	Elementary American Sign Language II	LANG	3
+SLN 211	SLN	211	Intermediate Sign Language I	GLO LANG	3
+SLN 212	SLN	212	Intermediate Sign Language II	GLO HUM LANG	3
+SLN 475	SLN	475	Undergraduate Teaching Practicum I	EXP+	3
+SLN 476	SLN	476	Undergraduate Teaching Practicum II	EXP+	3
+SOC 105	SOC	105	Introduction to Sociology	SBS	3
+SOC 200	SOC	200	Medicine and Society	SBS	3
+SOC 201	SOC	201	Research Methods in Sociology	ESI	3
+SOC 202	SOC	202	Statistical Methods in Sociology	QPS	3
+SOC 204	SOC	204	Intimate Relationships	SBS	3
+SOC 243	SOC	243	Sociology of Youth	SBS	3
+SOC 247	SOC	247	Sociology of Gender	DIV SBS	3
+SOC 248	SOC	248	Social Problems in Global Perspective	GLO SBS+	3
+SOC 268	SOC	268	Theory and Practice in Student Leadership		3
+SOC 302	SOC	302	American Society	DIV SBS+	3
+SOC 303	SOC	303	Social Inequality	SBS+	3
+SOC 304	SOC	304	Sociology of the Family	SBS+	3
+SOC 309	SOC	309	Social Conflicts and Movements	SBS+	3
+SOC 310	SOC	310	Racism and Ethnic Relations	DIV SBS+	3
+SOC 315	SOC	315	Sociology of Technology	STAS	3
+SOC 323	SOC	323	Urban Society	SBS+	3
+SOC 330	SOC	330	Media and Society	SBS+	3
+SOC 336	SOC	336	Social Change	SBS+	3
+SOC 337	SOC	337	Social Deviance	SBS+	3
+SOC 338	SOC	338	The Sociology of Crime	SBS+	3
+SOC 339	SOC	339	Sociology of Alcoholism and Drug Abuse	SBS+	3
+SOC 340	SOC	340	Sociology of Human Reproduction	STAS	3
+SOC 344	SOC	344	Environmental Sociology	GLO SBS+	3
+SOC 348	SOC	348	Global Sociology	GLO SBS+	3
+SOC 352	SOC	352	Sociology of Religion	SBS+	3
+SOC 356	SOC	356	Political Sociology	SBS+	3
+SOC 361	SOC	361	Historical Development of Sociological Theory	SBS+ WRTD	3
+SOC 362	SOC	362	Contemporary Sociological Theory	SBS+	3
+SOC 364	SOC	364	Sociology of Latin America	SBS+	3
+SOC 365	SOC	365	Global Africa	GLO SBS+	3
+SOC 371	SOC	371	Gender and Work	SBS+	3
+SOC 374	SOC	374	Global Issues in the United Nations	SBS+	3
+SOC 378	SOC	378	War and the Military	SBS+	3
+SOC 380	SOC	380	Social Psychology	SBS+	3
+SOC 381	SOC	381	Sociology of Organizations	SBS+	3
+SOC 384	SOC	384	Sociology of the Life Course	SBS+	3
+SOC 386	SOC	386	State and Society in the Middle East	SBS+	3
+SOC 388	SOC	388	Sociology of Islam	GLO SBS+	3
+SOC 390	SOC	390	Special Topics	SBS+	3
+SOC 391	SOC	391	Special Topics	SBS+	3
+SOC 392	SOC	392	Special Topics	SBS+	3
+SOC 393	SOC	393	Special Topics in Health, Medicine, and Social Change	SBS+	3
+SOC 394	SOC	394	Special Topics, Experiential Learning	EXP+ SBS+	3
+SOC 395	SOC	395	Topics in Science, Technology, and Society	STAS	3
+SOC 444	SOC	444	Experiential Learning	EXP+	0
+SOC 447	SOC	447	Independent Readings		1-6
+SOC 458	SOC	458	Speak Effectively Before an Audience	SPK	0
+SOC 459	SOC	459	Write Effectively in Sociology	WRTD	0
+SOC 475	SOC	475	Undergraduate Teaching Practicum I	EXP+	3
+SOC 476	SOC	476	Undergraduate Teaching Practicum II	EXP+	3
+SOC 487	SOC	487	Independent Research	EXP+	0-6
+SOC 488	SOC	488	Internship	EXP+	0-6
+SOC 495	SOC	495	Senior Honors Project I		3
+SOC 496	SOC	496	Senior Honors Project II		3
+SPN 111	SPN	111	Elementary Spanish I	LANG	4
+SPN 112	SPN	112	Elementary Spanish II	LANG	4
+SPN 211	SPN	211	Intermediate Spanish I	GLO LANG	3
+SPN 212	SPN	212	Intermediate Spanish II	GLO HUM LANG	3
+SPN 213	SPN	213	Intermediate Spanish for Speakers of Spanish	GLO HUM LANG	3
+SPN 214	SPN	214	Intermediate Medical Spanish I	DIV LANG	3
+SPN 215	SPN	215	Intermediate Medical Spanish II	LANG	3
+SPN 310	SPN	310	Spanish Grammar and Composition for Students of Hispanic-American Background	DIV HFA+ LANG	3
+SPN 311	SPN	311	Spanish Conversation and Composition	DIV HFA+ LANG	3
+SPN 312	SPN	312	Introduction to Literary Studies	HFA+ SPK	3
+SPN 321	SPN	321	Advanced Spanish Grammar and Composition	CER HFA+ WRTD	3
+SPN 322	SPN	322	Practical Spanish	HFA+	3
+SPN 323	SPN	323	Advanced Spanish Conversation	HFA+ LANG	3
+SPN 384	SPN	384	Introduction to Latin American Literature and Culture I	DIV GLO HFA+	3
+SPN 385	SPN	385	Introduction to Latin American Literature and Culture II	DIV GLO HFA+	3
+SPN 386	SPN	386	Introduction to Latin American Literature and Culture III	DIV GLO HFA+	3
+SPN 387	SPN	387	Introduction to Spanish Literature and Culture I	GLO HFA+	3
+SPN 388	SPN	388	Introduction to Spanish Literature and Culture II	GLO HFA+	3
+SPN 389	SPN	389	Introduction to Spanish Literature and Culture III	DIV GLO HFA+	3
+SPN 390	SPN	390	Communication, Media and Journalism in Spanish	GLO HFA+	3
+SPN 391	SPN	391	The Culture and Civilization of Spain	GLO HFA+	3
+SPN 392	SPN	392	The Culture and Civilization of Latin America	GLO HFA+	3
+SPN 393	SPN	393	Introduction to Hispanic Linguistics	SBS	3
+SPN 405	SPN	405	Issues in Hispanic Cultural Studies	ESI HFA+	3
+SPN 410	SPN	410	Theory in Contexts	ESI HFA+	3
+SPN 415	SPN	415	Hispanic Cultures in Contact	ESI HFA+	3
+SPN 420	SPN	420	Topics in Spanish and Latin American Cinema	ARTS HFA+	3
+SPN 435	SPN	435	Topics in Latin American Literature from the Colonial Period to the Present	ESI HFA+	3
+SPN 443	SPN	443	Medical Spanish Experiential Learning	EXP+	0-3
+SPN 444	SPN	444	Experiential Learning	EXP+	0
+SPN 445	SPN	445	Topics in Spanish Literature from the Middle Ages to the Present	ESI HFA+	3
+SPN 447	SPN	447	Directed Readings	EXP+	1-6
+SPN 458	SPN	458	Speak Effectively Before an Audience	SPK	0
+SPN 459	SPN	459	Write Effectively in Spanish	WRTD	0
+SPN 463	SPN	463	Contrastive Spanish-English Grammar		3
+SPN 465	SPN	465	Topics in Hispanic Linguistics	HFA+	3
+SPN 475	SPN	475	Undergraduate Teaching Practicum I in Spanish	EXP+	3
+SPN 476	SPN	476	Undergraduate Teaching Practicum in Spanish II	EXP+	3
+SPN 488	SPN	488	Internship	EXP+	0-6
+SPN 495	SPN	495	Spanish Senior Honors	EXP+	3
+SSE 100	SSE	100	Economics for Social Studies Teachers	SBS	3
+SSE 350	SSE	350	Foundations of Education		3
+SSE 397	SSE	397	Teaching Social Studies		3
+SSE 398	SSE	398	Social Studies Teaching Strategies	CER EXP+ SPK	3
+SSE 400	SSE	400	Experiential Learning, Speak Effectively, Practice Critical and Ethical Reasoning	CER EXP+ SPK	0
+SSE 447	SSE	447	Directed Readings in Social Studies Education		1-3
+SSE 449	SSE	449	Field Experience, Grades 7-12	EXP+	1
+SSE 450	SSE	450	Field Experience, Grades 7-12	CER EXP+ SPK	1
+SSE 451	SSE	451	Supervised Student Teaching -- Middle Level Grades 7-9	CER EXP+ SPK	6
+SSE 452	SSE	452	Supervised Student Teaching-High School Grades 10-12	CER EXP+ SPK	6
+SSE 454	SSE	454	Student Teaching Seminar	CER EXP+ SPK	3
+SSE 475	SSE	475	Undergrad Teachng Practicum I	EXP+	3
+SSE 476	SSE	476	Undergrad Teachng Practicum II	EXP+	3
+SSE 487	SSE	487	Independent Project in Social Sciences Education		0-6
+SUS 111	SUS	111	Introduction to Sustainability	SNW	3
+SUS 113	SUS	113	Physical Geography Lecture	SNW	3
+SUS 114	SUS	114	Physical Geography Lab		1
+SUS 115	SUS	115	Introduction to Human Demography	SBS	3
+SUS 117	SUS	117	Design Drawing	TECH	3
+SUS 121	SUS	121	Climate Change: Science, Impacts, Justice, and Solutions	STAS	3
+SUS 200	SUS	200	Human Settlement: History and Future	SBS	3
+SUS 201	SUS	201	Systems and Models	TECH	3
+SUS 202	SUS	202	Introduction to Environmental Humanities	HUM	3
+SUS 203	SUS	203	Interpretation and Critical Analysis	CER HUM WRTD	3
+SUS 204	SUS	204	Population Studies	STEM+	3
+SUS 206	SUS	206	Economics and Sustainability	SBS+	3
+SUS 301	SUS	301	Technical Writing and Communication	SPK	3
+SUS 302	SUS	302	Integrative Assessment Models		3
+SUS 305	SUS	305	Collective Action and Advocacy	SBS+	3
+SUS 306	SUS	306	Business and Sustainability		3
+SUS 307	SUS	307	Environmental Economics and Management	STAS	3
+SUS 308	SUS	308	Economic Development		3
+SUS 311	SUS	311	Disasters and Society: A Global Perspective	STAS	3
+SUS 314	SUS	314	Civilizations and Collapse	GLO	3
+SUS 316	SUS	316	Cuba and Sustainability	EXP+ GLO HUM	3
+SUS 317	SUS	317	American Environmental History	SBS+ USA	3
+SUS 318	SUS	318	American Environmental Politics	SBS+	3
+SUS 319	SUS	319	Restoration Ecology	STEM+	3
+SUS 320	SUS	320	Utopia and Dystopia and the Environment in Literature and Culture	HFA+	3
+SUS 321	SUS	321	Ecology and Evolution in American Literature	HFA+ WRTD	3
+SUS 322	SUS	322	Human Ecology	STEM+	3
+SUS 323	SUS	323	Environmental Justice	CER STAS WRTD	3
+SUS 324	SUS	324	Human Geography and the Environment	SBS+	3
+SUS 325	SUS	325	Environmental Writing and the Media	HFA+ WRTD	3
+SUS 326	SUS	326	Conservation Genetics	STEM+	3
+SUS 328	SUS	328	Ecofeminism, Literature & Film	HFA+ WRTD	3
+SUS 329	SUS	329	Environmental Film, Media, Arts	HFA+	3
+SUS 340	SUS	340	Ecological and Social Dimensions of Disease	STAS	3
+SUS 342	SUS	342	Energy and Mineral Resources	STAS	3
+SUS 343	SUS	343	Age of the Anthropocene	STAS	3
+SUS 344	SUS	344	Sustainable Natural Resources	STAS	3
+SUS 350	SUS	350	Contemporary Topics in Sustainability		3
+SUS 351	SUS	351	Design and Implement a Research Project in Ecotoxicology	EXP+ STEM+	3
+SUS 352	SUS	352	Conduct and Communicate a Research Project in Ecotoxicology	EXP+	3
+SUS 354	SUS	354	Drawing for Design--CAD	STEM+	3
+SUS 362	SUS	362	Resilient Communities		3
+SUS 366	SUS	366	Philosophy of the Environment (III)	CER HFA+	3
+SUS 374	SUS	374	Environment and Development in African History	GLO SBS+	3
+SUS 386	SUS	386	The Maya	SBS+	3
+SUS 390	SUS	390	Environmental Humanities Capstone	ESI HFA+	3
+SUS 401	SUS	401	Integrative, Collaborative Systems Studies	ESI	3
+SUS 405	SUS	405	Environmental Sustainability in Tanzania	EXP+ GLO	3
+SUS 444	SUS	444	Experiential Learning	EXP+	0
+SUS 459	SUS	459	Write Effectively in Sustainability	WRTD	0
+SUS 475	SUS	475	Undergraduate Teaching Practicum	EXP+	0-3
+SUS 476	SUS	476	Undergraduate Teaching Practicum II	EXP+	3
+SUS 487	SUS	487	Research in Sustainability	EXP+	0-6
+SUS 488	SUS	488	Internship in Sustainability Studies	EXP+	0-1
+SWA 101	SWA	101	Intensive Elementary Swahili	LANG	6
+THR 100	THR	100	Performing and Performance	ARTS	3
+THR 101	THR	101	Introduction to Theatre Arts	ARTS	3
+THR 103	THR	103	Introduction to Theatre Design	ARTS	3
+THR 104	THR	104	Play Analysis	HUM	3
+THR 105	THR	105	Acting I	ARTS	3
+THR 107	THR	107	The Broadway Musical	ARTS	3
+THR 110	THR	110	Public Speaking	SPK	3
+THR 111	THR	111	Shop Safety		1
+THR 115	THR	115	Stagecraft	TECH	4
+THR 117	THR	117	Media: Analysis and Culture		3
+THR 200	THR	200	Theatre Practicum I		0-3
+THR 201	THR	201	Theatre History I: Greeks to Moliere	HFA+	3
+THR 202	THR	202	Theatre History II: Restoration to the 20th Century	HFA+	3
+THR 205	THR	205	Acting II		3
+THR 207	THR	207	The Theatre of Baseball	ARTS	3
+THR 214	THR	214	Theatre in New York	ARTS	3
+THR 215	THR	215	Introduction to Design		3
+THR 216	THR	216	Introduction to Visual Interpretation	ARTS	3
+THR 224	THR	224	Experimental Studio	ARTS EXP+	3
+THR 230	THR	230	Voice for the Actor		3
+THR 232	THR	232	Improvisation		3
+THR 245	THR	245	Movement for Actors		3
+THR 246	THR	246	Stage Lighting		3
+THR 277	THR	277	The Media Industry		3
+THR 291	THR	291	Marketing for the Arts and Performing Arts		3
+THR 298	THR	298	Student Media Leadership		1
+THR 300	THR	300	Theatre Practicum II		0-3
+THR 301	THR	301	Stage Management Laboratory		1
+THR 303	THR	303	Costume Crafts Laboratory		1
+THR 304	THR	304	Arts Marketing	EXP+	3
+THR 305	THR	305	Lighting and Sound Laboratory		1
+THR 306	THR	306	Stagecraft Laboratory		1
+THR 307	THR	307	Performance Laboratory		0-3
+THR 308	THR	308	Prevention Through the Arts		3
+THR 309	THR	309	Prevention Through the Arts II		3
+THR 312	THR	312	American Theatre and Drama	DIV HFA+ WRTD	3
+THR 313	THR	313	Asian Theatre and Drama	HFA+	3
+THR 315	THR	315	Topics in Theatre History & Theory: The Classical Age	HFA+	3
+THR 316	THR	316	Topics in Theatre History & Theory: The Modern Era	HFA+	3
+THR 319	THR	319	AIDS Drama, 1980s & 90s	HFA+	3
+THR 320	THR	320	Production I		3
+THR 321	THR	321	Production II		3
+THR 322	THR	322	Acting III		3
+THR 323	THR	323	Costume Design		3
+THR 325	THR	325	Screenwriting	ARTS	3
+THR 326	THR	326	Playwriting	ARTS	3
+THR 334	THR	334	Performance Art I: The European Avant-Garde	HFA+	3
+THR 335	THR	335	The Musicals of Stephen Sondheim	ARTS	3
+THR 336	THR	336	Stage Management		3
+THR 337	THR	337	Advanced Technical Theatre	TECH	3
+THR 344	THR	344	Performance Art II: World War II to the Present	HFA+	3
+THR 346	THR	346	Lighting Design		3
+THR 351	THR	351	Special Topics in Performance		3
+THR 352	THR	352	Special Topics in Performance		3
+THR 354	THR	354	Topics in Theatre		3
+THR 355	THR	355	Media and Production Design for Theatre		3
+THR 356	THR	356	Scene Design		3
+THR 380	THR	380	Creative Process in Theatre I		3
+THR 381	THR	381	Creative Process in Theatre II		3
+THR 401	THR	401	Senior Seminar	ESI	3
+THR 403	THR	403	Media: Theory and Criticism		3
+THR 406	THR	406	Eastern Styles in Acting		3
+THR 438	THR	438	Directing I		3
+THR 439	THR	439	Directing II		3
+THR 444	THR	444	Experiential Learning	EXP+	0
+THR 447	THR	447	Readings In Theatre Arts		3
+THR 458	THR	458	Speak Effectively Before an Audience	SPK	0
+THR 459	THR	459	Write Effectively in Theatre Arts	WRTD	0
+THR 475	THR	475	Undergraduate Teaching Practicum I	EXP+	3
+THR 476	THR	476	Undergraduate Teaching Practicum II	EXP+	3
+THR 480	THR	480	Projects in Media		0-3
+THR 483	THR	483	Projects in Theatrical Design		0-3
+THR 484	THR	484	Projects in Theater		3
+THR 487	THR	487	Independent Research		0-6
+THR 488	THR	488	Internship	EXP+	0-6
+TRK 101	TRK	101	Intensive Elementary Turkish	LANG	6
+TRK 111	TRK	111	Elementary Turkish I	LANG	3
+TRK 112	TRK	112	Elementary Turkish II	LANG	3
+TVW 220	TVW	220	Advanced TV Writing	HFA+ WRTD	3
+TVW 221	TVW	221	The Writers Room	HFA+ WRTD	3
+UKR 111	UKR	111	Elementary Ukrainian I	LANG	4
+VIP 102	VIP	102	Vertically Integrated Project Exploration		1
+VIP 295	VIP	295	Introductory Multidisciplinary Project		1
+VIP 395	VIP	395	Intermediate Multidisciplinary Project	EXP+	1
+VIP 396	VIP	396	Intermediate Multidisciplinary Project Practicum		1
+VIP 487	VIP	487	Advanced Project Experience		0
+VIP 495	VIP	495	Advanced Multidisciplinary Project	EXP+	1
+VIP 496	VIP	496	Advanced Multidisciplinary Project Practicum		1-2
+WAE 190	WAE	190	Intermediate Writing Academic English		3
+WAE 192	WAE	192	High Intermediate Writing Academic English		3
+WAE 194	WAE	194	Advanced Writing Academic English		3
+WRT 101	WRT	101	Introductory Writing Workshop	WRT	3
+WRT 102	WRT	102	Intermediate Writing Workshop	WRT	3
+WRT 200	WRT	200	Grammar and Style for Writers		3
+WRT 201	WRT	201	Principles of Professional Writing		3
+WRT 206	WRT	206	Writing about African-American Literature and History	DIV HUM	3
+WRT 301	WRT	301	Writing in the Disciplines: Special Topics		3
+WRT 302	WRT	302	Critical Writing Seminar: Special Topics	HFA+	3
+WRT 303	WRT	303	The Personal Essay		3
+WRT 304	WRT	304	Writing for Your Profession		3
+WRT 305	WRT	305	Writing for the Health Professions	ESI	3
+WRT 306	WRT	306	Tutor Training	EXP+	3
+WRT 375	WRT	375	Technical Communication	SPK	3
+WRT 380	WRT	380	Advanced Research Writing: Theories, Methods, Practices	ESI	3
+WRT 381	WRT	381	Advanced Analytic and Argumentative Writing	ESI	3
+WRT 382	WRT	382	Grant Writing	ESI	3
+WRT 392	WRT	392	Theories and Methods of Mentoring Writers		3
+WRT 444	WRT	444	Experiential Learning	EXP+	0
+WRT 458	WRT	458	Speak Effectively Before an Audience	SPK	0
+WRT 459	WRT	459	Write Effectively in a Discipline	WRTD	0
+WRT 487	WRT	487	Independent Project		0-6
+WRT 488	WRT	488	Internship	EXP+	0-6
+WSE 105	WSE	105	Opportunities in STEM and Beyond	GLO	1
+WSE 201	WSE	201	Society and Gender in STEM	DIV HUM GLO	3
+WSE 205	WSE	205	Career Planning in STEM		1
+WSE 380	WSE	380	Research and Discovery in STEM	TECH	3
+WSE 381	WSE	381	Service-Learning in STEM	SBS	1
+WSE 401	WSE	401	Women's Leadership in STEM	STAS	1
+WSE 405	WSE	405	Life Design in STEM		1
+WSE 475	WSE	475	Teaching Practicum		0-3
+WSE 477	WSE	477	Mentoring/Leadership Practicum		0-3
+WSE 487	WSE	487	Research Practicum	EXP+	0-3
+WSE 488	WSE	488	Internship Practicum	EXP+	0-3
+WSE 495	WSE	495	WISE Honors Project/Thesis I	CER ESI EXP+ SPK WRTD	3
+WSE 496	WSE	496	WISE Honors Project/Thesis II	CER ESI EXP+ SPK WRTD	3
+WST 102	WST	102	Introduction to Women's and Gender Studies in the Social Sciences	CER DIV SBS	3
+WST 103	WST	103	Women, Culture, and Difference	CER DIV HUM	3
+WST 111	WST	111	Introduction to Queer Studies in the Humanities	CER DIV HUM	3
+WST 112	WST	112	Introduction to Queer Studies in the Social Sciences	CER DIV SBS	3
+WST 210	WST	210	Contemporary Issues in Women's and Gender Studies	CER DIV SBS+	3
+WST 237	WST	237	Images of Italian-American Women	DIV HUM USA	3
+WST 247	WST	247	Sociology of Gender	DIV SBS	3
+WST 276	WST	276	Feminism: Literature and Cultural Contexts	DIV HUM	3
+WST 282	WST	282	Contemporary Caribbean Women's Literature	DIV GLO HUM	3
+WST 284	WST	284	Introduction to Feminist Theory (III)	CER HUM	3
+WST 287	WST	287	Research in Women's and Gender Studies		0-6
+WST 291	WST	291	Introduction to Feminist Theory	DIV ESI HFA+	3
+WST 301	WST	301	Histories of Feminism	DIV SBS+	3
+WST 305	WST	305	Feminist Theories in Context	HFA+	3
+WST 310	WST	310	Contemporary Feminist Issues	SBS+	3
+WST 314	WST	314	Music, Gender, and Sexuality	SBS+	3
+WST 315	WST	315	Gender and Sexuality in Ancient Greek Literature	HFA+	3
+WST 320	WST	320	Women in Judaism	SBS+	3
+WST 323	WST	323	Women of Color in the U.S.	DIV SBS+	3
+WST 330	WST	330	Gender Issues in the Law	DIV SBS+	3
+WST 331	WST	331	Japanese Literature in the Feminine Domain	HFA+	3
+WST 334	WST	334	Women and Gender in Modern European History	SBS+	3
+WST 340	WST	340	Sociology of Human Reproduction	STAS	3
+WST 347	WST	347	Women and Politics	DIV SBS+	3
+WST 350	WST	350	Black Women and Social Change: A Cross-Cultural Perspective	SBS+	3
+WST 360	WST	360	Women and Gender in Pre-Modern European History	SBS+	3
+WST 371	WST	371	Gender and Work	SBS+	3
+WST 372	WST	372	Topics in Women and Literature	HFA+	3
+WST 374	WST	374	Historical Perspectives on Gender Orientation	DIV SBS+	3
+WST 377	WST	377	Psychology of Women	SBS+	3
+WST 381	WST	381	AIDS, Race, and Gender in the Black Community	SBS+	3
+WST 382	WST	382	Black Women's Literature of the African Diaspora	DIV HFA+	3
+WST 384	WST	384	Advanced Topics in Feminist Philosophy (III)	CER HFA+	3
+WST 390	WST	390	Special Topics in Women's and Gender Studies in the Humanities	HFA+	3
+WST 391	WST	391	Special Topics in Women's and Gender Studies in the Humanities	HFA+	3
+WST 392	WST	392	Special Topics in Women and Science	DIV STAS	3
+WST 394	WST	394	Special Topics in Medicine, Reproduction, and Gender	STAS	3
+WST 395	WST	395	Topics in Global Feminism	DIV GLO SBS+	3
+WST 396	WST	396	Special Topics in the History of American Women	SBS+	3
+WST 397	WST	397	Social Sciences Topics in Women's and Gender Studies	GLO SBS+	3
+WST 398	WST	398	Topics in Gender, Race, and Ethnicity	DIV SBS+	3
+WST 399	WST	399	Topics in Gender and Sexuality	DIV HFA+	3
+WST 401	WST	401	Seminar in Women's and Gender Studies		3
+WST 402	WST	402	Seminar in Women's and Gender Studies		3
+WST 407	WST	407	Senior Research Seminar for Women's and Gender Studies Minors	EXP+ SPK WRTD	3
+WST 408	WST	408	Senior Research Seminar for Women's and Gender Studies Majors	EXP+ SPK WRTD	3
+WST 444	WST	444	Experiential Learning	EXP+	0
+WST 447	WST	447	Directed Readings in Women's and Gender Studies		1-3
+WST 458	WST	458	Speak Effectively Before an Audience	SPK	0
+WST 459	WST	459	Write Effectively in Women's Studies	WRTD	0
+WST 475	WST	475	Undergraduate Teaching Practicum I	EXP+	3
+WST 476	WST	476	Undergraduate Teaching Practicum in Women's and Gender Studies II	EXP+	3
+WST 487	WST	487	Independent Project in Women's and Gender Studies		0-6
+WST 488	WST	488	Internship	EXP+	0-6
+WST 495	WST	495	Senior Honors Project in Women's and Gender Studies	WRTD	3
+WST 496	WST	496	Senior Honors Project in Women's and Gender Studies	WRTD	3
